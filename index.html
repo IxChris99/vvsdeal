@@ -141,6 +141,29 @@
   .usp-item { display: flex; align-items: center; gap: 10px; font-weight: 600; font-size: .9rem; color: var(--navy); }
   .usp-item svg { width: 22px; height: 22px; flex-shrink: 0; }
 
+  /* ---------- Kategorier ---------- */
+  .categories { background: var(--bg); }
+  .cat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 16px; }
+  .cat-tile {
+    position: relative; border-radius: var(--radius); overflow: hidden;
+    aspect-ratio: 1 / 1; background: #fff; border: 1px solid var(--line);
+    display: flex; align-items: center; justify-content: center;
+    text-decoration: none; cursor: pointer; box-shadow: var(--shadow);
+    transition: transform .2s, box-shadow .2s;
+  }
+  .cat-tile:hover { transform: translateY(-5px); box-shadow: var(--shadow-hover); }
+  .cat-tile img {
+    max-width: 76%; max-height: 60%; object-fit: contain;
+    mix-blend-mode: multiply; transition: transform .3s;
+  }
+  .cat-tile:hover img { transform: scale(1.07); }
+  .cat-tile .cat-label {
+    position: absolute; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(0deg, rgba(14,58,92,.94) 10%, rgba(14,58,92,0));
+    color: #fff; font-weight: 700; font-size: .88rem;
+    padding: 30px 12px 12px; text-align: center; letter-spacing: -.2px;
+  }
+
   /* ---------- Sections ---------- */
   section { padding: 64px 0; }
   .section-head { text-align: center; max-width: 720px; margin: 0 auto 30px; }
@@ -576,6 +599,18 @@
   </div>
 </div>
 
+<!-- Kategorier -->
+<section class="categories">
+  <div class="container">
+    <div class="section-head">
+      <div class="kicker">Find det rette</div>
+      <h2>Shop efter kategori</h2>
+      <p>Klik på en kategori og spring direkte til de produkter, der matcher dit projekt.</p>
+    </div>
+    <div class="cat-grid" id="catGrid"></div>
+  </div>
+</section>
+
 <!-- Produkter -->
 <section id="produkter">
   <div class="container">
@@ -951,6 +986,17 @@ function initUI() {
     colSel.insertAdjacentHTML("beforeend", `<option value="${f}">${fx}${f} (${antal})</option>`);
   });
 
+  // Kategori-billedfliser
+  const catGrid = document.getElementById("catGrid");
+  catGrid.innerHTML = Object.entries(KATEGORI_NAVNE).map(([k, navn]) => {
+    const kandidater = PRODUKTER.filter(p => p.cat === k && p.billede && p.lager).sort((a, b) => b.pris - a.pris);
+    if (!kandidater.length) return "";
+    return `<a class="cat-tile" data-cat="${k}" href="#produkter">
+      <img src="${kandidater[0].billede}" alt="" loading="lazy">
+      <div class="cat-label">${navn}</div>
+    </a>`;
+  }).join("");
+
   // Kategori-faner
   const filters = document.getElementById("filters");
   filters.innerHTML = `<button class="filter-tab active" data-cat="alle">Alle (${PRODUKTER.length})</button>` +
@@ -1155,6 +1201,18 @@ function visFlere() {
   visAntal += VIS_AD_GANGEN;
   renderProdukter();
 }
+
+document.getElementById("catGrid").addEventListener("click", e => {
+  const tile = e.target.closest(".cat-tile");
+  if (!tile) return;
+  e.preventDefault();
+  aktivKategori = tile.dataset.cat;
+  document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === aktivKategori));
+  visAntal = VIS_AD_GANGEN;
+  opdaterTypeDropdown();
+  renderProdukter();
+  document.getElementById("produkter").scrollIntoView({ behavior: "smooth" });
+});
 
 document.getElementById("filters").addEventListener("click", e => {
   if (!e.target.matches(".filter-tab")) return;
