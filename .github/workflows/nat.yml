@@ -17,7 +17,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 320
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
 
@@ -31,9 +31,9 @@ jobs:
       - name: Efterbehandling (danske navne, fragt, komprimering)
         run: python efterbehandl.py
 
-      - name: Pristest (800 varer, nye + ældst tjekkede)
+      - name: Pristest (2000 varer, nye + ældst tjekkede)
         continue-on-error: true   # konkurrenterne kan blokere datacenter-IP'er
-        run: python pristester.py --antal 800 --nye --opdater
+        run: python pristester.py --antal 2000 --nye --opdater
 
       - name: Genberegn priser (10% under konkurrent, gulv Rocky+12%)
         run: python genberegn_priser.py
