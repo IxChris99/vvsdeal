@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>VVSdeal — Alt til bad &amp; køkken i tysk kvalitet</title>
 <meta name="description" content="Armaturer, badmøbler, brusekabiner, badekar og køkkenarmaturer fra Hansgrohe, Grohe, Burgbad m.fl. Tysk kvalitet — leveret i Danmark.">
+<link rel="icon" type="image/png" href="/favicon.png">
 <style>
   :root {
     --navy: #0e3a5c;
@@ -52,12 +53,7 @@
     font-size: 1.32rem; font-weight: 800; color: var(--navy);
     text-decoration: none; white-space: nowrap; letter-spacing: -.3px;
   }
-  .logo .logo-mark {
-    width: 38px; height: 38px; border-radius: 10px;
-    background: linear-gradient(135deg, var(--navy) 0%, #1d6296 100%);
-    display: flex; align-items: center; justify-content: center;
-  }
-  .logo .logo-mark svg { width: 22px; height: 22px; }
+  .logo .logo-mark { width: 38px; height: 38px; object-fit: contain; }
   .nav-links { display: flex; gap: 26px; list-style: none; align-items: center; }
   .nav-links a { text-decoration: none; color: var(--text); font-weight: 600; font-size: .94rem; }
   .nav-links a:hover { color: var(--accent); }
@@ -587,12 +583,8 @@
 <!-- Header -->
 <header>
   <nav class="nav">
-    <a href="#" class="logo">
-      <span class="logo-mark">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M12 2.5s5.5 6.2 5.5 10.3a5.5 5.5 0 0 1-11 0C6.5 8.7 12 2.5 12 2.5z" fill="#fff" stroke="none"/>
-        </svg>
-      </span>
+    <a href="/" class="logo">
+      <img src="/logo-icon.png" alt="VVSdeal" class="logo-mark">
       VVSdeal
     </a>
     <button class="burger" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
