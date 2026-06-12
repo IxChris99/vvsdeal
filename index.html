@@ -13,6 +13,7 @@
     --accent: #ff7a1a;
     --accent-dark: #e26405;
     --green: #1f9d55;
+    --sale: #e1251b;
     --text: #21303d;
     --text-light: #64748b;
     --line: #e4ebf2;
@@ -164,6 +165,56 @@
     padding: 30px 12px 12px; text-align: center; letter-spacing: -.2px;
   }
 
+  /* ---------- Dagens tilbud ---------- */
+  .deals { background: #fff; border-bottom: 1px solid var(--line); }
+  .deals-scroll {
+    display: flex; gap: 14px; overflow-x: auto; padding-bottom: 6px;
+    scroll-snap-type: x mandatory; -ms-overflow-style: none; scrollbar-width: thin;
+  }
+  .deal-card {
+    flex: 0 0 190px; scroll-snap-align: start; text-decoration: none; color: var(--text);
+    background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+    overflow: hidden; transition: transform .18s, box-shadow .18s;
+  }
+  .deal-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
+  .deal-img {
+    position: relative; aspect-ratio: 1 / .82; display: flex;
+    align-items: center; justify-content: center; padding: 12px; border-bottom: 1px solid var(--line);
+  }
+  .deal-img img { max-height: 100%; object-fit: contain; mix-blend-mode: multiply; }
+  .deal-pct {
+    position: absolute; top: 10px; left: 10px; background: var(--sale); color: #fff;
+    font-size: .72rem; font-weight: 800; padding: 4px 9px; border-radius: 999px;
+  }
+  .deal-body { padding: 10px 12px 14px; }
+  .deal-body .name {
+    font-size: .82rem; font-weight: 600; color: var(--navy); line-height: 1.35;
+    margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .deal-body .price { font-weight: 800; color: var(--sale); font-size: 1.05rem; }
+  .deal-body .old { font-size: .8rem; color: var(--text-light); text-decoration: line-through; margin-left: 6px; }
+
+  /* ---------- Shop layout (kategori-sidebar) ---------- */
+  .shop-layout { display: grid; grid-template-columns: 230px 1fr; gap: 20px; align-items: start; }
+  .cat-sidebar {
+    background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 10px; position: sticky; top: 86px;
+  }
+  .cat-side-item {
+    display: flex; justify-content: space-between; align-items: center; gap: 8px;
+    padding: 9px 12px; border-radius: 8px; font-size: .87rem; font-weight: 600;
+    color: var(--text); cursor: pointer; text-decoration: none; transition: background .15s;
+  }
+  .cat-side-item:hover { background: var(--bg); }
+  .cat-side-item.active { background: var(--navy); color: #fff; }
+  .cat-side-item .n { color: var(--text-light); font-size: .78rem; font-weight: 600; }
+  .cat-side-item.active .n { color: #cfe2f0; }
+  @media (min-width: 901px) { .shop-controls .filters { display: none; } }
+  @media (max-width: 900px) {
+    .shop-layout { grid-template-columns: 1fr; }
+    .cat-sidebar { display: none; }
+  }
+
   /* ---------- Sections ---------- */
   section { padding: 64px 0; }
   .section-head { text-align: center; max-width: 720px; margin: 0 auto 30px; }
@@ -225,7 +276,7 @@
   .product-img img { max-height: 100%; object-fit: contain; mix-blend-mode: multiply; }
   .badge {
     position: absolute; top: 12px; left: 12px;
-    background: var(--accent); color: #fff;
+    background: var(--sale); color: #fff;
     font-size: .7rem; font-weight: 800; padding: 4px 10px;
     border-radius: 999px; text-transform: uppercase; letter-spacing: .5px;
   }
@@ -599,6 +650,17 @@
   </div>
 </div>
 
+<!-- Dagens tilbud -->
+<section class="deals">
+  <div class="container">
+    <div class="section-head" style="margin-bottom:18px">
+      <div class="kicker">Populært lige nu</div>
+      <h2>Kundernes favoritter</h2>
+    </div>
+    <div class="deals-scroll" id="dealsRow"></div>
+  </div>
+</section>
+
 <!-- Kategorier -->
 <section class="categories">
   <div class="container">
@@ -621,39 +683,44 @@
     </div>
     <div class="data-stamp" id="dataStamp"></div>
 
-    <div class="shop-controls">
-      <div class="controls-row">
-        <div class="search-box">
-          <svg viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.5-4.5"/></svg>
-          <input type="search" id="searchInput" placeholder="Søg produkt, mærke eller varenummer…">
+    <div class="shop-layout">
+      <aside class="cat-sidebar" id="catSidebar"></aside>
+      <div class="shop-main">
+        <div class="shop-controls">
+          <div class="controls-row">
+            <div class="search-box">
+              <svg viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.5-4.5"/></svg>
+              <input type="search" id="searchInput" placeholder="Søg produkt, mærke eller varenummer…">
+            </div>
+            <select class="control" id="typeSelect"><option value="">Alle produkttyper</option></select>
+            <select class="control" id="brandSelect"><option value="">Alle mærker</option></select>
+            <select class="control" id="colorSelect"><option value="">Alle farver</option></select>
+            <select class="control" id="sortSelect">
+              <option value="pop">Mest populære</option>
+              <option value="trend">🔥 Trender nu</option>
+              <option value="prisAsc">Pris: lav → høj</option>
+              <option value="prisDesc">Pris: høj → lav</option>
+              <option value="spar">Spar mest %</option>
+              <option value="navn">Navn A–Å</option>
+            </select>
+            <div class="range-inputs">
+              <input type="number" id="prisMin" placeholder="Pris fra" min="0">
+              <span>–</span>
+              <input type="number" id="prisMax" placeholder="til" min="0">
+            </div>
+            <label class="lager-chk"><input type="checkbox" id="kunLager"> Kun varer på lager</label>
+            <button class="reset-btn" onclick="nulstilFiltre()">Nulstil filtre ✕</button>
+          </div>
+          <div class="aktive-chips" id="aktiveChips"></div>
+          <div class="filters" id="filters"></div>
         </div>
-        <select class="control" id="typeSelect"><option value="">Alle produkttyper</option></select>
-        <select class="control" id="brandSelect"><option value="">Alle mærker</option></select>
-        <select class="control" id="colorSelect"><option value="">Alle farver</option></select>
-        <select class="control" id="sortSelect">
-          <option value="pop">Mest populære</option>
-          <option value="trend">🔥 Trender nu</option>
-          <option value="prisAsc">Pris: lav → høj</option>
-          <option value="prisDesc">Pris: høj → lav</option>
-          <option value="spar">Spar mest %</option>
-          <option value="navn">Navn A–Å</option>
-        </select>
-        <div class="range-inputs">
-          <input type="number" id="prisMin" placeholder="Pris fra" min="0">
-          <span>–</span>
-          <input type="number" id="prisMax" placeholder="til" min="0">
-        </div>
-        <label class="lager-chk"><input type="checkbox" id="kunLager"> Kun varer på lager</label>
-        <button class="reset-btn" onclick="nulstilFiltre()">Nulstil filtre ✕</button>
-      </div>
-      <div class="aktive-chips" id="aktiveChips"></div>
-      <div class="filters" id="filters"></div>
-    </div>
-    <div class="result-count" id="resultCount"></div>
+        <div class="result-count" id="resultCount"></div>
 
-    <div class="product-grid" id="productGrid"></div>
-    <div class="load-more-wrap">
-      <button class="btn btn-navy" id="loadMoreBtn" onclick="visFlere()" style="display:none">Vis flere produkter</button>
+        <div class="product-grid" id="productGrid"></div>
+        <div class="load-more-wrap">
+          <button class="btn btn-navy" id="loadMoreBtn" onclick="visFlere()" style="display:none">Vis flere produkter</button>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -997,13 +1064,44 @@ function initUI() {
     </a>`;
   }).join("");
 
-  // Kategori-faner
+  // Kategori-faner (mobil) + kategori-sidebar (desktop)
   const filters = document.getElementById("filters");
-  filters.innerHTML = `<button class="filter-tab active" data-cat="alle">Alle (${PRODUKTER.length})</button>` +
+  const katListe = `<button class="filter-tab active" data-cat="alle">Alle (${PRODUKTER.length})</button>` +
     Object.entries(KATEGORI_NAVNE).map(([k, navn]) => {
       const antal = PRODUKTER.filter(p => p.cat === k).length;
       return antal ? `<button class="filter-tab" data-cat="${k}">${navn} (${antal})</button>` : "";
     }).join("");
+  filters.innerHTML = katListe;
+
+  const sidebar = document.getElementById("catSidebar");
+  sidebar.innerHTML = `<div class="cat-side-item active" data-cat="alle"><span>Alle</span><span class="n">${PRODUKTER.length}</span></div>` +
+    Object.entries(KATEGORI_NAVNE).map(([k, navn]) => {
+      const antal = PRODUKTER.filter(p => p.cat === k).length;
+      return antal ? `<div class="cat-side-item" data-cat="${k}"><span>${navn}</span><span class="n">${antal}</span></div>` : "";
+    }).join("");
+
+  // Populært lige nu: mest populære varer på lager, evt. med spar-badge
+  const populaere = PRODUKTER
+    .filter(p => p.billede && p.lager)
+    .sort((a, b) => popScore(a) - popScore(b))
+    .slice(0, 10);
+  document.getElementById("dealsRow").innerHTML = populaere.map(p => {
+    const harSpar = p.foerPris && p.foerPris > p.pris;
+    const badge = harSpar
+      ? `<span class="deal-pct">-${Math.round((1 - p.pris / p.foerPris) * 100)}%</span>`
+      : (erTrend(p) ? `<span class="deal-pct">🔥 Trend</span>` : "");
+    return `
+    <a class="deal-card" href="#produkter" onclick="hurtigSoeg('${p.id}')">
+      <div class="deal-img">
+        ${badge}
+        <img src="${p.billede}" alt="" loading="lazy">
+      </div>
+      <div class="deal-body">
+        <div class="name">${p.navn}</div>
+        <span class="price">${fmt(p.pris)}</span>${harSpar ? `<span class="old">${fmt(p.foerPris)}</span>` : ""}
+      </div>
+    </a>`;
+  }).join("");
 
   // Tidsstempel
   const d = new Date(DATA.genereret);
@@ -1105,6 +1203,7 @@ function fjernFilter(slags) {
   if (slags === "kat") {
     aktivKategori = "alle";
     document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === "alle"));
+    document.querySelectorAll(".cat-side-item").forEach(t => t.classList.toggle("active", t.dataset.cat === "alle"));
     opdaterTypeDropdown();
   }
   if (slags === "type") { aktivType = ""; document.getElementById("typeSelect").value = ""; }
@@ -1142,6 +1241,7 @@ function laesFiltreFraUrl() {
   if (p.get("kat")) {
     aktivKategori = p.get("kat");
     document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === aktivKategori));
+    document.querySelectorAll(".cat-side-item").forEach(t => t.classList.toggle("active", t.dataset.cat === aktivKategori));
   }
   aktivType = p.get("t") || "";
   aktivtMaerke = p.get("m") || "";
@@ -1202,26 +1302,32 @@ function visFlere() {
   renderProdukter();
 }
 
+function setKategori(kat, scroll) {
+  aktivKategori = kat;
+  document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === kat));
+  document.querySelectorAll(".cat-side-item").forEach(t => t.classList.toggle("active", t.dataset.cat === kat));
+  visAntal = VIS_AD_GANGEN;
+  opdaterTypeDropdown();
+  renderProdukter();
+  if (scroll) document.getElementById("produkter").scrollIntoView({ behavior: "smooth" });
+}
+
 document.getElementById("catGrid").addEventListener("click", e => {
   const tile = e.target.closest(".cat-tile");
   if (!tile) return;
   e.preventDefault();
-  aktivKategori = tile.dataset.cat;
-  document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === aktivKategori));
-  visAntal = VIS_AD_GANGEN;
-  opdaterTypeDropdown();
-  renderProdukter();
-  document.getElementById("produkter").scrollIntoView({ behavior: "smooth" });
+  setKategori(tile.dataset.cat, true);
 });
 
 document.getElementById("filters").addEventListener("click", e => {
   if (!e.target.matches(".filter-tab")) return;
-  document.querySelectorAll(".filter-tab").forEach(t => t.classList.remove("active"));
-  e.target.classList.add("active");
-  aktivKategori = e.target.dataset.cat;
-  visAntal = VIS_AD_GANGEN;
-  opdaterTypeDropdown();
-  renderProdukter();
+  setKategori(e.target.dataset.cat, false);
+});
+
+document.getElementById("catSidebar").addEventListener("click", e => {
+  const item = e.target.closest(".cat-side-item");
+  if (!item) return;
+  setKategori(item.dataset.cat, false);
 });
 let soegTimer;
 document.getElementById("searchInput").addEventListener("input", e => {
