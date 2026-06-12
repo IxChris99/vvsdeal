@@ -145,6 +145,9 @@ def parse_side(html: str, katnoegle: str, produkter: dict) -> int:
         if varenr in produkter:
             continue
         titel = afhtml(m.group("titel"))
+        # Spring leverandørens interne pladsholdervarer over
+        if re.match(r"main\d+", titel, re.IGNORECASE) or "diverser" in titel.lower():
+            continue
         eur = float(m.group("pris"))
         rest = m.group("rest")
         gammel = OLDPRICE_RE.search(rest or "")

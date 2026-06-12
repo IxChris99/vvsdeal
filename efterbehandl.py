@@ -19,6 +19,14 @@ def main() -> None:
     i = t.index("const SHOP_DATA = ") + len("const SHOP_DATA = ")
     data = json.loads(t[i:t.rindex(";")])
 
+    import re as _re
+    foer_antal = len(data["produkter"])
+    data["produkter"] = [p for p in data["produkter"]
+                         if not _re.match(r"main\d+", (p.get("navnDE") or p["navn"]).strip(), _re.I)
+                         and "diverser" not in (p.get("navnDE") or p["navn"]).lower()]
+    if foer_antal != len(data["produkter"]):
+        print(f"Fjernet {foer_antal - len(data['produkter'])} pladsholdervarer (main####/diverser)")
+
     oversat = 0
     for p in data["produkter"]:
         original = p.get("navnDE") or p["navn"]

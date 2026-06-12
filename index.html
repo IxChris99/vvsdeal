@@ -368,8 +368,17 @@
     border: 1px solid var(--line); border-radius: 999px;
     width: 34px; height: 34px; font-size: 1.1rem; cursor: pointer; z-index: 2;
   }
-  .qv-img { padding: 28px; display: flex; align-items: center; justify-content: center; background: #fff; }
-  .qv-img img { max-width: 100%; max-height: 380px; object-fit: contain; }
+  .qv-img { padding: 28px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; background: #fff; }
+  .qv-img > img { max-width: 100%; max-height: 340px; object-fit: contain; }
+  .qv-thumbs { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+  .qv-thumbs img {
+    width: 56px; height: 56px; object-fit: contain;
+    border: 2px solid var(--line); border-radius: 8px;
+    cursor: pointer; background: #fff; padding: 3px;
+    transition: border-color .15s;
+  }
+  .qv-thumbs img:hover { border-color: var(--navy); }
+  .qv-thumbs img.valgt { border-color: var(--accent); }
   .qv-info { padding: 28px 28px 28px 8px; display: flex; flex-direction: column; }
   .qv-info .brand { color: var(--accent); font-weight: 800; text-transform: uppercase; font-size: .78rem; letter-spacing: 1px; }
   .qv-info h2 { color: var(--navy); font-size: 1.25rem; line-height: 1.35; margin: 6px 0 8px; }
@@ -425,6 +434,26 @@
   .co-ok .onr { font-size: 1.3rem; font-weight: 800; color: var(--accent); letter-spacing: 1px; }
   .co-ok p { color: var(--text-light); font-size: .9rem; margin-top: 10px; }
 
+  .lager-chk {
+    display: flex; align-items: center; gap: 7px;
+    font-size: .88rem; font-weight: 600; color: var(--text-light);
+    cursor: pointer; white-space: nowrap; user-select: none;
+  }
+  .lager-chk input { width: auto; accent-color: var(--accent); }
+  .aktive-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+  .aktive-chips:empty { display: none; }
+  .chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: var(--navy); color: #fff;
+    border-radius: 999px; padding: 5px 8px 5px 14px;
+    font-size: .8rem; font-weight: 600;
+  }
+  .chip button {
+    background: rgba(255,255,255,.2); color: #fff; border: none;
+    border-radius: 999px; width: 18px; height: 18px; line-height: 1;
+    cursor: pointer; font-size: .72rem; font-family: inherit;
+  }
+  .chip button:hover { background: var(--accent); }
   .range-inputs { display: flex; align-items: center; gap: 6px; }
   .range-inputs input { width: 90px; padding: 10px 10px; border: 1.5px solid var(--line); border-radius: 10px; font-size: .88rem; background: var(--bg); }
   .reset-btn { background: none; border: none; color: var(--accent); font-weight: 700; cursor: pointer; font-family: inherit; font-size: .85rem; }
@@ -563,6 +592,7 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.5-4.5"/></svg>
           <input type="search" id="searchInput" placeholder="Søg produkt, mærke eller varenummer…">
         </div>
+        <select class="control" id="typeSelect"><option value="">Alle produkttyper</option></select>
         <select class="control" id="brandSelect"><option value="">Alle mærker</option></select>
         <select class="control" id="colorSelect"><option value="">Alle farver</option></select>
         <select class="control" id="sortSelect">
@@ -570,6 +600,7 @@
           <option value="trend">🔥 Trender nu</option>
           <option value="prisAsc">Pris: lav → høj</option>
           <option value="prisDesc">Pris: høj → lav</option>
+          <option value="spar">Spar mest %</option>
           <option value="navn">Navn A–Å</option>
         </select>
         <div class="range-inputs">
@@ -577,8 +608,10 @@
           <span>–</span>
           <input type="number" id="prisMax" placeholder="til" min="0">
         </div>
+        <label class="lager-chk"><input type="checkbox" id="kunLager"> Kun varer på lager</label>
         <button class="reset-btn" onclick="nulstilFiltre()">Nulstil filtre ✕</button>
       </div>
+      <div class="aktive-chips" id="aktiveChips"></div>
       <div class="filters" id="filters"></div>
     </div>
     <div class="result-count" id="resultCount"></div>
@@ -729,7 +762,10 @@
 <div class="qv-overlay" id="qvOverlay" onclick="if(event.target===this)lukQuickView()">
   <div class="qv-box">
     <button class="qv-close" onclick="lukQuickView()" aria-label="Luk">✕</button>
-    <div class="qv-img"><img id="qvImg" src="" alt=""></div>
+    <div class="qv-img">
+      <img id="qvImg" src="" alt="">
+      <div class="qv-thumbs" id="qvThumbs"></div>
+    </div>
     <div class="qv-info" id="qvInfo"></div>
   </div>
 </div>
@@ -767,7 +803,9 @@ const FRAGT = 49, FRI_FRAGT_GRAENSE = 999;
 const VIS_AD_GANGEN = 24;
 
 const DATA = (typeof SHOP_DATA !== "undefined") ? SHOP_DATA : null;
-const PRODUKTER = DATA ? DATA.produkter : [];
+// Frasortér leverandørens interne pladsholdervarer ("main12345", "diverser Artikel")
+const erSkrald = p => /^main\d+/i.test(p.navn.trim()) || p.navn.toLowerCase().includes("diverser");
+const PRODUKTER = DATA ? DATA.produkter.filter(p => !erSkrald(p)) : [];
 const KATEGORI_NAVNE = DATA ? DATA.kategorier : {};
 
 // Kurven gemmes i localStorage, så den overlever genindlæsning
@@ -778,10 +816,56 @@ const gemKurv = () => { try { localStorage.setItem("vvsdeal_kurv", JSON.stringif
 let aktivKategori = "alle";
 let aktivtMaerke = "";
 let aktivFarve = "";
+let aktivType = "";
+let kunLager = false;
 let soegning = "";
 let sortering = "pop";
 let prisMin = null, prisMax = null;
 let visAntal = VIS_AD_GANGEN;
+
+/* Produkttype udledes af de danske navne — første match vinder,
+   så specifikke typer skal stå før generelle (fx "håndvaskarmatur"
+   før "håndvask"). */
+const TYPER = [
+  ["Håndvaskarmaturer", ["håndvaskarmatur"]],
+  ["Køkkenarmaturer", ["køkkenarmatur"]],
+  ["Kararmaturer", ["kararmatur", "kartilløb"]],
+  ["Brusearmaturer", ["brusearmatur"]],
+  ["Termostater", ["termostat"]],
+  ["Bidetarmaturer", ["bidetarmatur"]],
+  ["Brusersæt & -systemer", ["brusersæt", "brusesystem", "showerpipe"]],
+  ["Hovedbrusere", ["hovedbruser"]],
+  ["Håndbrusere", ["håndbruser"]],
+  ["Bruserstænger & slanger", ["bruserstang", "bruseslange", "vægstang"]],
+  ["Brusekabiner & døre", ["brusekabine", "brusedør", "bruseafskærmning", "drejedør", "skydedør", "pendeldør", "sidevæg", "walk-in", "sidedel"]],
+  ["Brusekar", ["brusekar"]],
+  ["Badekar", ["badekar", "karbærer"]],
+  ["WC-sæder", ["wc-sæde"]],
+  ["Toiletbørster & -ruller", ["toiletbørste", "toiletrulle", "reserverulle"]],
+  ["Toiletter, bidets & urinaler", ["toilet", "wc", "urinal", "bidet", "cisterne", "betjeningsplade"]],
+  ["Håndvaske", ["håndvask", "bowlevask", "vask "]],
+  ["Spejle & spejlskabe", ["spejlskab", "spejl"]],
+  ["Badmøbler & skabe", ["underskab", "vaskeskab", "højskab", "badmøbel", "konsol", "reol", "hylde"]],
+  ["Afløb & vandlåse", ["afløbsrende", "vandlås", "afløb", "overløb"]],
+  ["Tilbehør & holdere", ["holder", "halter", "krog", "kurv", "dispenser", "tandkrus", "håndklæde", "glasskraber", "beholder", "eimer", "ablage", "spejlvarme"]],
+  ["Reservedele", ["kartusche", "reservedel", "ventil", "greb", "manchet", "indbygningsdel", "forlænger", "tilslutning", "lynkobling", "perlator", "ersatz", "dichtung", "befestigung"]],
+];
+
+// Varer uden typeord (serienavne, tyske rester) får en fornuftig
+// standardtype ud fra deres kategori i stedet for at drukne i "Øvrigt"
+const TYPE_FALLBACK = {
+  badekar: "Badekar", brusekar: "Brusekar", brusekabiner: "Brusekabiner & døre",
+  badmoebler: "Badmøbler & skabe", accessoires: "Tilbehør & holdere",
+  koekkenarmatur: "Køkkenarmaturer", koekkentilbehoer: "Tilbehør & holdere",
+  keramik: "Øvrig badkeramik", armaturer: "Øvrige armaturer & dele",
+  "oevrigt-bad": "Øvrigt",
+};
+
+PRODUKTER.forEach(p => {
+  const n = (p.navn + " " + (p.navnDE || "")).toLowerCase();
+  const match = TYPER.find(([, ord]) => ord.some(o => n.includes(o)));
+  p.type = match ? match[0] : (TYPE_FALLBACK[p.cat] || "Øvrigt");
+});
 
 // Fragtklasser: pakke (GLS) < tung (toiletter m.m.) < fragtmand (palle)
 const FRAGT_FALLBACK = { badekar: "fragtmand", brusekar: "fragtmand", brusekabiner: "fragtmand", badmoebler: "fragtmand", keramik: "tung" };
@@ -809,7 +893,20 @@ const erTrend     = p => TRENDS ? farveBoost(p) >= 1.10 : p.trend;
 
 // Popularitets-score til "Mest populære": lav = bedst.
 // Rockys salgsrang divideret med det danske trend-boost.
-const popScore = p => p.pop / trendBoost(p);
+// I "Alle"-visningen nedprioriteres smådele, så forsiden åbner som
+// et showroom (armaturer, brusere, møbler) frem for pakninger og greb.
+const SHOWROOM_STRAF = new Set(["Reservedele", "Tilbehør & holdere",
+  "Øvrige armaturer & dele", "Øvrig badkeramik", "Øvrigt",
+  "Toiletbørster & -ruller", "Bruserstænger & slanger", "Afløb & vandlåse"]);
+const popScore = p => {
+  let score = p.pop / trendBoost(p);
+  if (aktivKategori === "alle") {
+    if (SHOWROOM_STRAF.has(p.type)) score *= 8;
+    if (p.pris < 150) score *= 3;          // småting hører ikke til på forsiden
+    if (erTrend(p)) score *= 0.6;          // trendvarer helt frem
+  }
+  return score;
+};
 
 const fmt = n => n.toLocaleString("da-DK") + " kr.";
 const byId = id => PRODUKTER.find(p => p.id === id);
@@ -894,22 +991,120 @@ function hurtigSoeg(id) {
 }
 
 function filtrerede() {
-  const q = soegning.trim().toLowerCase();
-  let liste = PRODUKTER.filter(p =>
-    (aktivKategori === "alle" || p.cat === aktivKategori) &&
-    (!aktivtMaerke || p.maerke === aktivtMaerke) &&
-    (!aktivFarve || p.farve === aktivFarve) &&
-    (prisMin == null || p.pris >= prisMin) &&
-    (prisMax == null || p.pris <= prisMax) &&
-    (!q || p.navn.toLowerCase().includes(q) || p.id.toLowerCase().includes(q) || p.maerke.toLowerCase().includes(q))
-  );
+  // Flerords-søgning: alle ord skal findes i navn (da/de), varenr eller mærke
+  const ord = soegning.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  let liste = PRODUKTER.filter(p => {
+    if (aktivKategori !== "alle" && p.cat !== aktivKategori) return false;
+    if (aktivtMaerke && p.maerke !== aktivtMaerke) return false;
+    if (aktivFarve && p.farve !== aktivFarve) return false;
+    if (aktivType && p.type !== aktivType) return false;
+    if (kunLager && !p.lager) return false;
+    if (prisMin != null && p.pris < prisMin) return false;
+    if (prisMax != null && p.pris > prisMax) return false;
+    if (ord.length) {
+      const hoestak = (p.navn + " " + (p.navnDE || "") + " " + p.id + " " + p.maerke).toLowerCase();
+      if (!ord.every(o => hoestak.includes(o))) return false;
+    }
+    return true;
+  });
+  const sparPct = p => p.foerPris && p.foerPris > p.pris ? 1 - p.pris / p.foerPris : 0;
   if (sortering === "pop")      liste = [...liste].sort((a, b) => popScore(a) - popScore(b));
   if (sortering === "trend")    liste = [...liste].sort((a, b) =>
     (erTrend(b) - erTrend(a)) || (trendBoost(b) - trendBoost(a)) || (a.pop - b.pop));
   if (sortering === "prisAsc")  liste = [...liste].sort((a, b) => a.pris - b.pris);
   if (sortering === "prisDesc") liste = [...liste].sort((a, b) => b.pris - a.pris);
+  if (sortering === "spar")     liste = [...liste].sort((a, b) => sparPct(b) - sparPct(a) || a.pop - b.pop);
   if (sortering === "navn")     liste = [...liste].sort((a, b) => a.navn.localeCompare(b.navn, "da"));
   return liste;
+}
+
+/* Type-dropdown: viser kun typer, der findes i den valgte kategori */
+function opdaterTypeDropdown() {
+  const sel = document.getElementById("typeSelect");
+  const grundlag = PRODUKTER.filter(p => aktivKategori === "alle" || p.cat === aktivKategori);
+  const taelling = {};
+  grundlag.forEach(p => taelling[p.type] = (taelling[p.type] || 0) + 1);
+  const valgt = aktivType;
+  sel.innerHTML = '<option value="">Alle produkttyper</option>' +
+    TYPER.map(([t]) => t).concat(["Øvrige armaturer & dele", "Øvrig badkeramik", "Øvrigt"])
+      .filter(t => taelling[t])
+      .map(t => `<option value="${t}" ${t === valgt ? "selected" : ""}>${t} (${taelling[t]})</option>`)
+      .join("");
+  if (valgt && !taelling[valgt]) { aktivType = ""; sel.value = ""; }
+}
+
+/* Aktive filtre vises som chips med ✕ */
+function renderChips() {
+  const chips = [];
+  if (aktivKategori !== "alle") chips.push([KATEGORI_NAVNE[aktivKategori] || aktivKategori, "kat"]);
+  if (aktivType) chips.push([aktivType, "type"]);
+  if (aktivtMaerke) chips.push([aktivtMaerke, "maerke"]);
+  if (aktivFarve) chips.push([aktivFarve, "farve"]);
+  if (kunLager) chips.push(["Kun på lager", "lager"]);
+  if (prisMin != null || prisMax != null)
+    chips.push([`${prisMin != null ? fmt(prisMin) : "0 kr."} – ${prisMax != null ? fmt(prisMax) : "∞"}`, "pris"]);
+  if (soegning.trim()) chips.push([`"${soegning.trim()}"`, "soeg"]);
+  document.getElementById("aktiveChips").innerHTML = chips.map(([tekst, slags]) =>
+    `<span class="chip">${tekst} <button onclick="fjernFilter('${slags}')" aria-label="Fjern filter">✕</button></span>`).join("");
+}
+
+function fjernFilter(slags) {
+  if (slags === "kat") {
+    aktivKategori = "alle";
+    document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === "alle"));
+    opdaterTypeDropdown();
+  }
+  if (slags === "type") { aktivType = ""; document.getElementById("typeSelect").value = ""; }
+  if (slags === "maerke") { aktivtMaerke = ""; document.getElementById("brandSelect").value = ""; }
+  if (slags === "farve") { aktivFarve = ""; document.getElementById("colorSelect").value = ""; }
+  if (slags === "lager") { kunLager = false; document.getElementById("kunLager").checked = false; }
+  if (slags === "pris") {
+    prisMin = prisMax = null;
+    document.getElementById("prisMin").value = "";
+    document.getElementById("prisMax").value = "";
+  }
+  if (slags === "soeg") { soegning = ""; document.getElementById("searchInput").value = ""; }
+  visAntal = VIS_AD_GANGEN;
+  renderProdukter();
+}
+
+/* Filtrene gemmes i URL'en, så links kan deles (?kat=...&m=...&q=...) */
+function gemFiltreIUrl() {
+  const p = new URLSearchParams();
+  if (aktivKategori !== "alle") p.set("kat", aktivKategori);
+  if (aktivType) p.set("t", aktivType);
+  if (aktivtMaerke) p.set("m", aktivtMaerke);
+  if (aktivFarve) p.set("f", aktivFarve);
+  if (kunLager) p.set("lager", "1");
+  if (prisMin != null) p.set("min", prisMin);
+  if (prisMax != null) p.set("max", prisMax);
+  if (soegning.trim()) p.set("q", soegning.trim());
+  if (sortering !== "pop") p.set("sort", sortering);
+  const qs = p.toString();
+  history.replaceState(null, "", qs ? "?" + qs : location.pathname);
+}
+
+function laesFiltreFraUrl() {
+  const p = new URLSearchParams(location.search);
+  if (p.get("kat")) {
+    aktivKategori = p.get("kat");
+    document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === aktivKategori));
+  }
+  aktivType = p.get("t") || "";
+  aktivtMaerke = p.get("m") || "";
+  aktivFarve = p.get("f") || "";
+  kunLager = p.get("lager") === "1";
+  prisMin = p.get("min") ? +p.get("min") : null;
+  prisMax = p.get("max") ? +p.get("max") : null;
+  soegning = p.get("q") || "";
+  sortering = p.get("sort") || "pop";
+  document.getElementById("brandSelect").value = aktivtMaerke;
+  document.getElementById("colorSelect").value = aktivFarve;
+  document.getElementById("kunLager").checked = kunLager;
+  document.getElementById("searchInput").value = soegning;
+  document.getElementById("sortSelect").value = sortering;
+  if (prisMin != null) document.getElementById("prisMin").value = prisMin;
+  if (prisMax != null) document.getElementById("prisMax").value = prisMax;
 }
 
 function renderProdukter() {
@@ -945,6 +1140,8 @@ function renderProdukter() {
       </div>
     </div>`).join("");
   document.getElementById("loadMoreBtn").style.display = liste.length > visAntal ? "inline-block" : "none";
+  renderChips();
+  gemFiltreIUrl();
 }
 
 function visFlere() {
@@ -958,10 +1155,21 @@ document.getElementById("filters").addEventListener("click", e => {
   e.target.classList.add("active");
   aktivKategori = e.target.dataset.cat;
   visAntal = VIS_AD_GANGEN;
+  opdaterTypeDropdown();
   renderProdukter();
 });
+let soegTimer;
 document.getElementById("searchInput").addEventListener("input", e => {
-  soegning = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
+  clearTimeout(soegTimer);
+  soegTimer = setTimeout(() => {
+    soegning = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
+  }, 150);
+});
+document.getElementById("typeSelect").addEventListener("change", e => {
+  aktivType = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
+});
+document.getElementById("kunLager").addEventListener("change", e => {
+  kunLager = e.target.checked; visAntal = VIS_AD_GANGEN; renderProdukter();
 });
 document.getElementById("brandSelect").addEventListener("change", e => {
   aktivtMaerke = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
@@ -980,13 +1188,17 @@ document.getElementById("prisMax").addEventListener("input", e => {
 });
 
 function nulstilFiltre() {
-  aktivKategori = "alle"; aktivtMaerke = ""; aktivFarve = ""; soegning = "";
+  aktivKategori = "alle"; aktivtMaerke = ""; aktivFarve = ""; aktivType = "";
+  kunLager = false; soegning = "";
   prisMin = prisMax = null; sortering = "pop"; visAntal = VIS_AD_GANGEN;
   ["searchInput", "prisMin", "prisMax"].forEach(id => document.getElementById(id).value = "");
   document.getElementById("brandSelect").value = "";
   document.getElementById("colorSelect").value = "";
+  document.getElementById("typeSelect").value = "";
+  document.getElementById("kunLager").checked = false;
   document.getElementById("sortSelect").value = "pop";
   document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === "alle"));
+  opdaterTypeDropdown();
   renderProdukter();
 }
 
@@ -1063,12 +1275,34 @@ function stortBillede(url) {
   return url.replace(/cache\/1\/small_image\/\d+x\/[0-9a-f]+\//, "");
 }
 
+function galleriBilleder(p) {
+  // Rockys originalbilleder hedder ..._1.jpg, ..._2.jpg osv.
+  const stor = stortBillede(p.billede);
+  const m = stor.match(/_1\.(jpe?g|png)$/i);
+  return m ? [1, 2, 3, 4].map(n => stor.replace(/_1\.(jpe?g|png)$/i, `_${n}.$1`)) : [stor];
+}
+
+function vaelgBillede(url, el) {
+  const img = document.getElementById("qvImg");
+  img.onerror = null;
+  img.src = url;
+  document.querySelectorAll(".qv-thumbs img").forEach(t => t.classList.remove("valgt"));
+  if (el) el.classList.add("valgt");
+}
+
 function quickView(id) {
   const p = byId(id);
   if (!p) return;
   const img = document.getElementById("qvImg");
   img.onerror = () => { img.onerror = null; img.src = p.billede; };
   img.src = stortBillede(p.billede);
+  const billeder = galleriBilleder(p);
+  document.getElementById("qvThumbs").innerHTML = billeder.length > 1
+    ? billeder.map((u, i) => `<img src="${u}" loading="lazy" alt=""
+        class="${i === 0 ? "valgt" : ""}"
+        onclick="vaelgBillede('${u}', this)"
+        onerror="this.remove()">`).join("")
+    : "";
   document.getElementById("qvInfo").innerHTML = `
     <span class="brand">${p.maerke}</span>
     <h2>${p.navn}</h2>
@@ -1291,10 +1525,12 @@ document.querySelectorAll(".nav-links a").forEach(a =>
 );
 
 if (initUI()) {
+  // Dybt link skal læses FØR renderProdukter, som omskriver URL'en
+  const dybtLink = new URLSearchParams(location.search).get("vare");
+  laesFiltreFraUrl();
+  opdaterTypeDropdown();
   renderProdukter();
   renderCart();
-  // Dybt link fra SEO-produktsider: index.html?vare=<varenr> åbner produktet
-  const dybtLink = new URLSearchParams(location.search).get("vare");
   if (dybtLink && byId(dybtLink)) quickView(dybtLink);
 }
 </script>
