@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin — Prisoverblik | VVSdeal</title>
+<meta name="robots" content="noindex,nofollow">
+<style>
+  :root {
+    --bg: #0f1722;
+    --panel: #1a2533;
+    --panel2: #223044;
+    --line: #2e405a;
+    --text: #e6edf5;
+    --dim: #8aa0b8;
+    --green: #2dd882;
+    --red: #ff6b6b;
+    --yellow: #ffc24b;
+    --blue: #5aa9f0;
+    --accent: #ff7a1a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Segoe UI", system-ui, sans-serif;
+    background: var(--bg); color: var(--text);
+    font-size: 14px; line-height: 1.5;
+  }
+  .wrap { max-width: 1500px; margin: 0 auto; padding: 24px; }
+
+  header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+  h1 { font-size: 1.4rem; font-weight: 800; }
+  h1 span { color: var(--accent); }
+  .stamp { color: var(--dim); font-size: .82rem; }
+  .stamp b { color: var(--green); }
+  a.til-shop { color: var(--blue); text-decoration: none; font-weight: 600; font-size: .9rem; }
+
+  /* Nøgletal */
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+  .card .n { font-size: 1.5rem; font-weight: 800; }
+  .card .l { color: var(--dim); font-size: .8rem; }
+  .n.green { color: var(--green); } .n.red { color: var(--red); }
+  .n.yellow { color: var(--yellow); } .n.blue { color: var(--blue); }
+
+  /* Kontroller */
+  .controls { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; align-items: center; }
+  input[type=search], select {
+    background: var(--panel); color: var(--text);
+    border: 1px solid var(--line); border-radius: 8px;
+    padding: 9px 12px; font-family: inherit; font-size: .88rem;
+  }
+  input[type=search] { flex: 1; min-width: 220px; }
+  input:focus, select:focus { outline: none; border-color: var(--blue); }
+  label.chk { display: flex; align-items: center; gap: 6px; color: var(--dim); font-size: .85rem; cursor: pointer; white-space: nowrap; }
+  .resultinfo { color: var(--dim); font-size: .82rem; margin-bottom: 10px; }
+
+  /* Tabel */
+  .tablewrap { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: auto; max-height: 72vh; }
+  table { width: 100%; border-collapse: collapse; min-width: 1100px; }
+  thead th {
+    position: sticky; top: 0; z-index: 2;
+    background: var(--panel2); color: var(--dim);
+    text-align: right; padding: 10px 12px;
+    font-size: .75rem; text-transform: uppercase; letter-spacing: .6px;
+    border-bottom: 1px solid var(--line);
+    cursor: pointer; user-select: none; white-space: nowrap;
+  }
+  thead th:hover { color: var(--text); }
+  thead th.l { text-align: left; }
+  thead th .pil { color: var(--accent); }
+  tbody td { padding: 8px 12px; border-bottom: 1px solid #1f2c3e; text-align: right; white-space: nowrap; }
+  tbody td.l { text-align: left; white-space: normal; }
+  tbody tr:hover { background: #20304a; }
+  .prod { display: flex; gap: 10px; align-items: center; min-width: 320px; }
+  .prod img { width: 40px; height: 40px; object-fit: contain; background: #fff; border-radius: 6px; flex-shrink: 0; }
+  .prod .pn { font-weight: 600; font-size: .85rem; line-height: 1.3; }
+  .prod .pm { color: var(--dim); font-size: .75rem; }
+  .prod a { color: inherit; text-decoration: none; }
+  .prod a:hover .pn { color: var(--blue); }
+  .dim { color: var(--dim); font-size: .78rem; }
+  .green { color: var(--green); } .red { color: var(--red); }
+  .yellow { color: var(--yellow); } .blue { color: var(--blue); }
+  .b { font-weight: 700; }
+  .tag {
+    display: inline-block; padding: 2px 9px; border-radius: 999px;
+    font-size: .72rem; font-weight: 700;
+  }
+  .tag.ok { background: rgba(45,216,130,.15); color: var(--green); }
+  .tag.gulv { background: rgba(255,107,107,.15); color: var(--red); }
+  .tag.ingen { background: rgba(138,160,184,.15); color: var(--dim); }
+  .loadmore { display: block; margin: 16px auto; background: var(--panel2); color: var(--text); border: 1px solid var(--line); border-radius: 999px; padding: 10px 28px; font-weight: 700; cursor: pointer; font-family: inherit; }
+  .loadmore:hover { border-color: var(--blue); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>🔧 Prisoverblik <span>— admin</span></h1>
+      <div class="stamp" id="stamp"></div>
+    </div>
+    <a class="til-shop" href="index.html">→ Åbn shoppen</a>
+  </header>
+
+  <div class="cards" id="cards"></div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Søg navn, varenummer eller mærke…">
+    <select id="kat"><option value="">Alle kategorier</option></select>
+    <select id="mrk"><option value="">Alle mærker</option></select>
+    <select id="sort">
+      <option value="margin">Sortér: margin kr. (høj→lav)</option>
+      <option value="marginPct">Margin % (høj→lav)</option>
+      <option value="pris">Din pris (høj→lav)</option>
+      <option value="diff">Afstand til konkurrent</option>
+      <option value="rocky">Rocky-pris (høj→lav)</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="kunKonk"> Kun varer med konkurrentpris</label>
+    <label class="chk"><input type="checkbox" id="kunGulv"> Kun gulv-konflikter</label>
+  </div>
+  <div class="resultinfo" id="resultinfo"></div>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr>
+          <th class="l" data-s="navn">Produkt</th>
+          <th data-s="rocky">Rocky <span class="dim">(EUR→DKK)</span></th>
+          <th data-s="gulv">Gulv +12%</th>
+          <th data-s="pris">Din pris</th>
+          <th data-s="margin">Margin</th>
+          <th data-s="konk">Billigste konkurrent</th>
+          <th data-s="diff">Din position</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <button class="loadmore" id="mere" onclick="VIS += 100; render()">Vis 100 mere</button>
+</div>
+
+<script src="products.js"></script>
+<script src="konkurrenter.js"></script>
+<script>
+const KURS = 7.46, AVANCE = 1.12;
+const DATA = (typeof SHOP_DATA !== "undefined") ? SHOP_DATA : { produkter: [], kategorier: {} };
+const KONK = (typeof KONKURRENT_DATA !== "undefined") ? KONKURRENT_DATA.priser : {};
+
+const fmt = n => n == null || n === "" ? "—" : Math.round(n).toLocaleString("da-DK") + " kr.";
+const fmtE = n => "€" + n.toLocaleString("de-DE", { minimumFractionDigits: 2 });
+
+// Berig produkterne med beregnede nøgletal
+const RK = DATA.produkter.map(p => {
+  const rockyDKK = p.eur * KURS;
+  const gulv = rockyDKK * AVANCE;
+  const k = KONK[p.id] || null;
+  const billigste = k && k.billigste ? +k.billigste : null;
+  return {
+    ...p,
+    rockyDKK, gulv,
+    margin: p.pris - rockyDKK,
+    marginPct: (p.pris / rockyDKK - 1) * 100,
+    k, billigste,
+    diff: billigste ? p.pris - billigste : null,   // negativ = du er billigst
+  };
+});
+
+let VIS = 100;
+let sortKey = "margin", sortDesc = true;
+
+function nøgletal(liste) {
+  const medK = liste.filter(r => r.billigste);
+  const billigere = medK.filter(r => r.diff < 0).length;
+  const dyrere = medK.filter(r => r.diff > 0).length;
+  const gulvKonflikt = medK.filter(r => r.k && r.k.status.startsWith("GULV")).length;
+  const snitMargin = liste.reduce((s, r) => s + r.marginPct, 0) / (liste.length || 1);
+  document.getElementById("cards").innerHTML = `
+    <div class="card"><div class="n">${liste.length.toLocaleString("da-DK")}</div><div class="l">varer i kataloget</div></div>
+    <div class="card"><div class="n blue">${medK.length.toLocaleString("da-DK")}</div><div class="l">med konkurrentpris</div></div>
+    <div class="card"><div class="n green">${billigere.toLocaleString("da-DK")}</div><div class="l">hvor DU er billigst</div></div>
+    <div class="card"><div class="n red">${dyrere.toLocaleString("da-DK")}</div><div class="l">hvor konkurrent er billigere</div></div>
+    <div class="card"><div class="n yellow">${gulvKonflikt.toLocaleString("da-DK")}</div><div class="l">gulv-konflikter (kan ikke matches)</div></div>
+    <div class="card"><div class="n">${snitMargin.toFixed(1).replace(".", ",")}%</div><div class="l">gns. margin over Rocky</div></div>`;
+}
+
+function filtrerede() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const kat = document.getElementById("kat").value;
+  const mrk = document.getElementById("mrk").value;
+  const kunKonk = document.getElementById("kunKonk").checked;
+  const kunGulv = document.getElementById("kunGulv").checked;
+  let liste = RK.filter(r =>
+    (!kat || r.cat === kat) &&
+    (!mrk || r.maerke === mrk) &&
+    (!kunKonk || r.billigste) &&
+    (!kunGulv || (r.k && r.k.status.startsWith("GULV"))) &&
+    (!q || r.navn.toLowerCase().includes(q) || r.id.toLowerCase().includes(q) || r.maerke.toLowerCase().includes(q))
+  );
+  const v = {
+    navn: r => r.navn, rocky: r => r.rockyDKK, gulv: r => r.gulv, pris: r => r.pris,
+    margin: r => r.margin, marginPct: r => r.marginPct,
+    konk: r => r.billigste ?? -1, diff: r => r.diff ?? Infinity,
+  }[sortKey];
+  liste.sort((a, b) => {
+    const x = v(a), y = v(b);
+    const c = typeof x === "string" ? x.localeCompare(y, "da") : x - y;
+    return sortDesc ? -c : c;
+  });
+  return liste;
+}
+
+function render() {
+  const liste = filtrerede();
+  nøgletal(liste);
+  document.getElementById("resultinfo").textContent =
+    `Viser ${Math.min(VIS, liste.length).toLocaleString("da-DK")} af ${liste.length.toLocaleString("da-DK")} varer — klik på kolonneoverskrifter for at sortere`;
+  document.getElementById("tbody").innerHTML = liste.slice(0, VIS).map(r => {
+    const pos = r.diff == null ? `<span class="dim">ingen data</span>`
+      : r.diff < 0 ? `<span class="green b">${fmt(-r.diff)} billigere</span>`
+      : r.diff === 0 ? `<span class="yellow b">samme pris</span>`
+      : `<span class="red b">${fmt(r.diff)} dyrere</span>`;
+    const st = !r.k ? `<span class="tag ingen">ikke tjekket</span>`
+      : r.k.status.startsWith("GULV") ? `<span class="tag gulv">gulv</span>`
+      : r.k.status.startsWith("OK") ? `<span class="tag ok">ok</span>`
+      : `<span class="tag ingen">ingen match</span>`;
+    const ktip = r.k ? [["Lavpris", r.k.LavprisVVS], ["Billig", r.k.BilligVVS], ["Complet", r.k.CompletVVS]]
+      .filter(x => x[1]).map(x => `${x[0]}: ${fmt(+x[1])}`).join(" · ") : "";
+    return `<tr>
+      <td class="l"><div class="prod">
+        <img src="${r.billede}" loading="lazy" onerror="this.style.visibility='hidden'">
+        <a href="${r.url}" target="_blank" rel="noopener" title="Åbn hos Rocky">
+          <div class="pn">${r.navn}</div>
+          <div class="pm">${r.maerke} · ${r.id} · ${DATA.kategorier[r.cat] || r.cat}</div>
+        </a></div></td>
+      <td><span class="b">${fmt(r.rockyDKK)}</span><br><span class="dim">${fmtE(r.eur)}</span></td>
+      <td class="dim">${fmt(r.gulv)}</td>
+      <td><span class="b blue">${fmt(r.pris)}</span></td>
+      <td><span class="b ${r.marginPct >= 11.5 ? "green" : "yellow"}">${fmt(r.margin)}</span><br>
+          <span class="dim">${r.marginPct.toFixed(1).replace(".", ",")}%</span></td>
+      <td title="${ktip}">${r.billigste ? `<span class="b">${fmt(r.billigste)}</span><br><span class="dim">${ktip}</span>` : `<span class="dim">—</span>`}</td>
+      <td>${pos}</td>
+      <td>${st}</td>
+    </tr>`;
+  }).join("");
+  document.getElementById("mere").style.display = liste.length > VIS ? "block" : "none";
+}
+
+// Init dropdowns + stamp
+Object.entries(DATA.kategorier).forEach(([k, n]) =>
+  document.getElementById("kat").insertAdjacentHTML("beforeend", `<option value="${k}">${n}</option>`));
+[...new Set(RK.map(r => r.maerke))].sort((a, b) => a.localeCompare(b, "da")).forEach(m =>
+  document.getElementById("mrk").insertAdjacentHTML("beforeend", `<option value="${m}">${m}</option>`));
+
+const kStamp = (typeof KONKURRENT_DATA !== "undefined")
+  ? ` · Konkurrentpriser: ${new Date(KONKURRENT_DATA.genereret).toLocaleString("da-DK", { dateStyle: "long", timeStyle: "short" })} (${Object.keys(KONK).length} varer)`
+  : " · Ingen konkurrentdata endnu — kør pristester.py";
+document.getElementById("stamp").innerHTML =
+  `<b>●</b> Katalog: ${new Date(DATA.genereret).toLocaleString("da-DK", { dateStyle: "long", timeStyle: "short" })} · Kurs ${KURS} · Gulv = Rocky × ${AVANCE}${kStamp}`;
+
+["q", "kat", "mrk", "kunKonk", "kunGulv"].forEach(id =>
+  document.getElementById(id).addEventListener("input", () => { VIS = 100; render(); }));
+document.getElementById("sort").addEventListener("change", e => {
+  sortKey = e.target.value.replace("Pct", "Pct"); sortDesc = true; VIS = 100; render();
+});
+document.querySelectorAll("thead th[data-s]").forEach(th =>
+  th.addEventListener("click", () => {
+    const s = th.dataset.s;
+    if (sortKey === s) sortDesc = !sortDesc; else { sortKey = s; sortDesc = true; }
+    document.querySelectorAll("thead th .pil").forEach(p => p.remove());
+    th.insertAdjacentHTML("beforeend", ` <span class="pil">${sortDesc ? "▼" : "▲"}</span>`);
+    VIS = 100; render();
+  }));
+
+render();
+</script>
+</body>
+</html>

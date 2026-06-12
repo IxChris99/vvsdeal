@@ -1,0 +1,1303 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VVSdeal — Alt til bad &amp; køkken i tysk kvalitet</title>
+<meta name="description" content="Armaturer, badmøbler, brusekabiner, badekar og køkkenarmaturer fra Hansgrohe, Grohe, Burgbad m.fl. Tysk kvalitet — leveret i Danmark.">
+<style>
+  :root {
+    --navy: #0e3a5c;
+    --navy-dark: #092a44;
+    --navy-light: #eaf2f8;
+    --accent: #ff7a1a;
+    --accent-dark: #e26405;
+    --green: #1f9d55;
+    --text: #21303d;
+    --text-light: #64748b;
+    --line: #e4ebf2;
+    --bg: #f7f9fb;
+    --radius: 14px;
+    --shadow: 0 2px 10px rgba(14,58,92,.07);
+    --shadow-hover: 0 12px 32px rgba(14,58,92,.14);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.6;
+  }
+
+  .container { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
+  img { max-width: 100%; }
+
+  /* ---------- Topbar ---------- */
+  .topbar { background: var(--navy-dark); color: #bcd3e6; font-size: .84rem; padding: 7px 0; }
+  .topbar .container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+  .topbar a { color: #fff; text-decoration: none; font-weight: 600; }
+
+  /* ---------- Header ---------- */
+  header { background: #fff; position: sticky; top: 0; z-index: 100; border-bottom: 1px solid var(--line); }
+  .nav {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 24px; max-width: 1240px; margin: 0 auto; gap: 16px;
+  }
+  .logo {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 1.32rem; font-weight: 800; color: var(--navy);
+    text-decoration: none; white-space: nowrap; letter-spacing: -.3px;
+  }
+  .logo .logo-mark {
+    width: 38px; height: 38px; border-radius: 10px;
+    background: linear-gradient(135deg, var(--navy) 0%, #1d6296 100%);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .logo .logo-mark svg { width: 22px; height: 22px; }
+  .nav-links { display: flex; gap: 26px; list-style: none; align-items: center; }
+  .nav-links a { text-decoration: none; color: var(--text); font-weight: 600; font-size: .94rem; }
+  .nav-links a:hover { color: var(--accent); }
+
+  .cart-btn {
+    position: relative; background: var(--navy); color: #fff;
+    border: none; border-radius: 999px; padding: 10px 20px;
+    font-weight: 700; font-size: .94rem; cursor: pointer;
+    display: flex; align-items: center; gap: 8px;
+    transition: background .2s; font-family: inherit;
+  }
+  .cart-btn:hover { background: var(--navy-dark); }
+  .cart-count {
+    background: var(--accent); border-radius: 999px;
+    min-width: 22px; height: 22px;
+    display: inline-flex; align-items: center; justify-content: center;
+    font-size: .8rem; font-weight: 800; padding: 0 6px;
+  }
+  .burger { display: none; background: none; border: none; font-size: 1.7rem; color: var(--navy); cursor: pointer; }
+
+  .btn {
+    display: inline-block; padding: 13px 28px; border-radius: 999px;
+    font-weight: 700; text-decoration: none; font-size: 1rem;
+    border: none; cursor: pointer; font-family: inherit;
+    transition: transform .15s, background .2s, box-shadow .15s;
+  }
+  .btn-accent { background: var(--accent); color: #fff; box-shadow: 0 6px 18px rgba(255,122,26,.35); }
+  .btn-accent:hover { background: var(--accent-dark); transform: translateY(-2px); }
+  .btn-ghost { border: 1.5px solid rgba(255,255,255,.55); color: #fff; }
+  .btn-ghost:hover { background: rgba(255,255,255,.12); }
+
+  /* ---------- Hero ---------- */
+  .hero {
+    background: linear-gradient(120deg, var(--navy-dark) 0%, var(--navy) 55%, #15517e 100%);
+    color: #fff; padding: 72px 0; position: relative; overflow: hidden;
+  }
+  .hero::before {
+    content: ""; position: absolute; inset: 0;
+    background:
+      radial-gradient(circle at 85% 20%, rgba(255,122,26,.16) 0%, transparent 45%),
+      radial-gradient(circle at 70% 90%, rgba(255,255,255,.07) 0%, transparent 40%);
+  }
+  .hero .container {
+    display: grid; grid-template-columns: 1.05fr .95fr; gap: 48px;
+    align-items: center; position: relative; z-index: 1;
+  }
+  .brand-chip {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.25);
+    border-radius: 999px; padding: 6px 16px;
+    font-weight: 600; font-size: .82rem; letter-spacing: .6px;
+    text-transform: uppercase; margin-bottom: 20px; color: #d8e7f3;
+  }
+  .hero h1 { font-size: clamp(2rem, 4.2vw, 3rem); line-height: 1.12; margin-bottom: 18px; font-weight: 800; letter-spacing: -.5px; }
+  .hero h1 span { color: var(--accent); }
+  .hero p.lead { font-size: 1.1rem; color: #c3d8e8; margin-bottom: 30px; max-width: 480px; }
+  .hero-cta { display: flex; gap: 14px; flex-wrap: wrap; }
+  .hero-stats { display: flex; gap: 34px; margin-top: 38px; flex-wrap: wrap; }
+  .hero-stat .n { font-size: 1.5rem; font-weight: 800; color: #fff; }
+  .hero-stat .l { font-size: .82rem; color: #9fc0d8; }
+
+  /* Hero produkt-collage (fyldes med rigtige billeder fra kataloget) */
+  .hero-collage { position: relative; height: 420px; }
+  .hero-tile {
+    position: absolute; background: #fff; border-radius: 16px;
+    box-shadow: 0 24px 60px rgba(0,0,0,.35); overflow: hidden;
+    display: flex; flex-direction: column; text-decoration: none; color: var(--text);
+    transition: transform .25s;
+  }
+  .hero-tile:hover { transform: translateY(-6px) scale(1.02); z-index: 5; }
+  .hero-tile img { width: 100%; height: 75%; object-fit: contain; background: #fff; padding: 10px; }
+  .hero-tile .ht-info { padding: 8px 14px 12px; }
+  .hero-tile .ht-name { font-size: .72rem; font-weight: 600; color: var(--text-light); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .hero-tile .ht-price { font-size: .95rem; font-weight: 800; color: var(--navy); }
+  .hero-tile:nth-child(1) { width: 240px; height: 270px; top: 8%; left: 4%; transform: rotate(-2deg); }
+  .hero-tile:nth-child(2) { width: 210px; height: 240px; top: 0; right: 6%; transform: rotate(2.5deg); }
+  .hero-tile:nth-child(3) { width: 230px; height: 250px; bottom: 2%; left: 30%; transform: rotate(1deg); }
+
+  /* ---------- USP strip ---------- */
+  .usp-strip { background: #fff; border-bottom: 1px solid var(--line); padding: 16px 0; }
+  .usp-strip .container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 14px; }
+  .usp-item { display: flex; align-items: center; gap: 10px; font-weight: 600; font-size: .9rem; color: var(--navy); }
+  .usp-item svg { width: 22px; height: 22px; flex-shrink: 0; }
+
+  /* ---------- Sections ---------- */
+  section { padding: 64px 0; }
+  .section-head { text-align: center; max-width: 720px; margin: 0 auto 30px; }
+  .section-head .kicker { color: var(--accent); font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; font-size: .78rem; }
+  .section-head h2 { font-size: clamp(1.6rem, 3.2vw, 2.2rem); color: var(--navy); margin: 8px 0 10px; letter-spacing: -.4px; }
+  .section-head p { color: var(--text-light); }
+  .data-stamp { text-align: center; font-size: .8rem; color: var(--text-light); margin-bottom: 26px; }
+  .data-stamp b { color: var(--green); }
+
+  /* ---------- Kontroller ---------- */
+  .shop-controls {
+    background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 18px; margin-bottom: 14px; box-shadow: var(--shadow);
+  }
+  .controls-row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+  .search-box {
+    flex: 1; min-width: 220px;
+    display: flex; align-items: center; gap: 10px;
+    background: var(--bg); border: 1.5px solid var(--line);
+    border-radius: 10px; padding: 2px 8px 2px 14px;
+  }
+  .search-box:focus-within { border-color: var(--navy); background: #fff; }
+  .search-box svg { width: 18px; height: 18px; flex-shrink: 0; }
+  .search-box input { border: none; flex: 1; padding: 10px 4px; font-size: .95rem; font-family: inherit; background: transparent; }
+  .search-box input:focus { outline: none; }
+  select.control {
+    padding: 11px 14px; border: 1.5px solid var(--line); border-radius: 10px;
+    font-family: inherit; font-size: .9rem; font-weight: 600; color: var(--text);
+    background: var(--bg); cursor: pointer;
+  }
+  select.control:focus { outline: none; border-color: var(--navy); }
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+  .filter-tab {
+    background: var(--bg); border: 1.5px solid var(--line); border-radius: 999px;
+    padding: 7px 16px; font-weight: 600; font-size: .85rem; color: var(--text-light);
+    cursor: pointer; transition: all .15s; font-family: inherit;
+  }
+  .filter-tab:hover { border-color: var(--navy); color: var(--navy); }
+  .filter-tab.active { background: var(--navy); border-color: var(--navy); color: #fff; }
+  .result-count { font-size: .86rem; color: var(--text-light); margin: 14px 4px 18px; }
+
+  /* ---------- Produktgrid ---------- */
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(248px, 1fr));
+    gap: 18px;
+  }
+  .product {
+    background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+    overflow: hidden; display: flex; flex-direction: column;
+    transition: transform .18s, box-shadow .18s;
+  }
+  .product:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
+  .product-img {
+    position: relative; background: #fff;
+    aspect-ratio: 1 / .82; display: flex; align-items: center; justify-content: center;
+    border-bottom: 1px solid var(--line); padding: 14px;
+  }
+  .product-img img { max-height: 100%; object-fit: contain; mix-blend-mode: multiply; }
+  .badge {
+    position: absolute; top: 12px; left: 12px;
+    background: var(--accent); color: #fff;
+    font-size: .7rem; font-weight: 800; padding: 4px 10px;
+    border-radius: 999px; text-transform: uppercase; letter-spacing: .5px;
+  }
+  .badge.gray { background: #94a3b8; }
+  .badge.trend { background: linear-gradient(120deg, #f43f5e, #f97316); }
+  .farve-chip {
+    align-self: flex-start;
+    font-size: .72rem; font-weight: 600; color: var(--text-light);
+    background: var(--bg); border: 1px solid var(--line);
+    border-radius: 999px; padding: 2px 10px; margin-bottom: 8px;
+  }
+  .product-body { padding: 14px 16px 16px; display: flex; flex-direction: column; flex: 1; }
+  .product .meta { display: flex; justify-content: space-between; gap: 8px; }
+  .product .brand { font-size: .72rem; font-weight: 800; color: var(--accent); text-transform: uppercase; letter-spacing: .8px; }
+  .product .sku { font-size: .72rem; color: var(--text-light); }
+  .product h3 {
+    font-size: .92rem; color: var(--navy); margin: 5px 0 10px; line-height: 1.4;
+    font-weight: 600; flex: 1;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .price-row { display: flex; align-items: baseline; gap: 10px; margin-bottom: 10px; }
+  .price { font-size: 1.25rem; font-weight: 800; color: var(--navy); }
+  .price-old { font-size: .85rem; color: var(--text-light); text-decoration: line-through; }
+  .add-btn {
+    background: var(--accent); color: #fff; border: none; border-radius: 10px;
+    padding: 11px; font-weight: 700; font-size: .92rem; cursor: pointer;
+    font-family: inherit; transition: background .2s;
+  }
+  .add-btn:hover { background: var(--accent-dark); }
+  .add-btn.added { background: var(--green); }
+  .add-btn:disabled { background: #cbd5e1; cursor: not-allowed; }
+  .stock { font-size: .76rem; font-weight: 600; margin-top: 7px; text-align: center; }
+  .stock.in { color: var(--green); }
+  .stock.out { color: #b45309; }
+
+  .load-more-wrap { text-align: center; margin-top: 30px; }
+  .btn-navy { background: var(--navy); color: #fff; }
+  .btn-navy:hover { background: var(--navy-dark); transform: translateY(-2px); }
+
+  .no-data {
+    background: #fff7ed; border: 1.5px solid #fdba74; color: #9a3412;
+    border-radius: var(--radius); padding: 24px; text-align: center; font-weight: 600;
+  }
+
+  /* ---------- Cart drawer ---------- */
+  .cart-overlay {
+    position: fixed; inset: 0; background: rgba(9,42,68,.5);
+    z-index: 300; opacity: 0; pointer-events: none; transition: opacity .25s;
+  }
+  .cart-overlay.open { opacity: 1; pointer-events: auto; }
+  .cart-drawer {
+    position: fixed; top: 0; right: -460px; bottom: 0;
+    width: min(460px, 100vw); background: #fff; z-index: 301;
+    box-shadow: -10px 0 40px rgba(0,0,0,.2); transition: right .3s;
+    display: flex; flex-direction: column;
+  }
+  .cart-drawer.open { right: 0; }
+  .cart-head {
+    padding: 18px 24px; border-bottom: 1px solid var(--line);
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .cart-head h3 { color: var(--navy); }
+  .cart-close { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--text-light); }
+  .cart-items { flex: 1; overflow-y: auto; padding: 14px 24px; }
+  .cart-empty { text-align: center; color: var(--text-light); padding: 40px 0; }
+  .cart-item {
+    display: flex; gap: 12px; padding: 12px 0;
+    border-bottom: 1px solid var(--line); align-items: flex-start;
+  }
+  .cart-item img {
+    width: 58px; height: 58px; object-fit: contain;
+    border: 1px solid var(--line); border-radius: 8px; background: #fff; flex-shrink: 0;
+  }
+  .cart-item .ci-mid { flex: 1; min-width: 0; }
+  .cart-item .ci-name { font-weight: 600; font-size: .85rem; color: var(--navy); line-height: 1.35; }
+  .cart-item .ci-price { font-size: .8rem; color: var(--text-light); }
+  .qty-controls { display: flex; align-items: center; gap: 8px; margin-top: 6px; }
+  .qty-controls button {
+    width: 26px; height: 26px; border: 1.5px solid var(--line); background: #fff;
+    border-radius: 6px; cursor: pointer; font-weight: 700; font-family: inherit;
+  }
+  .qty-controls button:hover { border-color: var(--navy); color: var(--navy); }
+  .ci-total { font-weight: 700; color: var(--navy); white-space: nowrap; font-size: .9rem; }
+  .cart-foot { padding: 18px 24px; border-top: 1px solid var(--line); background: #f8fbfd; max-height: 72vh; overflow-y: auto; }
+  .cart-total-row { display: flex; justify-content: space-between; font-weight: 800; font-size: 1.12rem; color: var(--navy); margin-bottom: 5px; }
+  .cart-shipping { font-size: .82rem; color: var(--text-light); margin-bottom: 12px; }
+  .cart-foot .btn { width: 100%; text-align: center; }
+
+  .checkout-form { display: none; padding-top: 10px; }
+  .checkout-form.visible { display: block; }
+  .form-group { margin-bottom: 11px; }
+  label { display: block; font-weight: 600; font-size: .85rem; margin-bottom: 4px; }
+  input, textarea {
+    width: 100%; padding: 10px 13px;
+    border: 1.5px solid var(--line); border-radius: 10px;
+    font-size: .93rem; font-family: inherit; background: #fff;
+  }
+  input:focus, textarea:focus { outline: none; border-color: var(--navy); }
+  .form-success {
+    display: none; background: #e6f7ec; border: 1.5px solid #2eaa5e; color: #19743c;
+    padding: 13px; border-radius: 10px; font-weight: 600; text-align: center;
+    margin-top: 10px; font-size: .9rem;
+  }
+
+  /* ---------- Why ---------- */
+  .why { background: #fff; }
+  .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+  .usp { text-align: center; padding: 12px; }
+  .usp .num { font-size: 2.1rem; font-weight: 800; color: var(--accent); line-height: 1.1; }
+  .usp .label { font-weight: 700; color: var(--navy); margin-top: 4px; }
+  .usp p { font-size: .86rem; color: var(--text-light); margin-top: 6px; }
+
+  /* ---------- CTA ---------- */
+  .cta-banner {
+    background: linear-gradient(120deg, var(--accent) 0%, var(--accent-dark) 100%);
+    color: #fff; text-align: center; padding: 52px 0;
+  }
+  .cta-banner h2 { font-size: clamp(1.5rem, 3vw, 2.1rem); margin-bottom: 10px; }
+  .cta-banner p { margin-bottom: 22px; font-size: 1.06rem; opacity: .95; }
+  .btn-white { background: #fff; color: var(--accent-dark); }
+  .btn-white:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,.2); }
+
+  /* ---------- Kontakt ---------- */
+  .contact .inner { display: grid; grid-template-columns: 1fr 1fr; gap: 44px; align-items: start; }
+  .contact-info p { color: var(--text-light); margin-bottom: 22px; }
+  .contact-line { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; font-weight: 600; }
+  .contact-line .icon {
+    width: 44px; height: 44px; border-radius: 12px; background: var(--navy-light);
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .contact-line .icon svg { width: 22px; height: 22px; }
+  .contact-line small { display: block; font-weight: 400; color: var(--text-light); }
+  .contact-card {
+    background: #fff; border-radius: var(--radius); padding: 30px;
+    box-shadow: var(--shadow); border: 1px solid var(--line);
+  }
+  .contact-card h3 { color: var(--navy); margin-bottom: 16px; }
+  textarea { resize: vertical; min-height: 80px; }
+
+  /* ---------- Footer ---------- */
+  footer { background: var(--navy-dark); color: #a9c4d9; padding: 46px 0 22px; font-size: .92rem; }
+  .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; margin-bottom: 30px; }
+  footer h4 { color: #fff; margin-bottom: 12px; font-size: 1rem; }
+  footer ul { list-style: none; }
+  footer li { margin-bottom: 8px; }
+  footer a { color: #a9c4d9; text-decoration: none; }
+  footer a:hover { color: #fff; }
+  .footer-bottom { border-top: 1px solid rgba(255,255,255,.14); padding-top: 18px; text-align: center; font-size: .8rem; }
+
+  /* ---------- Quick view ---------- */
+  .qv-overlay {
+    position: fixed; inset: 0; background: rgba(9,42,68,.55);
+    z-index: 320; display: none; align-items: center; justify-content: center; padding: 20px;
+  }
+  .qv-overlay.open { display: flex; }
+  .qv-box {
+    background: #fff; border-radius: 16px; max-width: 860px; width: 100%;
+    max-height: 90vh; overflow: auto; position: relative;
+    display: grid; grid-template-columns: 1fr 1fr;
+  }
+  .qv-close {
+    position: absolute; top: 12px; right: 14px; background: #fff;
+    border: 1px solid var(--line); border-radius: 999px;
+    width: 34px; height: 34px; font-size: 1.1rem; cursor: pointer; z-index: 2;
+  }
+  .qv-img { padding: 28px; display: flex; align-items: center; justify-content: center; background: #fff; }
+  .qv-img img { max-width: 100%; max-height: 380px; object-fit: contain; }
+  .qv-info { padding: 28px 28px 28px 8px; display: flex; flex-direction: column; }
+  .qv-info .brand { color: var(--accent); font-weight: 800; text-transform: uppercase; font-size: .78rem; letter-spacing: 1px; }
+  .qv-info h2 { color: var(--navy); font-size: 1.25rem; line-height: 1.35; margin: 6px 0 8px; }
+  .qv-info .sku { color: var(--text-light); font-size: .82rem; margin-bottom: 14px; }
+  .qv-info .qv-price { font-size: 1.7rem; font-weight: 800; color: var(--navy); margin: 8px 0 4px; }
+  .qv-info .qv-old { color: var(--text-light); text-decoration: line-through; }
+  .qv-facts { margin: 14px 0 18px; padding: 0; list-style: none; }
+  .qv-facts li { font-size: .88rem; color: var(--text-light); padding: 5px 0; border-bottom: 1px dashed var(--line); }
+  .qv-facts li b { color: var(--text); }
+  .qv-info .add-btn { margin-top: auto; padding: 14px; font-size: 1rem; }
+
+  /* ---------- Checkout ---------- */
+  .co-overlay {
+    position: fixed; inset: 0; background: rgba(9,42,68,.55);
+    z-index: 340; display: none; align-items: flex-start; justify-content: center;
+    padding: 4vh 16px; overflow-y: auto;
+  }
+  .co-overlay.open { display: flex; }
+  .co-box {
+    background: #fff; border-radius: 16px; max-width: 640px; width: 100%;
+    box-shadow: 0 30px 80px rgba(0,0,0,.35);
+  }
+  .co-head { padding: 20px 24px 0; }
+  .co-head .co-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
+  .co-head h2 { color: var(--navy); font-size: 1.25rem; }
+  .co-steps { display: flex; gap: 6px; margin-bottom: 4px; }
+  .co-step {
+    flex: 1; text-align: center; font-size: .75rem; font-weight: 700;
+    color: var(--text-light); padding-bottom: 10px; border-bottom: 3px solid var(--line);
+  }
+  .co-step.active { color: var(--navy); border-color: var(--accent); }
+  .co-step.done { color: var(--green); border-color: var(--green); }
+  .co-body { padding: 20px 24px 24px; }
+  .co-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .co-line { display: flex; justify-content: space-between; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: .92rem; }
+  .co-line .n { color: var(--text-light); }
+  .co-total { display: flex; justify-content: space-between; font-weight: 800; font-size: 1.15rem; color: var(--navy); padding-top: 12px; }
+  .co-valg { border: 1.5px solid var(--line); border-radius: 12px; padding: 13px 16px; display: flex; gap: 12px; align-items: center; margin-bottom: 10px; cursor: pointer; transition: border-color .15s; }
+  .co-valg:hover { border-color: var(--navy); }
+  .co-valg.valgt { border-color: var(--accent); background: #fff8f2; }
+  .co-valg input { width: auto; }
+  .co-valg .t { font-weight: 700; font-size: .92rem; }
+  .co-valg .d { font-size: .8rem; color: var(--text-light); }
+  .co-valg .p { margin-left: auto; font-weight: 700; white-space: nowrap; }
+  .co-knapper { display: flex; gap: 10px; margin-top: 18px; }
+  .co-knapper .btn { flex: 1; text-align: center; }
+  .btn-tilbage { background: var(--bg); color: var(--text); border: 1.5px solid var(--line); }
+  .co-demo { background: #fff7ed; border: 1.5px solid #fdba74; color: #9a3412; border-radius: 10px; padding: 10px 14px; font-size: .82rem; margin: 12px 0; }
+  .co-fejl { color: #dc2626; font-size: .82rem; font-weight: 600; margin-top: 8px; display: none; }
+  .co-ok { text-align: center; padding: 18px 0; }
+  .co-ok .ikon { font-size: 3rem; }
+  .co-ok h3 { color: var(--navy); margin: 10px 0 4px; }
+  .co-ok .onr { font-size: 1.3rem; font-weight: 800; color: var(--accent); letter-spacing: 1px; }
+  .co-ok p { color: var(--text-light); font-size: .9rem; margin-top: 10px; }
+
+  .range-inputs { display: flex; align-items: center; gap: 6px; }
+  .range-inputs input { width: 90px; padding: 10px 10px; border: 1.5px solid var(--line); border-radius: 10px; font-size: .88rem; background: var(--bg); }
+  .reset-btn { background: none; border: none; color: var(--accent); font-weight: 700; cursor: pointer; font-family: inherit; font-size: .85rem; }
+  .reset-btn:hover { text-decoration: underline; }
+
+  @media (max-width: 700px) {
+    .qv-box { grid-template-columns: 1fr; }
+    .qv-info { padding: 0 24px 24px; }
+    .co-row { grid-template-columns: 1fr; }
+  }
+
+  /* ---------- Toast ---------- */
+  .toast {
+    position: fixed; bottom: 24px; left: 50%;
+    transform: translate(-50%, 80px);
+    background: var(--navy-dark); color: #fff;
+    padding: 13px 26px; border-radius: 999px;
+    font-weight: 600; font-size: .92rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,.3);
+    z-index: 400; transition: transform .3s; pointer-events: none;
+  }
+  .toast.show { transform: translate(-50%, 0); }
+
+  /* ---------- Responsive ---------- */
+  @media (max-width: 1000px) {
+    .hero .container { grid-template-columns: 1fr; }
+    .hero-collage { display: none; }
+    .grid-4 { grid-template-columns: 1fr 1fr; }
+    .contact .inner { grid-template-columns: 1fr; }
+    .footer-grid { grid-template-columns: 1fr 1fr; }
+    .usp-strip .container { justify-content: center; }
+  }
+  @media (max-width: 680px) {
+    .nav-links {
+      display: none; position: absolute; top: 100%; left: 0; right: 0;
+      background: #fff; flex-direction: column; padding: 20px;
+      box-shadow: 0 10px 24px rgba(0,0,0,.12); gap: 16px;
+    }
+    .nav-links.open { display: flex; }
+    .burger { display: block; }
+    .grid-4, .footer-grid { grid-template-columns: 1fr; }
+    section { padding: 48px 0; }
+    .cart-btn span.cart-label { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Topbar -->
+<div class="topbar">
+  <div class="container">
+    <span>✓ Originale mærkevarer fra Tyskland &nbsp;·&nbsp; ✓ Fri fragt over 999 kr.</span>
+    <span>Spørgsmål? Ring <a href="tel:+4570123456">70 12 34 56</a></span>
+  </div>
+</div>
+
+<!-- Header -->
+<header>
+  <nav class="nav">
+    <a href="#" class="logo">
+      <span class="logo-mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2.5s5.5 6.2 5.5 10.3a5.5 5.5 0 0 1-11 0C6.5 8.7 12 2.5 12 2.5z" fill="#fff" stroke="none"/>
+        </svg>
+      </span>
+      VVSdeal
+    </a>
+    <button class="burger" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
+    <ul class="nav-links">
+      <li><a href="#produkter">Produkter</a></li>
+      <li><a href="#hvorfor">Hvorfor os</a></li>
+      <li><a href="#kontakt">Kontakt</a></li>
+    </ul>
+    <button class="cart-btn" onclick="toggleCart(true)">
+      🛒 <span class="cart-label">Kurv</span> <span class="cart-count" id="cartCount">0</span>
+    </button>
+  </nav>
+</header>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="container">
+    <div>
+      <div class="brand-chip">⭐ Hansgrohe · Grohe · Burgbad · Pelipal · Sprinz</div>
+      <h1>Alt til bad &amp; køkken — <span>tysk kvalitet til danske priser</span></h1>
+      <p class="lead">Armaturer, badmøbler, brusekabiner, badekar og køkkenarmaturer fra Tysklands førende producenter. Bestil online — vi klarer import, fragt og dansk support.</p>
+      <div class="hero-cta">
+        <a href="#produkter" class="btn btn-accent">Se alle produkter</a>
+        <a href="#kontakt" class="btn btn-ghost">Få tilbud på større ordrer</a>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat"><div class="n" id="statAntal">—</div><div class="l">produkter på lager</div></div>
+        <div class="hero-stat"><div class="n" id="statMaerker">—</div><div class="l">tyske kvalitetsmærker</div></div>
+        <div class="hero-stat"><div class="n">3–6</div><div class="l">hverdages levering</div></div>
+      </div>
+    </div>
+    <div class="hero-collage" id="heroCollage"></div>
+  </div>
+</section>
+
+<!-- USP strip -->
+<div class="usp-strip">
+  <div class="container">
+    <div class="usp-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="5" width="15" height="13" rx="2"/><path d="M16 9h4l3 4v5h-7z"/><circle cx="6" cy="18" r="1.6"/><circle cx="19" cy="18" r="1.6"/></svg>
+      Fri fragt over 999 kr.
+    </div>
+    <div class="usp-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9"/><path d="M3 4v5h5"/><path d="M12 7v5l3 3"/></svg>
+      30 dages returret
+    </div>
+    <div class="usp-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-3.5 8-10V5l-8-3-8 3v7c0 6.5 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg>
+      Producentgaranti på alle varer
+    </div>
+    <div class="usp-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a4 4 0 0 1-4 4H8l-5 3V7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4z"/></svg>
+      Dansk kundeservice
+    </div>
+  </div>
+</div>
+
+<!-- Produkter -->
+<section id="produkter">
+  <div class="container">
+    <div class="section-head">
+      <div class="kicker">Webshop</div>
+      <h2>Hele sortimentet til bad &amp; køkken</h2>
+      <p>Søg blandt tusindvis af originale mærkevarer — alle leveres direkte fra vores tyske lager med fuld producentgaranti.</p>
+    </div>
+    <div class="data-stamp" id="dataStamp"></div>
+
+    <div class="shop-controls">
+      <div class="controls-row">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.5-4.5"/></svg>
+          <input type="search" id="searchInput" placeholder="Søg produkt, mærke eller varenummer…">
+        </div>
+        <select class="control" id="brandSelect"><option value="">Alle mærker</option></select>
+        <select class="control" id="colorSelect"><option value="">Alle farver</option></select>
+        <select class="control" id="sortSelect">
+          <option value="pop">Mest populære</option>
+          <option value="trend">🔥 Trender nu</option>
+          <option value="prisAsc">Pris: lav → høj</option>
+          <option value="prisDesc">Pris: høj → lav</option>
+          <option value="navn">Navn A–Å</option>
+        </select>
+        <div class="range-inputs">
+          <input type="number" id="prisMin" placeholder="Pris fra" min="0">
+          <span>–</span>
+          <input type="number" id="prisMax" placeholder="til" min="0">
+        </div>
+        <button class="reset-btn" onclick="nulstilFiltre()">Nulstil filtre ✕</button>
+      </div>
+      <div class="filters" id="filters"></div>
+    </div>
+    <div class="result-count" id="resultCount"></div>
+
+    <div class="product-grid" id="productGrid"></div>
+    <div class="load-more-wrap">
+      <button class="btn btn-navy" id="loadMoreBtn" onclick="visFlere()" style="display:none">Vis flere produkter</button>
+    </div>
+  </div>
+</section>
+
+<!-- Hvorfor os -->
+<section class="why" id="hvorfor">
+  <div class="container">
+    <div class="section-head">
+      <div class="kicker">Hvorfor handle hos os</div>
+      <h2>Tryg handel — fra klik til badeværelse</h2>
+    </div>
+    <div class="grid-4">
+      <div class="usp">
+        <div class="num" id="uspAntal">—</div>
+        <div class="label">produkter</div>
+        <p>Hele det tyske sortiment til bad og køkken — opdateret dagligt.</p>
+      </div>
+      <div class="usp">
+        <div class="num">100%</div>
+        <div class="label">originale varer</div>
+        <p>Alle produkter kommer direkte fra producenternes officielle forhandlernet.</p>
+      </div>
+      <div class="usp">
+        <div class="num">3–6</div>
+        <div class="label">hverdages levering</div>
+        <p>Din ordre sendes automatisk videre til lageret samme dag, du bestiller.</p>
+      </div>
+      <div class="usp">
+        <div class="num">30</div>
+        <div class="label">dages returret</div>
+        <p>Fortrudt? Du har altid 30 dages fuld returret på ubrugte varer.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-banner">
+  <div class="container">
+    <h2>Skal hele badeværelset eller køkkenet renoveres?</h2>
+    <p>Vi giver mængderabat på større ordrer og skaffer gerne varer, der ikke er på siden.</p>
+    <a href="#kontakt" class="btn btn-white">Få et uforpligtende tilbud</a>
+  </div>
+</section>
+
+<!-- Kontakt -->
+<section class="contact" id="kontakt">
+  <div class="container">
+    <div class="section-head">
+      <div class="kicker">Kontakt</div>
+      <h2>Spørgsmål eller specialbestilling?</h2>
+    </div>
+    <div class="inner">
+      <div class="contact-info">
+        <p>Mangler du et bestemt produkt, eller vil du have et samlet tilbud på flere varer? Skriv eller ring — vi svarer hurtigt.</p>
+        <div class="contact-line">
+          <div class="icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 2 .8 2.9a2 2 0 0 1-.5 2.1L8.1 10a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.5c.9.4 1.9.7 2.9.8a2 2 0 0 1 1.7 2z"/></svg>
+          </div>
+          <div>70 12 34 56 <small>Man–fre kl. 8–16</small></div>
+        </div>
+        <div class="contact-line">
+          <div class="icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 7l-10 6L2 7"/></svg>
+          </div>
+          <div>kontakt@vvsdeal.dk <small>Vi svarer typisk samme dag</small></div>
+        </div>
+      </div>
+      <div class="contact-card">
+        <h3>Send en forespørgsel</h3>
+        <form onsubmit="return handleContact(this)">
+          <div class="form-group">
+            <label for="k-navn">Navn</label>
+            <input id="k-navn" type="text" required placeholder="Dit fulde navn">
+          </div>
+          <div class="form-group">
+            <label for="k-email">E-mail</label>
+            <input id="k-email" type="email" required placeholder="din@email.dk">
+          </div>
+          <div class="form-group">
+            <label for="k-besked">Besked</label>
+            <textarea id="k-besked" required placeholder="Hvilket produkt eller projekt drejer det sig om?"></textarea>
+          </div>
+          <button type="submit" class="btn btn-accent" style="width:100%">Send forespørgsel</button>
+          <p class="form-success">Tak! Vi vender tilbage hurtigst muligt. 👍</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>VVSdeal</h4>
+        <p>Vi forhandler originale tyske mærkevarer til bad og køkken — leveret direkte fra vores tyske lager med dansk garanti, dansk support og hurtig levering.</p>
+        <p style="margin-top:10px">CVR: 12 34 56 78</p>
+      </div>
+      <div>
+        <h4>Kundeservice</h4>
+        <ul>
+          <li><a href="#">Handelsbetingelser</a></li>
+          <li><a href="#">Fragt &amp; levering</a></li>
+          <li><a href="#">Returnering</a></li>
+          <li><a href="#">Persondatapolitik</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Kontakt</h4>
+        <ul>
+          <li><a href="tel:+4570123456">70 12 34 56</a></li>
+          <li><a href="mailto:kontakt@vvsdeal.dk">kontakt@vvsdeal.dk</a></li>
+          <li>Man–fre kl. 8–16</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © 2026 VVSdeal · Alle priser er inkl. 25% moms · Varemærker tilhører deres respektive ejere
+    </div>
+  </div>
+</footer>
+
+<!-- Cart drawer -->
+<div class="cart-overlay" id="cartOverlay" onclick="toggleCart(false)"></div>
+<aside class="cart-drawer" id="cartDrawer" aria-label="Indkøbskurv">
+  <div class="cart-head">
+    <h3>Din kurv</h3>
+    <button class="cart-close" onclick="toggleCart(false)" aria-label="Luk kurv">✕</button>
+  </div>
+  <div class="cart-items" id="cartItems"></div>
+  <div class="cart-foot">
+    <div class="cart-total-row"><span>I alt</span><span id="cartTotal">0 kr.</span></div>
+    <div class="cart-shipping" id="cartShipping"></div>
+    <button class="btn btn-accent" id="checkoutBtn" onclick="aabnCheckout()">Gå til kassen →</button>
+  </div>
+</aside>
+
+<!-- Quick view -->
+<div class="qv-overlay" id="qvOverlay" onclick="if(event.target===this)lukQuickView()">
+  <div class="qv-box">
+    <button class="qv-close" onclick="lukQuickView()" aria-label="Luk">✕</button>
+    <div class="qv-img"><img id="qvImg" src="" alt=""></div>
+    <div class="qv-info" id="qvInfo"></div>
+  </div>
+</div>
+
+<!-- Checkout -->
+<div class="co-overlay" id="coOverlay" onclick="if(event.target===this)lukCheckout()">
+  <div class="co-box">
+    <div class="co-head">
+      <div class="co-top">
+        <h2 id="coTitel">Kassen</h2>
+        <button class="qv-close" style="position:static" onclick="lukCheckout()" aria-label="Luk">✕</button>
+      </div>
+      <div class="co-steps" id="coSteps"></div>
+    </div>
+    <div class="co-body" id="coBody"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast">Lagt i kurven ✓</div>
+
+<!-- Produktdata genereres af sync_rocky.py — kør scriptet for at opdatere priser -->
+<script src="products.js"></script>
+<!-- Danske Google Trends-data genereres af trends_sync.py (valgfri — siden virker uden) -->
+<script src="trends.js"></script>
+<script>
+/* =========================================================
+   AUTOMATISK GENBESTILLING HOS LEVERANDØREN (dropshipping)
+   Sæt ORDER_WEBHOOK_URL til et webhook-endpoint (Make.com,
+   Zapier eller egen backend), så POSTes hver ordre dertil med
+   leverandørens varenumre og direkte produktlinks — klar til
+   automatisk videresendelse som bestilling hos rockyshop.de.
+   ========================================================= */
+const ORDER_WEBHOOK_URL = ""; // fx "https://hook.eu1.make.com/xxxxxxxx"
+const FRAGT = 49, FRI_FRAGT_GRAENSE = 999;
+const VIS_AD_GANGEN = 24;
+
+const DATA = (typeof SHOP_DATA !== "undefined") ? SHOP_DATA : null;
+const PRODUKTER = DATA ? DATA.produkter : [];
+const KATEGORI_NAVNE = DATA ? DATA.kategorier : {};
+
+// Kurven gemmes i localStorage, så den overlever genindlæsning
+let kurv = {};            // id -> antal
+try { kurv = JSON.parse(localStorage.getItem("vvsdeal_kurv")) || {}; } catch (e) {}
+const gemKurv = () => { try { localStorage.setItem("vvsdeal_kurv", JSON.stringify(kurv)); } catch (e) {} };
+
+let aktivKategori = "alle";
+let aktivtMaerke = "";
+let aktivFarve = "";
+let soegning = "";
+let sortering = "pop";
+let prisMin = null, prisMax = null;
+let visAntal = VIS_AD_GANGEN;
+
+// Fragtklasser: pakke (GLS) < tung (toiletter m.m.) < fragtmand (palle)
+const FRAGT_FALLBACK = { badekar: "fragtmand", brusekar: "fragtmand", brusekabiner: "fragtmand", badmoebler: "fragtmand", keramik: "tung" };
+const FRAGT_RANG = { pakke: 0, tung: 1, fragtmand: 2 };
+
+// Fallback hvis products.js er fra en ældre sync uden de nye felter
+PRODUKTER.forEach((p, i) => {
+  if (p.pop === undefined) p.pop = i + 1;
+  if (p.farve === undefined) p.farve = "";
+  if (p.trend === undefined) p.trend = false;
+  if (p.fragt === undefined) p.fragt = FRAGT_FALLBACK[p.cat] || "pakke";
+});
+
+/* Google Trends-integration (trends.js fra trends_sync.py).
+   Boost-faktorer 0,70–1,50 pr. farve, mærke og kategori baseret på
+   12 mdr. danske søgedata. Mangler trends.js, falder siden tilbage
+   på de statiske trendfarve-markeringer fra synkroniseringen. */
+const TRENDS = (typeof TRENDS_DATA !== "undefined") ? TRENDS_DATA : null;
+const farveBoost  = p => (TRENDS && TRENDS.farver[p.farve])    || (p.trend ? 1.2 : 1.0);
+const maerkeBoost = p => (TRENDS && TRENDS.maerker[p.maerke])  || 1.0;
+const katBoost    = p => (TRENDS && TRENDS.kategorier[p.cat])  || 1.0;
+// Samlet boost: farven vejer tungest (det er den, kunden ser først)
+const trendBoost  = p => 0.5 * farveBoost(p) + 0.3 * maerkeBoost(p) + 0.2 * katBoost(p);
+const erTrend     = p => TRENDS ? farveBoost(p) >= 1.10 : p.trend;
+
+// Popularitets-score til "Mest populære": lav = bedst.
+// Rockys salgsrang divideret med det danske trend-boost.
+const popScore = p => p.pop / trendBoost(p);
+
+const fmt = n => n.toLocaleString("da-DK") + " kr.";
+const byId = id => PRODUKTER.find(p => p.id === id);
+
+function initUI() {
+  if (!DATA) {
+    document.getElementById("productGrid").innerHTML = "";
+    document.getElementById("resultCount").innerHTML =
+      '<div class="no-data">Produktdata mangler. Kør <b>python sync_rocky.py</b> (eller dobbeltklik på <b>opdater_priser.bat</b>) for at hente sortimentet fra leverandøren.</div>';
+    return false;
+  }
+  // Hero-statistik
+  document.getElementById("statAntal").textContent = PRODUKTER.length.toLocaleString("da-DK") + "+";
+  document.getElementById("uspAntal").textContent = PRODUKTER.length.toLocaleString("da-DK");
+  const maerker = [...new Set(PRODUKTER.map(p => p.maerke))].sort((a, b) => a.localeCompare(b, "da"));
+  document.getElementById("statMaerker").textContent = maerker.length;
+
+  // Mærke-dropdown
+  const sel = document.getElementById("brandSelect");
+  maerker.forEach(m => {
+    const antal = PRODUKTER.filter(p => p.maerke === m).length;
+    sel.insertAdjacentHTML("beforeend", `<option value="${m}">${m} (${antal})</option>`);
+  });
+
+  // Farve-dropdown (trendfarver øverst med 🔥)
+  const farver = [...new Set(PRODUKTER.map(p => p.farve).filter(Boolean))];
+  const erTrendFarve = f => TRENDS
+    ? (TRENDS.farver[f] || 1) >= 1.10
+    : PRODUKTER.some(p => p.farve === f && p.trend);
+  const trendFarver = farver.filter(erTrendFarve).sort();
+  const andreFarver = farver.filter(f => !trendFarver.includes(f)).sort();
+  const colSel = document.getElementById("colorSelect");
+  [...trendFarver.map(f => [f, "🔥 "]), ...andreFarver.map(f => [f, ""])].forEach(([f, fx]) => {
+    const antal = PRODUKTER.filter(p => p.farve === f).length;
+    colSel.insertAdjacentHTML("beforeend", `<option value="${f}">${fx}${f} (${antal})</option>`);
+  });
+
+  // Kategori-faner
+  const filters = document.getElementById("filters");
+  filters.innerHTML = `<button class="filter-tab active" data-cat="alle">Alle (${PRODUKTER.length})</button>` +
+    Object.entries(KATEGORI_NAVNE).map(([k, navn]) => {
+      const antal = PRODUKTER.filter(p => p.cat === k).length;
+      return antal ? `<button class="filter-tab" data-cat="${k}">${navn} (${antal})</button>` : "";
+    }).join("");
+
+  // Tidsstempel
+  const d = new Date(DATA.genereret);
+  let stamp = `<b>●</b> Priser og lagerstatus senest opdateret ${d.toLocaleDateString("da-DK", { day: "numeric", month: "long", year: "numeric" })} kl. ${d.toLocaleTimeString("da-DK", { hour: "2-digit", minute: "2-digit" })}`;
+  if (TRENDS) {
+    const td = new Date(TRENDS.genereret);
+    stamp += ` &nbsp;·&nbsp; 🔥 Sortering styret af danske Google Trends-data (${td.toLocaleDateString("da-DK", { day: "numeric", month: "long" })})`;
+  }
+  document.getElementById("dataStamp").innerHTML = stamp;
+
+  // Hero-collage med 3 flotte produkter (dyre varer med billede)
+  const kandidater = PRODUKTER.filter(p => p.billede && p.lager && p.pris > 2000);
+  const valgte = [];
+  const oensketKat = ["armaturer", "badmoebler", "koekkenarmatur", "brusekabiner", "badekar"];
+  for (const kat of oensketKat) {
+    const p = kandidater.find(x => x.cat === kat && !valgte.includes(x));
+    if (p) valgte.push(p);
+    if (valgte.length === 3) break;
+  }
+  while (valgte.length < 3 && kandidater[valgte.length]) valgte.push(kandidater[valgte.length]);
+  document.getElementById("heroCollage").innerHTML = valgte.map(p => `
+    <a class="hero-tile" href="#produkter" onclick="hurtigSoeg('${p.id}')">
+      <img src="${p.billede}" alt="" loading="lazy">
+      <div class="ht-info">
+        <div class="ht-name">${p.navn}</div>
+        <div class="ht-price">${fmt(p.pris)}</div>
+      </div>
+    </a>`).join("");
+  return true;
+}
+
+function hurtigSoeg(id) {
+  const input = document.getElementById("searchInput");
+  input.value = id;
+  soegning = id;
+  visAntal = VIS_AD_GANGEN;
+  renderProdukter();
+}
+
+function filtrerede() {
+  const q = soegning.trim().toLowerCase();
+  let liste = PRODUKTER.filter(p =>
+    (aktivKategori === "alle" || p.cat === aktivKategori) &&
+    (!aktivtMaerke || p.maerke === aktivtMaerke) &&
+    (!aktivFarve || p.farve === aktivFarve) &&
+    (prisMin == null || p.pris >= prisMin) &&
+    (prisMax == null || p.pris <= prisMax) &&
+    (!q || p.navn.toLowerCase().includes(q) || p.id.toLowerCase().includes(q) || p.maerke.toLowerCase().includes(q))
+  );
+  if (sortering === "pop")      liste = [...liste].sort((a, b) => popScore(a) - popScore(b));
+  if (sortering === "trend")    liste = [...liste].sort((a, b) =>
+    (erTrend(b) - erTrend(a)) || (trendBoost(b) - trendBoost(a)) || (a.pop - b.pop));
+  if (sortering === "prisAsc")  liste = [...liste].sort((a, b) => a.pris - b.pris);
+  if (sortering === "prisDesc") liste = [...liste].sort((a, b) => b.pris - a.pris);
+  if (sortering === "navn")     liste = [...liste].sort((a, b) => a.navn.localeCompare(b.navn, "da"));
+  return liste;
+}
+
+function renderProdukter() {
+  if (!DATA) return;
+  const liste = filtrerede();
+  const vis = liste.slice(0, visAntal);
+  document.getElementById("resultCount").textContent =
+    `Viser ${vis.length} af ${liste.length.toLocaleString("da-DK")} produkter`;
+  document.getElementById("productGrid").innerHTML = vis.map(p => `
+    <div class="product">
+      <div class="product-img" style="cursor:pointer" onclick="quickView('${p.id}')" title="Se detaljer">
+        ${p.foerPris && p.foerPris > p.pris
+          ? `<span class="badge">Spar ${Math.round((1 - p.pris / p.foerPris) * 100)}%</span>`
+          : erTrend(p) ? `<span class="badge trend">🔥 Trend</span>` : ""}
+        <img src="${p.billede}" alt="${p.navn.replace(/"/g, "&quot;")}" loading="lazy"
+             onerror="this.parentElement.style.background='#f1f5f9'; this.remove()">
+      </div>
+      <div class="product-body">
+        <div class="meta">
+          <span class="brand">${p.maerke}</span>
+          <span class="sku">Varenr. ${p.id}</span>
+        </div>
+        <h3 style="cursor:pointer" onclick="quickView('${p.id}')">${p.navn}</h3>
+        ${p.farve ? `<div class="farve-chip">${p.farve}</div>` : ""}
+        <div class="price-row">
+          <span class="price">${fmt(p.pris)}</span>
+          ${p.foerPris && p.foerPris > p.pris ? `<span class="price-old">Før ${fmt(p.foerPris)}</span>` : ""}
+        </div>
+        <button class="add-btn" onclick="addToCart('${p.id}', this)" ${p.lager ? "" : "disabled"}>
+          ${p.lager ? "Læg i kurv" : "Midlertidigt udsolgt"}
+        </button>
+        <div class="stock ${p.lager ? "in" : "out"}">${p.lager ? "✓ På lager — klar til afsendelse" : "⏳ Kontakt os for leveringstid"}</div>
+      </div>
+    </div>`).join("");
+  document.getElementById("loadMoreBtn").style.display = liste.length > visAntal ? "inline-block" : "none";
+}
+
+function visFlere() {
+  visAntal += VIS_AD_GANGEN;
+  renderProdukter();
+}
+
+document.getElementById("filters").addEventListener("click", e => {
+  if (!e.target.matches(".filter-tab")) return;
+  document.querySelectorAll(".filter-tab").forEach(t => t.classList.remove("active"));
+  e.target.classList.add("active");
+  aktivKategori = e.target.dataset.cat;
+  visAntal = VIS_AD_GANGEN;
+  renderProdukter();
+});
+document.getElementById("searchInput").addEventListener("input", e => {
+  soegning = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
+});
+document.getElementById("brandSelect").addEventListener("change", e => {
+  aktivtMaerke = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
+});
+document.getElementById("colorSelect").addEventListener("change", e => {
+  aktivFarve = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
+});
+document.getElementById("sortSelect").addEventListener("change", e => {
+  sortering = e.target.value; visAntal = VIS_AD_GANGEN; renderProdukter();
+});
+document.getElementById("prisMin").addEventListener("input", e => {
+  prisMin = e.target.value ? +e.target.value : null; visAntal = VIS_AD_GANGEN; renderProdukter();
+});
+document.getElementById("prisMax").addEventListener("input", e => {
+  prisMax = e.target.value ? +e.target.value : null; visAntal = VIS_AD_GANGEN; renderProdukter();
+});
+
+function nulstilFiltre() {
+  aktivKategori = "alle"; aktivtMaerke = ""; aktivFarve = ""; soegning = "";
+  prisMin = prisMax = null; sortering = "pop"; visAntal = VIS_AD_GANGEN;
+  ["searchInput", "prisMin", "prisMax"].forEach(id => document.getElementById(id).value = "");
+  document.getElementById("brandSelect").value = "";
+  document.getElementById("colorSelect").value = "";
+  document.getElementById("sortSelect").value = "pop";
+  document.querySelectorAll(".filter-tab").forEach(t => t.classList.toggle("active", t.dataset.cat === "alle"));
+  renderProdukter();
+}
+
+function addToCart(id, btn) {
+  kurv[id] = (kurv[id] || 0) + 1;
+  gemKurv();
+  renderCart();
+  if (btn) {
+    btn.textContent = "Tilføjet ✓";
+    btn.classList.add("added");
+    setTimeout(() => { btn.textContent = "Læg i kurv"; btn.classList.remove("added"); }, 1200);
+  }
+  const toast = document.getElementById("toast");
+  toast.classList.add("show");
+  clearTimeout(toast._t);
+  toast._t = setTimeout(() => toast.classList.remove("show"), 1800);
+}
+
+function changeQty(id, delta) {
+  kurv[id] = (kurv[id] || 0) + delta;
+  if (kurv[id] <= 0) delete kurv[id];
+  gemKurv();
+  renderCart();
+}
+
+function renderCart() {
+  const items = document.getElementById("cartItems");
+  const ids = Object.keys(kurv);
+  document.getElementById("cartCount").textContent = ids.reduce((s, id) => s + kurv[id], 0);
+
+  if (!ids.length) {
+    items.innerHTML = '<div class="cart-empty">Din kurv er tom.<br>Find noget lækkert til badet eller køkkenet! 🛁</div>';
+    document.getElementById("cartTotal").textContent = fmt(0);
+    document.getElementById("cartShipping").textContent = `Fragt: ${fmt(FRAGT)} — fri fragt over ${fmt(FRI_FRAGT_GRAENSE)}`;
+    return;
+  }
+
+  let subtotal = 0;
+  items.innerHTML = ids.map(id => {
+    const p = byId(id);
+    const linje = p.pris * kurv[id];
+    subtotal += linje;
+    return `
+      <div class="cart-item">
+        <img src="${p.billede}" alt="" loading="lazy">
+        <div class="ci-mid">
+          <div class="ci-name">${p.navn}</div>
+          <div class="ci-price">${fmt(p.pris)} / stk. · Varenr. ${p.id}</div>
+          <div class="qty-controls">
+            <button onclick="changeQty('${id}', -1)">−</button>
+            <span>${kurv[id]}</span>
+            <button onclick="changeQty('${id}', 1)">+</button>
+          </div>
+        </div>
+        <div class="ci-total">${fmt(linje)}</div>
+      </div>`;
+  }).join("");
+
+  const fragt = subtotal >= FRI_FRAGT_GRAENSE ? 0 : FRAGT;
+  document.getElementById("cartTotal").textContent = fmt(subtotal + fragt);
+  document.getElementById("cartShipping").textContent = fragt === 0
+    ? "🎉 Fri fragt!"
+    : `Fragt: ${fmt(fragt)} — køb for ${fmt(FRI_FRAGT_GRAENSE - subtotal)} mere og få fri fragt`;
+}
+
+function toggleCart(open) {
+  document.getElementById("cartDrawer").classList.toggle("open", open);
+  document.getElementById("cartOverlay").classList.toggle("open", open);
+}
+
+/* ================= QUICK VIEW ================= */
+function stortBillede(url) {
+  // Rockys cache-URL peger på 210px-udgaven; originalen ligger uden cache-stien
+  return url.replace(/cache\/1\/small_image\/\d+x\/[0-9a-f]+\//, "");
+}
+
+function quickView(id) {
+  const p = byId(id);
+  if (!p) return;
+  const img = document.getElementById("qvImg");
+  img.onerror = () => { img.onerror = null; img.src = p.billede; };
+  img.src = stortBillede(p.billede);
+  document.getElementById("qvInfo").innerHTML = `
+    <span class="brand">${p.maerke}</span>
+    <h2>${p.navn}</h2>
+    <div class="sku">Varenr. ${p.id}</div>
+    <ul class="qv-facts">
+      <li><b>Kategori:</b> ${KATEGORI_NAVNE[p.cat] || p.cat}</li>
+      ${p.farve ? `<li><b>Farve:</b> ${p.farve}${erTrend(p) ? " 🔥" : ""}</li>` : ""}
+      <li><b>Lagerstatus:</b> ${p.lager ? "✓ På lager — sendes inden for 1 hverdag" : `Skaffevare${p.leveringstid ? " — leveringstid " + p.leveringstid : " — kontakt os for leveringstid"}`}</li>
+      <li><b>Fragt:</b> ${{ pakke: "GLS-pakke", tung: "Tung pakke til døren", fragtmand: "Fragtmand (palle)" }[p.fragt]}</li>
+      <li><b>Garanti:</b> Fuld producentgaranti</li>
+    </ul>
+    <div class="qv-price">${fmt(p.pris)}
+      ${p.foerPris && p.foerPris > p.pris ? `<span class="qv-old" style="font-size:1rem"> Før ${fmt(p.foerPris)}</span>` : ""}
+    </div>
+    <div style="font-size:.8rem;color:var(--text-light);margin-bottom:14px">Inkl. 25% moms · Fri fragt over ${fmt(FRI_FRAGT_GRAENSE)}</div>
+    <button class="add-btn" onclick="addToCart('${p.id}', this)" ${p.lager ? "" : "disabled"}>
+      ${p.lager ? "Læg i kurv" : "Midlertidigt udsolgt"}
+    </button>`;
+  document.getElementById("qvOverlay").classList.add("open");
+}
+function lukQuickView() { document.getElementById("qvOverlay").classList.remove("open"); }
+
+/* ================= CHECKOUT (4 trin) ================= */
+/* Leveringsmuligheder pr. fragtklasse. Kurvens "tungeste" vare bestemmer,
+   hvilke muligheder der vises — et badekar kan ikke sendes til en pakkeshop. */
+const LEVERINGER_PR_KLASSE = {
+  pakke: [
+    { id: "pakkeshop", navn: "GLS Pakkeshop", info: "2–4 hverdage — afhent når det passer dig", pris: s => s >= FRI_FRAGT_GRAENSE ? 0 : 49 },
+    { id: "hjem", navn: "Levering til døren", info: "2–4 hverdage — leveres på din adresse", pris: s => s >= 1999 ? 0 : 99 },
+  ],
+  tung: [
+    { id: "tung", navn: "Levering til døren (tung pakke)", info: "3–5 hverdage — toiletter, håndvaske og keramik", pris: s => s >= 4999 ? 0 : 199 },
+  ],
+  fragtmand: [
+    { id: "fragtmand", navn: "Fragtmand med afsætning på adressen", info: "4–7 hverdage — badekar, møbler, kabiner leveres på palle", pris: s => s >= 14999 ? 0 : 499 },
+  ],
+};
+
+function kurvKlasse() {
+  let klasse = "pakke";
+  Object.keys(kurv).forEach(id => {
+    const p = byId(id);
+    if (p && FRAGT_RANG[p.fragt] > FRAGT_RANG[klasse]) klasse = p.fragt;
+  });
+  return klasse;
+}
+const aktuelleLeveringer = () => LEVERINGER_PR_KLASSE[kurvKlasse()];
+const alleLeveringer = () => Object.values(LEVERINGER_PR_KLASSE).flat();
+const BETALINGER = [
+  { id: "kort", navn: "Betalingskort", info: "Visa, Mastercard, Dankort" },
+  { id: "mobilepay", navn: "MobilePay", info: "Godkend i appen" },
+  { id: "bank", navn: "Bankoverførsel", info: "Varerne afsendes, når betalingen er modtaget" },
+];
+
+let coStep = 1;
+let ordre = { levering: "pakkeshop", betaling: "kort" };
+
+const subtotal = () => Object.keys(kurv).reduce((s, id) => s + byId(id).pris * kurv[id], 0);
+const fragtPris = () => {
+  const ls = aktuelleLeveringer();
+  return (ls.find(l => l.id === ordre.levering) || ls[0]).pris(subtotal());
+};
+
+function aabnCheckout() {
+  if (!Object.keys(kurv).length) return;
+  // Sørg for at leveringsvalget passer til kurvens fragtklasse
+  const ls = aktuelleLeveringer();
+  if (!ls.some(l => l.id === ordre.levering)) ordre.levering = ls[0].id;
+  coStep = 1;
+  toggleCart(false);
+  document.getElementById("coOverlay").classList.add("open");
+  renderCheckout();
+}
+function lukCheckout() { document.getElementById("coOverlay").classList.remove("open"); }
+
+function renderCheckout() {
+  const trin = ["Kurv", "Oplysninger", "Levering & betaling", "Færdig"];
+  document.getElementById("coSteps").innerHTML = trin.map((t, i) =>
+    `<div class="co-step ${i + 1 === coStep ? "active" : i + 1 < coStep ? "done" : ""}">${i + 1}. ${t}</div>`).join("");
+  document.getElementById("coTitel").textContent = trin[coStep - 1];
+  const b = document.getElementById("coBody");
+
+  if (coStep === 1) {
+    b.innerHTML = Object.keys(kurv).map(id => {
+      const p = byId(id);
+      return `<div class="co-line"><span class="n">${kurv[id]} × ${p.navn}</span><span><b>${fmt(p.pris * kurv[id])}</b></span></div>`;
+    }).join("") + `
+      <div class="co-line"><span class="n">Fragt (vælges i trin 3)</span><span>fra ${fmt(0)}</span></div>
+      <div class="co-total"><span>Subtotal</span><span>${fmt(subtotal())}</span></div>
+      <div class="co-knapper">
+        <button class="btn btn-tilbage" onclick="lukCheckout()">Køb mere</button>
+        <button class="btn btn-accent" onclick="coStep=2;renderCheckout()">Videre →</button>
+      </div>`;
+  }
+
+  if (coStep === 2) {
+    b.innerHTML = `
+      <div class="form-group"><label>Fulde navn *</label><input id="co-navn" value="${ordre.navn || ""}" placeholder="Dit fulde navn"></div>
+      <div class="co-row">
+        <div class="form-group"><label>E-mail *</label><input id="co-email" type="email" value="${ordre.email || ""}" placeholder="din@email.dk"></div>
+        <div class="form-group"><label>Telefon *</label><input id="co-tlf" type="tel" value="${ordre.tlf || ""}" placeholder="12 34 56 78"></div>
+      </div>
+      <div class="form-group"><label>Adresse *</label><input id="co-adresse" value="${ordre.adresse || ""}" placeholder="Gadenavn og nummer"></div>
+      <div class="co-row">
+        <div class="form-group"><label>Postnr. *</label><input id="co-postnr" inputmode="numeric" value="${ordre.postnr || ""}" placeholder="8000"></div>
+        <div class="form-group"><label>By *</label><input id="co-by" value="${ordre.by || ""}" placeholder="Aarhus C"></div>
+      </div>
+      <div class="form-group"><label>Kommentar til ordren (valgfri)</label><textarea id="co-note" placeholder="Fx ønsker om leveringstidspunkt">${ordre.note || ""}</textarea></div>
+      <div class="co-fejl" id="coFejl">Udfyld venligst alle felter markeret med * (postnr. = 4 cifre).</div>
+      <div class="co-knapper">
+        <button class="btn btn-tilbage" onclick="coStep=1;renderCheckout()">← Tilbage</button>
+        <button class="btn btn-accent" onclick="validerOplysninger()">Videre →</button>
+      </div>`;
+  }
+
+  if (coStep === 3) {
+    const s = subtotal();
+    b.innerHTML = `
+      <p style="font-weight:700;margin-bottom:8px">Levering</p>
+      ${aktuelleLeveringer().map(l => `
+        <label class="co-valg ${ordre.levering === l.id ? "valgt" : ""}">
+          <input type="radio" name="lev" ${ordre.levering === l.id ? "checked" : ""}
+                 onchange="ordre.levering='${l.id}';renderCheckout()">
+          <span><span class="t">${l.navn}</span><br><span class="d">${l.info}</span></span>
+          <span class="p">${l.pris(s) === 0 ? "Gratis" : fmt(l.pris(s))}</span>
+        </label>`).join("")}
+      <p style="font-weight:700;margin:16px 0 8px">Betaling</p>
+      ${BETALINGER.map(m => `
+        <label class="co-valg ${ordre.betaling === m.id ? "valgt" : ""}">
+          <input type="radio" name="bet" ${ordre.betaling === m.id ? "checked" : ""}
+                 onchange="ordre.betaling='${m.id}';renderCheckout()">
+          <span><span class="t">${m.navn}</span><br><span class="d">${m.info}</span></span>
+        </label>`).join("")}
+      <div class="co-demo">⚠️ Demobutik: Der trækkes ingen penge endnu. Rigtig betaling kobles på via fx QuickPay eller Stripe, før shoppen går live.</div>
+      <div class="co-line"><span class="n">Subtotal</span><span>${fmt(s)}</span></div>
+      <div class="co-line"><span class="n">Fragt</span><span>${fragtPris() === 0 ? "Gratis" : fmt(fragtPris())}</span></div>
+      <div class="co-total"><span>I alt inkl. moms</span><span>${fmt(s + fragtPris())}</span></div>
+      <div class="co-knapper">
+        <button class="btn btn-tilbage" onclick="coStep=2;renderCheckout()">← Tilbage</button>
+        <button class="btn btn-accent" onclick="gennemfoerKoeb(this)">Gennemfør køb 🔒</button>
+      </div>`;
+  }
+
+  if (coStep === 4) {
+    b.innerHTML = `
+      <div class="co-ok">
+        <div class="ikon">🎉</div>
+        <h3>Tak for din ordre, ${(ordre.navn || "").split(" ")[0]}!</h3>
+        <div class="onr">${ordre.nummer}</div>
+        <p>Vi har sendt en ordrebekræftelse til <b>${ordre.email}</b>.<br>
+           Ordren er videresendt til vores lager og afsendes med <b>${(alleLeveringer().find(l => l.id === ordre.levering) || {}).navn}</b>.</p>
+        <div class="co-knapper" style="margin-top:22px">
+          <button class="btn btn-accent" onclick="lukCheckout()">Tilbage til shoppen</button>
+        </div>
+      </div>`;
+  }
+}
+
+function validerOplysninger() {
+  const f = id => document.getElementById(id).value.trim();
+  ordre = { ...ordre, navn: f("co-navn"), email: f("co-email"), tlf: f("co-tlf"),
+            adresse: f("co-adresse"), postnr: f("co-postnr"), by: f("co-by"), note: f("co-note") };
+  const ok = ordre.navn && /\S+@\S+\.\S+/.test(ordre.email) && ordre.tlf &&
+             ordre.adresse && /^\d{4}$/.test(ordre.postnr) && ordre.by;
+  if (!ok) { document.getElementById("coFejl").style.display = "block"; return; }
+  coStep = 3;
+  renderCheckout();
+}
+
+function gennemfoerKoeb(btn) {
+  btn.disabled = true;
+  btn.textContent = "Behandler…";
+  ordre.nummer = "VD-" + Date.now().toString(36).toUpperCase();
+  const payload = {
+    ordrenummer: ordre.nummer,
+    tidspunkt: new Date().toISOString(),
+    kunde: { navn: ordre.navn, email: ordre.email, telefon: ordre.tlf,
+             adresse: `${ordre.adresse}, ${ordre.postnr} ${ordre.by}`, kommentar: ordre.note || "" },
+    levering: ordre.levering,
+    betaling: ordre.betaling,
+    linjer: Object.keys(kurv).map(id => {
+      const p = byId(id);
+      return { varenr: p.id, navn: p.navn, navnDE: p.navnDE || p.navn, antal: kurv[id],
+               salgsprisDKK: p.pris, indkoebsprisEUR: p.eur,
+               leverandoer: "rockyshop.de", leverandoerUrl: p.url };
+    }),
+    subtotalDKK: subtotal(),
+    fragtDKK: fragtPris(),
+    totalDKK: subtotal() + fragtPris(),
+  };
+  if (ORDER_WEBHOOK_URL) {
+    fetch(ORDER_WEBHOOK_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload)
+    }).catch(err => console.error("Webhook-fejl:", err));
+  } else {
+    console.log("DEMO — ordre-payload til leverandør:", payload);
+  }
+  try {
+    const hist = JSON.parse(localStorage.getItem("vvsdeal_ordrer")) || [];
+    hist.push(payload);
+    localStorage.setItem("vvsdeal_ordrer", JSON.stringify(hist));
+  } catch (e) {}
+  kurv = {};
+  gemKurv();
+  renderCart();
+  coStep = 4;
+  renderCheckout();
+}
+
+function handleContact(form) {
+  form.querySelector(".form-success").style.display = "block";
+  form.querySelectorAll("input, textarea, button").forEach(el => el.disabled = true);
+  return false;
+}
+
+document.querySelectorAll(".nav-links a").forEach(a =>
+  a.addEventListener("click", () => document.querySelector(".nav-links").classList.remove("open"))
+);
+
+if (initUI()) {
+  renderProdukter();
+  renderCart();
+  // Dybt link fra SEO-produktsider: index.html?vare=<varenr> åbner produktet
+  const dybtLink = new URLSearchParams(location.search).get("vare");
+  if (dybtLink && byId(dybtLink)) quickView(dybtLink);
+}
+</script>
+
+</body>
+</html>

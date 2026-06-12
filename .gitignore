@@ -1,0 +1,14 @@
+# Følsomt — indeholder indkøbspriser; må ALDRIG committes til et offentligt repo
+products.js
+konkurrenter.js
+prisrapport.csv
+prisjusteringer.json
+
+# Genereret / midlertidigt
+dist/
+produkt/
+sitemap.xml
+robots.txt
+sync_cache.json
+sync_log.txt
+__pycache__/
