@@ -922,7 +922,8 @@ let kurv = {};            // id -> antal
 try { kurv = JSON.parse(localStorage.getItem("vvsdeal_kurv")) || {}; } catch (e) {}
 const gemKurv = () => { try { localStorage.setItem("vvsdeal_kurv", JSON.stringify(kurv)); } catch (e) {} };
 
-let aktivKategori = "alle";
+const PRESET_KATEGORI = (typeof PRESET_KAT !== "undefined" && PRESET_KAT) ? PRESET_KAT : "alle";
+let aktivKategori = PRESET_KATEGORI;
 let aktivtMaerke = "";
 let aktivFarve = "";
 let aktivType = "";
@@ -1058,26 +1059,27 @@ function initUI() {
   catGrid.innerHTML = Object.entries(KATEGORI_NAVNE).map(([k, navn]) => {
     const kandidater = PRODUKTER.filter(p => p.cat === k && p.billede && p.lager).sort((a, b) => b.pris - a.pris);
     if (!kandidater.length) return "";
-    return `<a class="cat-tile" data-cat="${k}" href="#produkter">
+    return `<a class="cat-tile" data-cat="${k}" href="/kategori/${k}.html">
       <img src="${kandidater[0].billede}" alt="" loading="lazy">
       <div class="cat-label">${navn}</div>
     </a>`;
   }).join("");
 
   // Kategori-faner (mobil) + kategori-sidebar (desktop)
+  const erAktiv = k => k === aktivKategori ? " active" : "";
   const filters = document.getElementById("filters");
-  const katListe = `<button class="filter-tab active" data-cat="alle">Alle (${PRODUKTER.length})</button>` +
+  const katListe = `<button class="filter-tab${erAktiv("alle")}" data-cat="alle">Alle (${PRODUKTER.length})</button>` +
     Object.entries(KATEGORI_NAVNE).map(([k, navn]) => {
       const antal = PRODUKTER.filter(p => p.cat === k).length;
-      return antal ? `<button class="filter-tab" data-cat="${k}">${navn} (${antal})</button>` : "";
+      return antal ? `<button class="filter-tab${erAktiv(k)}" data-cat="${k}">${navn} (${antal})</button>` : "";
     }).join("");
   filters.innerHTML = katListe;
 
   const sidebar = document.getElementById("catSidebar");
-  sidebar.innerHTML = `<div class="cat-side-item active" data-cat="alle"><span>Alle</span><span class="n">${PRODUKTER.length}</span></div>` +
+  sidebar.innerHTML = `<div class="cat-side-item${erAktiv("alle")}" data-cat="alle"><span>Alle</span><span class="n">${PRODUKTER.length}</span></div>` +
     Object.entries(KATEGORI_NAVNE).map(([k, navn]) => {
       const antal = PRODUKTER.filter(p => p.cat === k).length;
-      return antal ? `<div class="cat-side-item" data-cat="${k}"><span>${navn}</span><span class="n">${antal}</span></div>` : "";
+      return antal ? `<div class="cat-side-item${erAktiv(k)}" data-cat="${k}"><span>${navn}</span><span class="n">${antal}</span></div>` : "";
     }).join("");
 
   // Populært lige nu: mest populære varer på lager, evt. med spar-badge
@@ -1311,13 +1313,6 @@ function setKategori(kat, scroll) {
   renderProdukter();
   if (scroll) document.getElementById("produkter").scrollIntoView({ behavior: "smooth" });
 }
-
-document.getElementById("catGrid").addEventListener("click", e => {
-  const tile = e.target.closest(".cat-tile");
-  if (!tile) return;
-  e.preventDefault();
-  setKategori(tile.dataset.cat, true);
-});
 
 document.getElementById("filters").addEventListener("click", e => {
   if (!e.target.matches(".filter-tab")) return;

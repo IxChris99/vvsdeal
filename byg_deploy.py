@@ -42,8 +42,63 @@ def main() -> None:
         if os.path.isdir(mappe):
             shutil.copytree(mappe, os.path.join(UD, mappe))
 
+    byg_kategori_sider(data.get("kategorier", {}))
+
     antal = sum(len(fs) for _, _, fs in os.walk(UD))
     print(f"dist/ bygget: {antal} filer — klar til upload (UDEN indkøbspriser og admin)")
+
+
+def byg_kategori_sider(kategorier: dict) -> None:
+    """Bygger egne sider for hver kategori (dist/kategori/<key>.html),
+    så hver kategori får sin egen URL, titel og meta-beskrivelse til SEO."""
+    if not os.path.exists("index.html"):
+        return
+    with open("index.html", encoding="utf-8") as f:
+        skabelon = f.read()
+
+    ud_mappe = os.path.join(UD, "kategori")
+    os.makedirs(ud_mappe, exist_ok=True)
+
+    for k, navn in kategorier.items():
+        html = skabelon
+
+        # Titel og meta-beskrivelse
+        html = html.replace(
+            "<title>VVSdeal — Alt til bad &amp; køkken i tysk kvalitet</title>",
+            f"<title>{navn} — VVSdeal</title>",
+        )
+        html = html.replace(
+            '<meta name="description" content="Armaturer, badmøbler, brusekabiner, badekar og '
+            'køkkenarmaturer fra Hansgrohe, Grohe, Burgbad m.fl. Tysk kvalitet — leveret i Danmark.">',
+            f'<meta name="description" content="{navn} fra Hansgrohe, Grohe, Burgbad m.fl. '
+            f'Tysk kvalitet til danske priser — fri fragt over 999 kr. og 30 dages returret.">\n'
+            f'<link rel="canonical" href="https://www.vvsdeal.dk/kategori/{k}.html">',
+        )
+
+        # Overskrift og tekst i produktsektionen
+        html = html.replace(
+            "<h2>Hele sortimentet til bad &amp; køkken</h2>",
+            f"<h2>{navn}</h2>",
+        )
+        html = html.replace(
+            "<p>Søg blandt tusindvis af originale mærkevarer — alle leveres direkte fra vores "
+            "tyske lager med fuld producentgaranti.</p>",
+            f"<p>Se hele udvalget af {navn.lower()} — leveres direkte fra vores tyske lager "
+            f"med fuld producentgaranti.</p>",
+        )
+
+        # Forvalgt kategori + relative stier til produktdata (siden ligger i kategori/)
+        html = html.replace(
+            '<script src="products.js"></script>',
+            f'<script>const PRESET_KAT = "{k}";</script>\n<script src="../products.js"></script>',
+        )
+        html = html.replace(
+            '<script src="trends.js"></script>',
+            '<script src="../trends.js"></script>',
+        )
+
+        with open(os.path.join(ud_mappe, f"{k}.html"), "w", encoding="utf-8") as f:
+            f.write(html)
 
 
 if __name__ == "__main__":
