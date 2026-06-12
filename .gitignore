@@ -1,8 +1,6 @@
-# Følsomt — indeholder indkøbspriser; må ALDRIG committes til et offentligt repo
+# Følsomt — indeholder indkøbspriser (eur-feltet); må ALDRIG committes
 products.js
-konkurrenter.js
 prisrapport.csv
-prisjusteringer.json
 
 # Genereret / midlertidigt
 dist/

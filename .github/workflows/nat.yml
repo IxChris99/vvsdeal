@@ -1,0 +1,67 @@
+name: Natlig sync & deploy
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 00:30 UTC = kl. 01:30/02:30 dansk tid
+  workflow_dispatch: {}     # kan også startes manuelt under Actions-fanen
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nat-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 320
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Katalog-sync fra rockyshop.de (1-2 timer)
+        run: python sync_rocky.py
+
+      - name: Efterbehandling (danske navne, fragt, komprimering)
+        run: python efterbehandl.py
+
+      - name: Pristest (800 varer, nye + ældst tjekkede)
+        continue-on-error: true   # konkurrenterne kan blokere datacenter-IP'er
+        run: python pristester.py --antal 800 --nye --opdater
+
+      - name: Genberegn priser (10% under konkurrent, gulv Rocky+12%)
+        run: python genberegn_priser.py
+
+      - name: SEO-produktsider + sitemap
+        run: python lav_seo_sider.py
+
+      - name: Byg offentlig udgave (uden indkøbspriser)
+        run: python byg_deploy.py
+
+      - name: Gem opdateret prisdata tilbage i repoet
+        run: |
+          git config user.name "vvsdeal-bot"
+          git config user.email "actions@github.com"
+          git add konkurrenter.js prisjusteringer.json
+          git diff --cached --quiet || git commit -m "Natlig prisdata-opdatering [skip ci]"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

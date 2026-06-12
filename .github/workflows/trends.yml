@@ -1,0 +1,34 @@
+name: Ugentlig Google Trends
+
+on:
+  schedule:
+    - cron: "15 0 * * 0"   # søndag 00:15 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  trends:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pytrends
+
+      - name: Hent danske Google Trends
+        continue-on-error: true   # Google rate-limiter af og til; merge bevarer gamle data
+        run: python trends_sync.py
+
+      - name: Gem trends.js i repoet
+        run: |
+          git config user.name "vvsdeal-bot"
+          git config user.email "actions@github.com"
+          git add trends.js
+          git diff --cached --quiet || git commit -m "Ugentlig trends-opdatering [skip ci]"
+          git push
