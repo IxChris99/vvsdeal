@@ -12,6 +12,8 @@ import Stripe from "stripe";
 const TILLADTE_OPRINDELSER = new Set([
   "https://www.vvsdeal.dk",
   "https://vvsdeal.dk",
+  "http://www.vvsdeal.dk",
+  "http://vvsdeal.dk",
   "http://localhost:8742",
 ]);
 
