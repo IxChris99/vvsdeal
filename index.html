@@ -799,6 +799,13 @@
    automatisk videresendelse som bestilling hos rockyshop.de.
    ========================================================= */
 const ORDER_WEBHOOK_URL = ""; // fx "https://hook.eu1.make.com/xxxxxxxx"
+
+/* =========================================================
+   BETALING (Stripe via Cloudflare Worker)
+   API_BASE_URL skal pege på den deployede vvsdeal-api worker.
+   Er den tom, falder "kort"/"mobilepay" tilbage til demo-flowet.
+   ========================================================= */
+const API_BASE_URL = "https://vvsdeal-api.vvsdeal.workers.dev";
 const FRAGT = 49, FRI_FRAGT_GRAENSE = 999;
 const VIS_AD_GANGEN = 24;
 
@@ -1436,7 +1443,7 @@ function renderCheckout() {
                  onchange="ordre.betaling='${m.id}';renderCheckout()">
           <span><span class="t">${m.navn}</span><br><span class="d">${m.info}</span></span>
         </label>`).join("")}
-      <div class="co-demo">⚠️ Demobutik: Der trækkes ingen penge endnu. Rigtig betaling kobles på via fx QuickPay eller Stripe, før shoppen går live.</div>
+      ${!API_BASE_URL ? '<div class="co-demo">⚠️ Demobutik: Der trækkes ingen penge endnu. Rigtig betaling via Stripe kobles på, før shoppen går live.</div>' : ''}
       <div class="co-line"><span class="n">Subtotal</span><span>${fmt(s)}</span></div>
       <div class="co-line"><span class="n">Fragt</span><span>${fragtPris() === 0 ? "Gratis" : fmt(fragtPris())}</span></div>
       <div class="co-total"><span>I alt inkl. moms</span><span>${fmt(s + fragtPris())}</span></div>
@@ -1493,6 +1500,43 @@ function gennemfoerKoeb(btn) {
     fragtDKK: fragtPris(),
     totalDKK: subtotal() + fragtPris(),
   };
+
+  // Kort/MobilePay: send videre til Stripe Checkout (rigtig betaling)
+  if ((ordre.betaling === "kort" || ordre.betaling === "mobilepay") && API_BASE_URL) {
+    gemBestillingsKladde(payload);
+    fetch(`${API_BASE_URL}/create-checkout-session`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    })
+      .then(r => r.json())
+      .then(data => {
+        if (data.url) {
+          window.location.href = data.url;
+        } else {
+          throw new Error(data.error || "Kunne ikke starte betaling");
+        }
+      })
+      .catch(err => {
+        console.error("Betalingsfejl:", err);
+        document.getElementById("coFejl").textContent =
+          "Der opstod en fejl ved opstart af betaling. Prøv igen.";
+        document.getElementById("coFejl").style.display = "block";
+        btn.disabled = false;
+        btn.textContent = "Gennemfør køb 🔒";
+      });
+    return;
+  }
+
+  // Bankoverførsel (eller demo uden API_BASE_URL): afslut lokalt som hidtil
+  fuldfoerOrdreLokalt(payload);
+}
+
+function gemBestillingsKladde(payload) {
+  try { sessionStorage.setItem("vvsdeal_kladde", JSON.stringify(payload)); } catch (e) {}
+}
+
+function fuldfoerOrdreLokalt(payload) {
   if (ORDER_WEBHOOK_URL) {
     fetch(ORDER_WEBHOOK_URL, {
       method: "POST",
@@ -1532,6 +1576,14 @@ if (initUI()) {
   renderProdukter();
   renderCart();
   if (dybtLink && byId(dybtLink)) quickView(dybtLink);
+  if (new URLSearchParams(location.search).get("betaling") === "annulleret") {
+    const toast = document.getElementById("toast");
+    toast.textContent = "Betaling annulleret — kurven er bevaret";
+    toast.classList.add("show");
+    clearTimeout(toast._t);
+    toast._t = setTimeout(() => toast.classList.remove("show"), 3000);
+    history.replaceState(null, "", location.pathname);
+  }
 }
 </script>
 

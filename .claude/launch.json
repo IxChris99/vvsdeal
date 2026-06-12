@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "vvs-shop",
-      "runtimeExecutable": "py",
+      "runtimeExecutable": "C:\\Users\\Chris\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
       "runtimeArgs": ["-m", "http.server", "8742"],
       "port": 8742
     }

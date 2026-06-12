@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tak for din ordre — VVSdeal</title>
+<meta name="robots" content="noindex">
+<style>
+  :root { --navy:#0f2a4a; --accent:#ff6b35; --bg:#f5f7fa; --line:#e2e8f0; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background:var(--bg); color:#1a2433; }
+  .wrap { max-width: 560px; margin: 10vh auto; background:#fff; border:1px solid var(--line);
+          border-radius: 16px; padding: 40px 32px; text-align:center; }
+  .ikon { font-size: 3rem; margin-bottom: 8px; }
+  h1 { font-size: 1.5rem; margin-bottom: 12px; color: var(--navy); }
+  p { color:#55606e; line-height:1.6; margin-bottom: 8px; }
+  .onr { display:inline-block; margin:16px 0; padding:8px 18px; background:var(--bg);
+         border:1px solid var(--line); border-radius:999px; font-weight:700; color:var(--navy); }
+  .btn { display:inline-block; margin-top:20px; padding:13px 28px; border-radius:999px;
+         background:var(--navy); color:#fff; text-decoration:none; font-weight:600; }
+  .btn:hover { background:#0b1f38; }
+  .fejl { color:#c0392b; }
+</style>
+</head>
+<body>
+<div class="wrap" id="indhold">
+  <div class="ikon">🎉</div>
+  <h1>Tak for din ordre!</h1>
+  <p>Vi behandler din betaling og sender en ordrebekræftelse til din e-mail.</p>
+  <div class="onr" id="onr"></div>
+  <p>Din ordre videresendes til vores lager og afsendes hurtigst muligt.</p>
+  <a class="btn" href="/">Tilbage til shoppen</a>
+</div>
+<script>
+// Ryd kurv + kladde og vis et evt. ordrenummer fra den gemte kladde.
+try {
+  const kladde = JSON.parse(sessionStorage.getItem("vvsdeal_kladde") || "null");
+  if (kladde && kladde.ordrenummer) {
+    document.getElementById("onr").textContent = kladde.ordrenummer;
+  } else {
+    document.getElementById("onr").remove();
+  }
+  sessionStorage.removeItem("vvsdeal_kladde");
+  localStorage.removeItem("vvsdeal_kurv");
+} catch (e) {}
+
+const params = new URLSearchParams(location.search);
+if (!params.get("session_id")) {
+  document.getElementById("indhold").innerHTML =
+    '<h1 class="fejl">Ingen aktiv ordre fundet</h1><p>Denne side bruges efter en gennemført betaling i shoppen.</p><a class="btn" href="/">Til shoppen</a>';
+}
+</script>
+</body>
+</html>

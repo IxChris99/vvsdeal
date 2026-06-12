@@ -10,3 +10,7 @@ robots.txt
 sync_cache.json
 sync_log.txt
 __pycache__/
+
+# Worker (Cloudflare) build artefakter
+worker/node_modules/
+worker/.wrangler/

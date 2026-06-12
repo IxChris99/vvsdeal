@@ -2,7 +2,34 @@
   "permissions": {
     "allow": [
       "PowerShell(py -c \"import urllib.request,re; req=urllib.request.Request\\('https://www.rockyshop.de/bad/armaturen/waschtisch-armaturen/', headers={'User-Agent':'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) PrisSync/1.0'}\\); h=urllib.request.urlopen\\(req,timeout=45\\).read\\(\\).decode\\('utf-8','replace'\\); print\\('len',len\\(h\\)\\); print\\('product-image count', h.count\\('product-image'\\)\\); print\\('Artikelnummer count', h.count\\('Artikelnummer'\\)\\); i=h.find\\('class=\\\\\"product-image\\\\\"'\\); print\\(repr\\(h[max\\(0,i-400\\):i+200]\\)\\)\")",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "mcp__Claude_in_Chrome__find",
+      "mcp__Claude_in_Chrome__form_input",
+      "mcp__Claude_in_Chrome__get_page_text",
+      "mcp__Claude_in_Chrome__computer",
+      "mcp__Claude_in_Chrome__read_page",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "PowerShell(gh --version)",
+      "PowerShell(gh auth status)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git config *)",
+      "Bash(curl -sI https://www.vvsdeal.dk --max-time 15)",
+      "Bash(curl -sI http://www.vvsdeal.dk --max-time 15)",
+      "Bash(curl -v -sI https://www.vvsdeal.dk --max-time 15)",
+      "Bash(nslookup -type=A www.vvsdeal.dk 8.8.8.8)",
+      "Bash(nslookup -type=CNAME www.vvsdeal.dk 8.8.8.8)",
+      "Bash(nslookup -type=A vvsdeal.dk 8.8.8.8)",
+      "Bash(where py *)",
+      "Bash(where python *)",
+      "Read(//c/Windows/**)",
+      "Read(//c/Users/Chris/AppData/Local/Programs/Python/**)",
+      "Bash(npm --version)",
+      "Bash(npx wrangler *)",
+      "Bash(find \"C:\\\\Users\\\\Chris\\\\AppData\\\\Roaming\\\\xdg.config\\\\.wrangler\" -type f 2>/dev/null)",
+      "Bash(curl -v https://vvsdeal-api.vvsdeal.workers.dev/)"
     ]
   }
 }
