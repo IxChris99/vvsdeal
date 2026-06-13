@@ -161,6 +161,19 @@
     padding: 30px 12px 12px; text-align: center; letter-spacing: -.2px;
   }
 
+  /* ---------- Mærker ---------- */
+  .brands { background: #fff; }
+  .brand-strip { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
+  .brand-item {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 130px; padding: 14px 22px; border-radius: 12px;
+    background: var(--bg); border: 1px solid var(--line);
+    color: var(--navy); font-weight: 800; font-size: 1.02rem; letter-spacing: -.3px;
+    text-decoration: none; text-align: center; transition: transform .15s, box-shadow .2s, border-color .2s;
+  }
+  .brand-item:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); border-color: var(--accent); color: var(--accent-dark); }
+  .brand-item .n { display: block; font-size: .7rem; font-weight: 600; color: var(--text-light); margin-top: 2px; letter-spacing: 0; }
+
   /* ---------- Dagens tilbud ---------- */
   .deals { background: #fff; border-bottom: 1px solid var(--line); }
   .deals-scroll {
@@ -665,6 +678,18 @@
   </div>
 </section>
 
+<!-- Mærker -->
+<section class="brands" id="brandsSection">
+  <div class="container">
+    <div class="section-head">
+      <div class="kicker">Originale mærkevarer</div>
+      <h2>Mærker vi forhandler</h2>
+      <p>Vi fører kun originale produkter fra Europas førende producenter — med fuld producentgaranti.</p>
+    </div>
+    <div class="brand-strip" id="brandStrip"></div>
+  </div>
+</section>
+
 <!-- Produkter -->
 <section id="produkter">
   <div class="container">
@@ -974,6 +999,23 @@ function initUI() {
       <div class="cat-label">${navn}</div>
     </a>`;
   }).join("");
+
+  // Mærke-overblik (kun forsiden) — kendte mærker vi rent faktisk har varer fra
+  const brandsSection = document.getElementById("brandsSection");
+  if (PRESET_KATEGORI === "alle" && brandsSection) {
+    const KENDTE = ["Hansgrohe", "Grohe", "AXOR", "Villeroy & Boch", "Geberit",
+      "Duravit", "Pelipal", "Burgbad", "Hoesch", "Sprinz", "Tece", "DALLMER",
+      "Viega", "Giese", "Steinberg", "Riho", "Hansa", "Repabad", "Keuco",
+      "Kludi", "Blanco", "Franke", "Kaldewei", "Dornbracht"];
+    const antalPr = {};
+    PRODUKTER.forEach(p => { if (p.maerke) antalPr[p.maerke] = (antalPr[p.maerke] || 0) + 1; });
+    const vis = KENDTE.filter(m => antalPr[m]).sort((a, b) => antalPr[b] - antalPr[a]);
+    document.getElementById("brandStrip").innerHTML = vis.map(m =>
+      `<a class="brand-item" href="/?m=${encodeURIComponent(m)}#produkter">${m}
+        <span class="n">${antalPr[m].toLocaleString("da-DK")} varer</span></a>`).join("");
+  } else if (brandsSection) {
+    brandsSection.style.display = "none";   // skjul på kategori-sider
+  }
 
   // Kategori-faner (mobil) + kategori-sidebar (desktop)
   const erAktiv = k => k === aktivKategori ? " active" : "";
