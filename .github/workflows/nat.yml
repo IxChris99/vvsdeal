@@ -41,14 +41,19 @@ jobs:
       - name: SEO-produktsider + sitemap
         run: python lav_seo_sider.py
 
-      - name: Byg offentlig udgave (uden indkøbspriser)
+      - name: Installer krypteringsbibliotek (til online-admin)
+        run: pip install cryptography
+
+      - name: Byg offentlig udgave + krypteret online-admin
+        env:
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
         run: python byg_deploy.py
 
-      - name: Gem opdateret prisdata tilbage i repoet
+      - name: Gem opdateret prisdata + krypteret admin tilbage i repoet
         run: |
           git config user.name "vvsdeal-bot"
           git config user.email "actions@github.com"
-          git add konkurrenter.js prisjusteringer.json
+          git add konkurrenter.js prisjusteringer.json admin_enc.html
           git diff --cached --quiet || git commit -m "Natlig prisdata-opdatering [skip ci]"
           git push
 
