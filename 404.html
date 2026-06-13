@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Søger… — VVSdeal</title>
+<meta name="robots" content="noindex">
+<style>
+  :root { --navy:#0e3a5c; --navy-dark:#092a44; --accent:#ff7a1a; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family:"Segoe UI", system-ui, -apple-system, sans-serif;
+    background:linear-gradient(120deg, var(--navy-dark) 0%, var(--navy) 60%, #15517e 100%);
+    color:#fff; min-height:100vh; display:flex; align-items:center; justify-content:center;
+    text-align:center; padding:24px;
+  }
+  .box { max-width:460px; }
+  .drop { font-size:2.4rem; margin-bottom:10px; }
+  h1 { font-size:1.5rem; margin-bottom:8px; letter-spacing:-.3px; }
+  p { color:#c3d8e8; margin-bottom:22px; }
+  a.btn {
+    display:inline-block; background:var(--accent); color:#fff; text-decoration:none;
+    padding:12px 26px; border-radius:999px; font-weight:700;
+  }
+  .spin {
+    width:30px; height:30px; margin:0 auto 18px;
+    border:3px solid rgba(255,255,255,.25); border-top-color:#fff;
+    border-radius:50%; animation:r .8s linear infinite;
+  }
+  @keyframes r { to { transform:rotate(360deg); } }
+</style>
+</head>
+<body>
+  <div class="box">
+    <div class="spin"></div>
+    <div class="drop">💧</div>
+    <h1>Et øjeblik — vi finder det for dig</h1>
+    <p>Siden findes ikke, men vi søger i hele sortimentet…</p>
+    <a class="btn" href="/">Gå til forsiden</a>
+  </div>
+<script>
+  // Catch-all: send ukendte adresser videre til forsiden og læg teksten i søgefeltet.
+  (function () {
+    var sti = location.pathname.replace(/\/+$/, "");
+    var sidste = sti.substring(sti.lastIndexOf("/") + 1);
+    var ord = "";
+    try { ord = decodeURIComponent(sidste); } catch (e) { ord = sidste; }
+    ord = ord.replace(/\.html?$/i, "").replace(/[-_]+/g, " ").trim();
+    var maal = ord ? "/?q=" + encodeURIComponent(ord) : "/";
+    location.replace(maal);
+  })();
+</script>
+</body>
+</html>

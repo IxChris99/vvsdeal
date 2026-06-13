@@ -16,7 +16,7 @@ import shutil
 import sys
 
 UD = "dist"
-KOPIER = ["index.html", "tak.html", "om-os.html", "kontakt.html", "shared.css", "trends.js", "sitemap.xml", "robots.txt", "logo-icon.png", "favicon.png"]
+KOPIER = ["index.html", "tak.html", "om-os.html", "kontakt.html", "404.html", "shared.css", "trends.js", "sitemap.xml", "robots.txt", "logo-icon.png", "favicon.png"]
 KOPIER_MAPPER = ["produkt"]
 ADMIN_ENC_FIL = "admin_enc.html"     # krypteret, committet genbrugskopi (sikker i offentligt repo)
 ADMIN_URL_FIL = "varmemester.html"   # offentligt filnavn (sløret — ikke /admin) til online-adgang
