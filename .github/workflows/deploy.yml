@@ -26,6 +26,9 @@ jobs:
       - name: Hent offentligt katalog (uden indkøbspriser)
         run: python hent_offentligt_katalog.py
 
+      - name: Efterbehandl (bl.a. rekategorisering af afløb)
+        run: python efterbehandl.py
+
       - name: Byg offentlig udgave
         run: python byg_deploy.py
 

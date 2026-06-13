@@ -8,9 +8,43 @@ efterbehandl.py — Efterbehandler products.js:
 Kør efter en katalog-synkronisering. Kan køres flere gange uden skade.
 """
 import json
+import re
 import sys
 
 from fordansk import fordansk, fragtklasse
+
+# Afløb, afløbsrender, gulvrender og tilhørende dele havner fejlagtigt under
+# "Brusekar" (de skrabes fra rockyshops duschwannen-side). Flyt dem til en
+# egen kategori, så Brusekar kun rummer rigtige brusekar.
+AFLOEB_RE = re.compile(
+    r"afløb|ablauf|rinne|rende|cera(line|wall|floor)|drain|tempoplex|"
+    r"schallschutz|abdeckung|gehäuse|dallflex|drainprofile|ablaufgarnitur|"
+    r"geruchsverschluss|gulvrende|gulvafløb",
+    re.I,
+)
+
+
+def rekategoriser(data: dict) -> None:
+    """Flytter afløbsvarer fra 'brusekar' til en ny kategori 'afloeb'."""
+    flyttet = 0
+    for p in data["produkter"]:
+        if p.get("cat") != "brusekar":
+            continue
+        navn = (p.get("navnDE") or "") + " " + (p.get("navn") or "")
+        if AFLOEB_RE.search(navn):
+            p["cat"] = "afloeb"
+            flyttet += 1
+    if not flyttet:
+        return
+    # Indsæt ny kategori lige efter 'brusekar' i visningsrækkefølgen
+    ny = {}
+    for k, v in data.get("kategorier", {}).items():
+        ny[k] = v
+        if k == "brusekar":
+            ny["afloeb"] = "Afløb & render"
+    ny.setdefault("afloeb", "Afløb & render")
+    data["kategorier"] = ny
+    print(f"Rekategoriseret: {flyttet} afløbsvarer flyttet fra Brusekar -> Afløb & render")
 
 
 def main() -> None:
@@ -26,6 +60,8 @@ def main() -> None:
                          and "diverser" not in (p.get("navnDE") or p["navn"]).lower()]
     if foer_antal != len(data["produkter"]):
         print(f"Fjernet {foer_antal - len(data['produkter'])} pladsholdervarer (main####/diverser)")
+
+    rekategoriser(data)   # flyt afløb ud af Brusekar FØR fragt beregnes
 
     oversat = 0
     for p in data["produkter"]:
