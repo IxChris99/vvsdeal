@@ -933,10 +933,12 @@ function initUI() {
       '<div class="no-data">Produktdata mangler. Kør <b>python sync_rocky.py</b> (eller dobbeltklik på <b>opdater_priser.bat</b>) for at hente sortimentet fra leverandøren.</div>';
     return false;
   }
-  // Hero-statistik
-  document.getElementById("statAntal").textContent = PRODUKTER.length.toLocaleString("da-DK") + "+";
+  // Hero-statistik (kategori-specifik, hvis siden har en forvalgt kategori)
+  const HERO_PRODUKTER = PRESET_KATEGORI !== "alle" ? PRODUKTER.filter(p => p.cat === PRESET_KATEGORI) : PRODUKTER;
+  document.getElementById("statAntal").textContent = HERO_PRODUKTER.length.toLocaleString("da-DK") + "+";
   const maerker = [...new Set(PRODUKTER.map(p => p.maerke))].sort((a, b) => a.localeCompare(b, "da"));
-  document.getElementById("statMaerker").textContent = maerker.length;
+  const heroMaerker = [...new Set(HERO_PRODUKTER.map(p => p.maerke))];
+  document.getElementById("statMaerker").textContent = heroMaerker.length;
 
   // Mærke-dropdown
   const sel = document.getElementById("brandSelect");
@@ -1019,9 +1021,11 @@ function initUI() {
   document.getElementById("dataStamp").innerHTML = stamp;
 
   // Hero-collage med 3 flotte produkter (dyre varer med billede)
-  const kandidater = PRODUKTER.filter(p => p.billede && p.lager && p.pris > 2000);
+  const kandidater = HERO_PRODUKTER.filter(p => p.billede && p.lager && p.pris > 2000);
   const valgte = [];
-  const oensketKat = ["armaturer", "badmoebler", "koekkenarmatur", "brusekabiner", "badekar"];
+  const oensketKat = PRESET_KATEGORI !== "alle"
+    ? [PRESET_KATEGORI]
+    : ["armaturer", "badmoebler", "koekkenarmatur", "brusekabiner", "badekar"];
   for (const kat of oensketKat) {
     const p = kandidater.find(x => x.cat === kat && !valgte.includes(x));
     if (p) valgte.push(p);

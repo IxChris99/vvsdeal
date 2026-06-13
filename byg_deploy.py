@@ -75,6 +75,23 @@ def byg_kategori_sider(kategorier: dict) -> None:
             f'<link rel="canonical" href="https://www.vvsdeal.dk/kategori/{k}.html">',
         )
 
+        # Hero-sektion: egen overskrift, tekst og brand-chip pr. kategori
+        html = html.replace(
+            '<div class="brand-chip">⭐ Hansgrohe · Grohe · Burgbad · Pelipal · Sprinz</div>\n'
+            '      <h1>Alt til bad &amp; køkken — <span>tysk kvalitet til danske priser</span></h1>\n'
+            '      <p class="lead">Armaturer, badmøbler, brusekabiner, badekar og '
+            'køkkenarmaturer fra Tysklands førende producenter. Bestil online — '
+            'vi klarer import, fragt og dansk support.</p>',
+            f'<div class="brand-chip">⭐ {navn} i tysk kvalitet</div>\n'
+            f'      <h1>{navn} — <span>tysk kvalitet til danske priser</span></h1>\n'
+            f'      <p class="lead">Se hele udvalget af {navn.lower()} fra Hansgrohe, Grohe, '
+            f'Burgbad m.fl. — leveret direkte fra vores tyske lager med fuld producentgaranti.</p>',
+        )
+        html = html.replace(
+            '<a href="#produkter" class="btn btn-accent">Se alle produkter</a>',
+            f'<a href="#produkter" class="btn btn-accent">Se alle {navn.lower()}</a>',
+        )
+
         # Overskrift og tekst i produktsektionen
         html = html.replace(
             "<h2>Hele sortimentet til bad &amp; køkken</h2>",
