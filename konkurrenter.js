@@ -1,6 +1,6 @@
 // Genereret af pristester.py — konkurrentpriser til admin.html.
 const KONKURRENT_DATA = {
- "genereret": "2026-06-12T14:40:43.185251+00:00",
+ "genereret": "2026-06-13T14:27:34.427110+00:00",
  "priser": {
   "531221xA.010552": {
    "LavprisVVS": null,
@@ -26401,6 +26401,16006 @@ const KONKURRENT_DATA = {
    "billigste": 8009.0,
    "status": "OK: under konkurrent",
    "tjekket": "2026-06-12"
+  },
+  "SPLP140-PN451": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPOL060-PN413": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S10-SPS 26-I": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFUC120-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AG-WTUSL 04": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "USBD080-PN274": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CT-S3D8-1273-16": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61045450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54033700": {
+   "LavprisVVS": 9089.0,
+   "BilligVVS": 10099.0,
+   "CompletVVS": 9359.0,
+   "billigste": 9089.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54304760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39448000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54302700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24426AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24427AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54171770": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54166730": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54023000": {
+   "LavprisVVS": 8009.0,
+   "BilligVVS": 5767.0,
+   "CompletVVS": 8279.0,
+   "billigste": 5767.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "54024670": {
+   "LavprisVVS": 5431.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 8729.0,
+   "billigste": 5431.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "54168730": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54170790": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54167730": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54024700": {
+   "LavprisVVS": 8009.0,
+   "BilligVVS": 8899.0,
+   "CompletVVS": 8279.0,
+   "billigste": 8009.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54171730": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54166320": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54024000": {
+   "LavprisVVS": 8009.0,
+   "BilligVVS": 8899.0,
+   "CompletVVS": 8279.0,
+   "billigste": 8009.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54168770": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CS-WTUSLB 06-C": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "IR35.2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "5504R101": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73837800": {
+   "LavprisVVS": 7698.0,
+   "BilligVVS": 9499.0,
+   "CompletVVS": 7999.0,
+   "billigste": 7698.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36726820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45712000": {
+   "LavprisVVS": 7978.0,
+   "BilligVVS": 8799.0,
+   "CompletVVS": 8399.0,
+   "billigste": 7978.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36722820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21142000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW006": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "TOS1708042G": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6110-SET 3.1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSNN040-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S10-SPS 08-LR-II": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S10-SPS 08-LR-I": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-SPS08-L/R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S26-SPS 15": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGHC063-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVQ103-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVV082-PN530": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVX082-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVR103-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54300780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54076670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54077700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54300700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54075000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54077670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54074700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54300760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54300550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54075670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54076000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54076700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54077000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54074000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "WULE120-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535139": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4209.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4290.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22C1R1": {
+   "LavprisVVS": 8602.0,
+   "BilligVVS": 8602.0,
+   "CompletVVS": 7799.0,
+   "billigste": 7799.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A22C5R1": {
+   "LavprisVVS": 8602.0,
+   "BilligVVS": 8602.0,
+   "CompletVVS": 7799.0,
+   "billigste": 7799.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4164A3RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73836670": {
+   "LavprisVVS": 9199.0,
+   "BilligVVS": 9199.0,
+   "CompletVVS": 7199.0,
+   "billigste": 7199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26229670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32846GN1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26229700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26228700": {
+   "LavprisVVS": 6795.0,
+   "BilligVVS": 8199.0,
+   "CompletVVS": 6999.0,
+   "billigste": 6795.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32846AL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32846DL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73443670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73443700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20643GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20593AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20649DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20649GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36445AL0": {
+   "LavprisVVS": 6428.0,
+   "BilligVVS": 6428.0,
+   "CompletVVS": 6428.0,
+   "billigste": 6428.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36445GN0": {
+   "LavprisVVS": 6428.0,
+   "BilligVVS": 6428.0,
+   "CompletVVS": 6428.0,
+   "billigste": 6428.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20649AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20643DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20593DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20593GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20643AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36445DL0": {
+   "LavprisVVS": 6428.0,
+   "BilligVVS": 6428.0,
+   "CompletVVS": 6428.0,
+   "billigste": 6428.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "L17513549L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "L17513549R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSHB040-PN281": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HS4087-PN243": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "500592001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KWT54-1130-R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KWT54-1130-L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CTWU101148L50P1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54303760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54303550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54303700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54298760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54298780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54298700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54298550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CTWU101148R50P1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "560003001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4168A1RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4168A2RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26251990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26230000": {
+   "LavprisVVS": 7198.0,
+   "BilligVVS": 8599.0,
+   "CompletVVS": 7499.0,
+   "billigste": 7198.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26250990": {
+   "LavprisVVS": 6847.0,
+   "BilligVVS": 8199.0,
+   "CompletVVS": 7099.0,
+   "billigste": 6847.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26251140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24396000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26251340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29121MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29126A00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29126MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29121A00": {
+   "LavprisVVS": 6429.0,
+   "BilligVVS": 6429.0,
+   "CompletVVS": 6429.0,
+   "billigste": 6429.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29126MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29121MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29126DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29126GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29121DA0": {
+   "LavprisVVS": 6429.0,
+   "BilligVVS": 6429.0,
+   "CompletVVS": 6429.0,
+   "billigste": 6429.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29121GL0": {
+   "LavprisVVS": 6429.0,
+   "BilligVVS": 6429.0,
+   "CompletVVS": 6429.0,
+   "billigste": 6429.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73447140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24398000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "38120000": {
+   "LavprisVVS": 7966.0,
+   "BilligVVS": 9299.0,
+   "CompletVVS": 8399.0,
+   "billigste": 7966.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20589DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24397000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3977.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3816.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3975.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54978670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54978700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-SPS 20": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVP063-PN530": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVW062-PN530": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEEK051-PN090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "5504R001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22CH01": {
+   "LavprisVVS": 8493.0,
+   "BilligVVS": 8493.0,
+   "CompletVVS": 7699.0,
+   "billigste": 7699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A22CK01": {
+   "LavprisVVS": 8493.0,
+   "BilligVVS": 8493.0,
+   "CompletVVS": 7699.0,
+   "billigste": 7699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A22CG01": {
+   "LavprisVVS": 8493.0,
+   "BilligVVS": 8493.0,
+   "CompletVVS": 7699.0,
+   "billigste": 7699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A22CL01": {
+   "LavprisVVS": 8493.0,
+   "BilligVVS": 8493.0,
+   "CompletVVS": 7699.0,
+   "billigste": 7699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "76800670": {
+   "LavprisVVS": 7289.0,
+   "BilligVVS": 8099.0,
+   "CompletVVS": 7599.0,
+   "billigste": 7289.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "27630000": {
+   "LavprisVVS": 5699.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5299.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "27660000": {
+   "LavprisVVS": 6099.0,
+   "BilligVVS": 6999.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5999.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "29119GN0": {
+   "LavprisVVS": 5869.0,
+   "BilligVVS": 6881.0,
+   "CompletVVS": 7299.0,
+   "billigste": 5869.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "15553700": {
+   "LavprisVVS": 7159.0,
+   "BilligVVS": 8699.0,
+   "CompletVVS": 7399.0,
+   "billigste": 7159.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15553670": {
+   "LavprisVVS": 6021.0,
+   "BilligVVS": 6021.0,
+   "CompletVVS": 6021.0,
+   "billigste": 6021.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "29124DL0": {
+   "LavprisVVS": 6340.0,
+   "BilligVVS": 6340.0,
+   "CompletVVS": 6340.0,
+   "billigste": 6340.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15589700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15575670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28871670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29119DL0": {
+   "LavprisVVS": 6340.0,
+   "BilligVVS": 6340.0,
+   "CompletVVS": 6340.0,
+   "billigste": 6340.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15581670": {
+   "LavprisVVS": 7159.0,
+   "BilligVVS": 8699.0,
+   "CompletVVS": 7399.0,
+   "billigste": 7159.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15701000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15589670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15562670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15581700": {
+   "LavprisVVS": 7647.0,
+   "BilligVVS": 8699.0,
+   "CompletVVS": 7899.0,
+   "billigste": 7647.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29124AL0": {
+   "LavprisVVS": 6340.0,
+   "BilligVVS": 6340.0,
+   "CompletVVS": 6340.0,
+   "billigste": 6340.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15575700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15571700": {
+   "LavprisVVS": 7159.0,
+   "BilligVVS": 8699.0,
+   "CompletVVS": 7399.0,
+   "billigste": 7159.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "10750180": {
+   "LavprisVVS": 7573.0,
+   "BilligVVS": 8799.0,
+   "CompletVVS": 7999.0,
+   "billigste": 7573.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29124GN0": {
+   "LavprisVVS": 6340.0,
+   "BilligVVS": 6340.0,
+   "CompletVVS": 6340.0,
+   "billigste": 6340.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15571670": {
+   "LavprisVVS": 7159.0,
+   "BilligVVS": 8699.0,
+   "CompletVVS": 7399.0,
+   "billigste": 7159.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24367GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24367DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24367MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24367MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "23403MG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24365MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24365MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "23403DA1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "23403MS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "23403GL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24365DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFTW090-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIY090-PN380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFTV090-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEYQ093-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEIV051-PN274": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54021700": {
+   "LavprisVVS": 7739.0,
+   "BilligVVS": 8599.0,
+   "CompletVVS": 8009.0,
+   "billigste": 7739.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54021670": {
+   "LavprisVVS": 7919.0,
+   "BilligVVS": 8999.0,
+   "CompletVVS": 8009.0,
+   "billigste": 7919.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54022700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54021000": {
+   "LavprisVVS": 7739.0,
+   "BilligVVS": 5581.0,
+   "CompletVVS": 8009.0,
+   "billigste": 5581.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "54022670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54019700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54022000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54020700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54019670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54020000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54019000": {
+   "LavprisVVS": 7739.0,
+   "BilligVVS": 5581.0,
+   "CompletVVS": 8009.0,
+   "billigste": 5581.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "SFZX121-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54020670": {
+   "LavprisVVS": 7379.0,
+   "BilligVVS": 5302.0,
+   "CompletVVS": 7199.0,
+   "billigste": 5302.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "RCAG060-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "IR31.9": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535122": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "H613890000S002": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27982820": {
+   "LavprisVVS": 6898.0,
+   "BilligVVS": 8599.0,
+   "CompletVVS": 7299.0,
+   "billigste": 6898.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24154AL0": {
+   "LavprisVVS": 6307.0,
+   "BilligVVS": 6307.0,
+   "CompletVVS": 6307.0,
+   "billigste": 6307.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39720000": {
+   "LavprisVVS": 7204.0,
+   "BilligVVS": 8699.0,
+   "CompletVVS": 7599.0,
+   "billigste": 7204.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39725000": {
+   "LavprisVVS": 7205.0,
+   "BilligVVS": 8499.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6799.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24155AL0": {
+   "LavprisVVS": 6307.0,
+   "BilligVVS": 6307.0,
+   "CompletVVS": 6307.0,
+   "billigste": 6307.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73053670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73053700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "38119000": {
+   "LavprisVVS": 7820.0,
+   "BilligVVS": 9099.0,
+   "CompletVVS": 8299.0,
+   "billigste": 7820.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "SPGT100-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S26-SPS 11": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGQZ052-PN531": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFIX048-PN240": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEUE042-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W02003S10 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4164A1RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A23CKRW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4164A2RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24357DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28494800": {
+   "LavprisVVS": 6818.0,
+   "BilligVVS": 6999.0,
+   "CompletVVS": 7199.0,
+   "billigste": 6818.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26899670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "75444700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "75444670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20188001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21140DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21149DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73353140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20627000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20193002": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45113820": {
+   "LavprisVVS": 6866.0,
+   "BilligVVS": 6866.0,
+   "CompletVVS": 6866.0,
+   "billigste": 6866.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "KOBW121-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPGI060-PN253": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPHY070-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-SPS 25": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPGI060-PN239": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVQ093-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22C301": {
+   "LavprisVVS": 8285.0,
+   "BilligVVS": 8285.0,
+   "CompletVVS": 7499.0,
+   "billigste": 7499.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "41681BR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26239670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26239700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26238700": {
+   "LavprisVVS": 7098.0,
+   "BilligVVS": 8199.0,
+   "CompletVVS": 7499.0,
+   "billigste": 7098.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33718990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33718340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33718140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33716140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33716340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33717140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33717990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33717340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33716990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32826DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "53070300": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HS482E-PN242": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHUA050-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BURSPOE060-PN413": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIZ070-PN380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGHR062-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGHD063-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVW102-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVX062-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSLB 13 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W02003S70 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W98003S12 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73818800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27115000": {
+   "LavprisVVS": 5999.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24426DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24425DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24427DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45004820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39136000": {
+   "LavprisVVS": 7564.0,
+   "BilligVVS": 7564.0,
+   "CompletVVS": 7564.0,
+   "billigste": 7564.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39134000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6110-SET 2.1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSEQ050-PN240": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHUA050-PN253": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-MD 04 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 29": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIY080-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXL062-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXN062-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61099450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61098450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CS-WTUSLB 04-C": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "WULE080-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "IR31.1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535115": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4289.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76802670": {
+   "LavprisVVS": 7019.0,
+   "BilligVVS": 7799.0,
+   "CompletVVS": 7299.0,
+   "billigste": 7019.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32846GL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27474810": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32846MS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32846DA1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32846MG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1001980": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "12171000": {
+   "LavprisVVS": 6874.0,
+   "BilligVVS": 7999.0,
+   "CompletVVS": 7299.0,
+   "billigste": 6874.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20189002": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31102000": {
+   "LavprisVVS": 4982.0,
+   "BilligVVS": 5699.0,
+   "CompletVVS": 5199.0,
+   "billigste": 4982.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "12174000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "10140000": {
+   "LavprisVVS": 8040.0,
+   "BilligVVS": 8599.0,
+   "CompletVVS": 8499.0,
+   "billigste": 8040.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "3828.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3836.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSKD035-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFKK035-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIY080-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFAA043-PN090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEDP042-PN090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61041450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61039450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61040450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54297780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54062670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54297700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54065700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54064700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54297550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54064000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54065000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54063700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4010.091418": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54301760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54301780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54301550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54065670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54062000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54301700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54064670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54063670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54268760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54063000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54268780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54268550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54268700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54297760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1001940": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16549180": {
+   "LavprisVVS": 6198.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6099.0,
+   "billigste": 6099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20643MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20593MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20593MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20593DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20649GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20643MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20643GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20593GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20649DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20649MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36445DA0": {
+   "LavprisVVS": 5999.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20649MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36445A00": {
+   "LavprisVVS": 5999.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "40589083": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "40589073": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW177": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KAM170110L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KAM170110R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCW026033 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 34": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPHU090-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVV062-PN530": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W02003S12 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "560002001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22C101": {
+   "LavprisVVS": 8014.0,
+   "BilligVVS": 8014.0,
+   "CompletVVS": 7299.0,
+   "billigste": 7299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A22C401": {
+   "LavprisVVS": 8014.0,
+   "BilligVVS": 8014.0,
+   "CompletVVS": 7299.0,
+   "billigste": 7299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C3R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22C501": {
+   "LavprisVVS": 8014.0,
+   "BilligVVS": 8014.0,
+   "CompletVVS": 7299.0,
+   "billigste": 7299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "30609AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "30609GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "30609DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26250670": {
+   "LavprisVVS": 5798.0,
+   "BilligVVS": 6699.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5798.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "26251700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26251670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26250700": {
+   "LavprisVVS": 7699.0,
+   "BilligVVS": 7699.0,
+   "CompletVVS": 6299.0,
+   "billigste": 6299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26021000": {
+   "LavprisVVS": 7789.0,
+   "BilligVVS": 8699.0,
+   "CompletVVS": 8199.0,
+   "billigste": 7789.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29508KF0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "102167KF00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29121DC0": {
+   "LavprisVVS": 6627.0,
+   "BilligVVS": 6627.0,
+   "CompletVVS": 6627.0,
+   "billigste": 6627.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73447670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "97332810": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29126DC0": {
+   "LavprisVVS": 6000.0,
+   "BilligVVS": 6000.0,
+   "CompletVVS": 6000.0,
+   "billigste": 6000.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73447700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "97332800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24341DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24342DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW151": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSES050-PN239": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 32": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54999700": {
+   "LavprisVVS": 7816.0,
+   "BilligVVS": 8099.0,
+   "CompletVVS": 8099.0,
+   "billigste": 7816.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "AG-SPS 30": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPCB040-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVQ083-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEYQ083-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEIV051-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-WTUSL 02": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "IR31.0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535108": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW025": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "42305000": {
+   "LavprisVVS": 12351.0,
+   "BilligVVS": 12450.0,
+   "CompletVVS": 8199.0,
+   "billigste": 8199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "9700207": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16581800": {
+   "LavprisVVS": 7625.0,
+   "BilligVVS": 7625.0,
+   "CompletVVS": 7625.0,
+   "billigste": 7625.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "43308800": {
+   "LavprisVVS": 11559.0,
+   "BilligVVS": 11559.0,
+   "CompletVVS": 6699.0,
+   "billigste": 6699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "31892KF0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "43302800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16820000": {
+   "LavprisVVS": 6565.0,
+   "BilligVVS": 7599.0,
+   "CompletVVS": 6899.0,
+   "billigste": 6565.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29124MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29119MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29124A00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29119A00": {
+   "LavprisVVS": 5944.0,
+   "BilligVVS": 5944.0,
+   "CompletVVS": 5944.0,
+   "billigste": 5944.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29124DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16821000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29119MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29124GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29119GL0": {
+   "LavprisVVS": 5944.0,
+   "BilligVVS": 5944.0,
+   "CompletVVS": 5944.0,
+   "billigste": 5944.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29124MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29119DA0": {
+   "LavprisVVS": 5944.0,
+   "BilligVVS": 5944.0,
+   "CompletVVS": 5944.0,
+   "billigste": 5944.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24367DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "23403DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24365DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45112820": {
+   "LavprisVVS": 6566.0,
+   "BilligVVS": 6566.0,
+   "CompletVVS": 6566.0,
+   "billigste": 6566.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "18010000": {
+   "LavprisVVS": 6603.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6999.0,
+   "billigste": 6603.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "40579083": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "40579073": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535177": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54977670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54977700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "992.119019": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "992.129019": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76800800": {
+   "LavprisVVS": 6452.0,
+   "BilligVVS": 7499.0,
+   "CompletVVS": 6699.0,
+   "billigste": 6452.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26238670": {
+   "LavprisVVS": 5998.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5998.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29181GN2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26227000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26226000": {
+   "LavprisVVS": 6478.0,
+   "BilligVVS": 7499.0,
+   "CompletVVS": 6699.0,
+   "billigste": 6478.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29181DL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29181AL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19446GN2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19446DL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "18310180": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "38720000": {
+   "LavprisVVS": 6936.0,
+   "BilligVVS": 7499.0,
+   "CompletVVS": 7299.0,
+   "billigste": 6936.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "19446AL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32146DL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32146AL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32146GN1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 30": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPNI050-PN414": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S26-SPS 13": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S26-SPS 08": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPOE040-PN415": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPGT080-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGHB063-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGHP062-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEEK051-PN274": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEUE042-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KWT54-780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "IR35.9": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535252": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221FR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4168ABR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73816800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26231000": {
+   "LavprisVVS": 6127.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6399.0,
+   "billigste": 6127.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26895GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26228670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26895AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26895DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29123AL0": {
+   "LavprisVVS": 5823.0,
+   "BilligVVS": 5823.0,
+   "CompletVVS": 5823.0,
+   "billigste": 5823.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "1001900": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29118DL0": {
+   "LavprisVVS": 5823.0,
+   "BilligVVS": 5823.0,
+   "CompletVVS": 5823.0,
+   "billigste": 5823.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4435013033": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29123GN0": {
+   "LavprisVVS": 5823.0,
+   "BilligVVS": 5823.0,
+   "CompletVVS": 5823.0,
+   "billigste": 5823.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24240000": {
+   "LavprisVVS": 5933.0,
+   "BilligVVS": 7299.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5933.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36704000": {
+   "LavprisVVS": 6663.0,
+   "BilligVVS": 7899.0,
+   "CompletVVS": 6999.0,
+   "billigste": 6663.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29123DL0": {
+   "LavprisVVS": 5823.0,
+   "BilligVVS": 5823.0,
+   "CompletVVS": 5823.0,
+   "billigste": 5823.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29118GN0": {
+   "LavprisVVS": 5823.0,
+   "BilligVVS": 5823.0,
+   "CompletVVS": 5823.0,
+   "billigste": 5823.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "46411000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73353700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73353670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFKK035-PN453": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "USBF080-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIZ060-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61027450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61029450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61035450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61033450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61034450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4290xA.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "7175D001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A331GRW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "02100900641": {
+   "LavprisVVS": 6528.0,
+   "BilligVVS": 8199.0,
+   "CompletVVS": 7699.0,
+   "billigste": 6528.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "76801670": {
+   "LavprisVVS": 7289.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 7299.0,
+   "billigste": 7289.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26250140": {
+   "LavprisVVS": 6799.0,
+   "BilligVVS": 7699.0,
+   "CompletVVS": 7099.0,
+   "billigste": 6799.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33718670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "100 2721": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24221000": {
+   "LavprisVVS": 7124.0,
+   "BilligVVS": 6699.0,
+   "CompletVVS": 6099.0,
+   "billigste": 6099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33717700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33717670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36712000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33718700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33716700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33716670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24220000": {
+   "LavprisVVS": 5156.0,
+   "BilligVVS": 6699.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5156.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "53122063": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "11043000": {
+   "LavprisVVS": 11745.0,
+   "BilligVVS": 11745.0,
+   "CompletVVS": 7899.0,
+   "billigste": 7899.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20629000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6110-SET 1.1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535160": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KOBW101-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54979700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SIHH110-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54979670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-SPS07-L/R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-SPSB03-L-R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGQZ052-PN530": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54299780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54299550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54299760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54299700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W02003S10 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSLB 12 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "515315": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4207.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C2R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "01S0000011": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C5R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "01S0000012": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "41681HR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C1R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "01S0000009": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "01S0000010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4164ABR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "H585XS30001111": {
+   "LavprisVVS": 9049.0,
+   "BilligVVS": 8909.0,
+   "CompletVVS": 9599.0,
+   "billigste": 8909.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "633200R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C4R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "H585XS40001111": {
+   "LavprisVVS": 9049.0,
+   "BilligVVS": 8999.0,
+   "CompletVVS": 9599.0,
+   "billigste": 8999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "41681LR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73831000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26250340": {
+   "LavprisVVS": 7198.0,
+   "BilligVVS": 8199.0,
+   "CompletVVS": 7499.0,
+   "billigste": 7198.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "11733000": {
+   "LavprisVVS": 6556.0,
+   "BilligVVS": 7899.0,
+   "CompletVVS": 6899.0,
+   "billigste": 6556.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "31100000": {
+   "LavprisVVS": 4687.0,
+   "BilligVVS": 5299.0,
+   "CompletVVS": 4499.0,
+   "billigste": 4499.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "36447000": {
+   "LavprisVVS": 5675.0,
+   "BilligVVS": 5675.0,
+   "CompletVVS": 5675.0,
+   "billigste": 5675.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39115000": {
+   "LavprisVVS": 7764.0,
+   "BilligVVS": 8099.0,
+   "CompletVVS": 8199.0,
+   "billigste": 7764.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "11040000": {
+   "LavprisVVS": 7043.0,
+   "BilligVVS": 7899.0,
+   "CompletVVS": 7399.0,
+   "billigste": 7043.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "SETW008": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW007": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW003": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHHC040-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPNI060-PN413": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "500594001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CTS2E23857017LR": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVW082-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVQ063-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVP083-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEEK051-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEIV051-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "51335G01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "H561PN37071111": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4626HSRW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76802800": {
+   "LavprisVVS": 7199.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6599.0,
+   "billigste": 6599.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32846DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24153AL0": {
+   "LavprisVVS": 5659.0,
+   "BilligVVS": 5659.0,
+   "CompletVVS": 5659.0,
+   "billigste": 5659.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26793000": {
+   "LavprisVVS": 6215.0,
+   "BilligVVS": 6999.0,
+   "CompletVVS": 6499.0,
+   "billigste": 6215.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15578000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15586000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26507000": {
+   "LavprisVVS": 6259.0,
+   "BilligVVS": 6173.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15556000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15485180": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31190000": {
+   "LavprisVVS": 6497.0,
+   "BilligVVS": 6497.0,
+   "CompletVVS": 6497.0,
+   "billigste": 6497.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "81143562": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31442000": {
+   "LavprisVVS": 7669.0,
+   "BilligVVS": 7669.0,
+   "CompletVVS": 7669.0,
+   "billigste": 7669.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36116000": {
+   "LavprisVVS": null,
+   "BilligVVS": 7988.0,
+   "CompletVVS": 7399.0,
+   "billigste": 7399.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20593DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20643DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20649DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW181": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RH20010051": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP2009049": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KAN1909050": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW127": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LAO1909045": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP1909049": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP18080VL": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "NED2009049": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW128": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LA19090495": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535153": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-HS 06 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HS4087-PN242": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54061700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54061670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54061000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54264760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54059670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54264550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54264780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54264700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54060700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54060670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54060000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54058700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54059700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54058670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54059000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54058000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A71D3R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221GR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221LR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A3RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26243140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26243990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26243340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36703000": {
+   "LavprisVVS": 6427.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6427.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "06442473": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36445DC0": {
+   "LavprisVVS": 5571.0,
+   "BilligVVS": 5571.0,
+   "CompletVVS": 5571.0,
+   "billigste": 5571.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "10145000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31103000": {
+   "LavprisVVS": 4912.0,
+   "BilligVVS": 5799.0,
+   "CompletVVS": 5099.0,
+   "billigste": 4912.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "3950.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3954.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUZ16590L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUZ16590R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HSW60-04 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54976670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54976700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEYQ063-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEDP042-PN274": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFAA043-PN274": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61097450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61096450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54296550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54296780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54296760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54296700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "560001001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "2336130060": {
+   "LavprisVVS": 7322.0,
+   "BilligVVS": 7322.0,
+   "CompletVVS": 7322.0,
+   "billigste": 7322.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39861800": {
+   "LavprisVVS": 8399.0,
+   "BilligVVS": 8399.0,
+   "CompletVVS": 7999.0,
+   "billigste": 7999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "90.730.00..0005": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "90.730.00..0008": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27492000": {
+   "LavprisVVS": 5573.0,
+   "BilligVVS": 5799.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5573.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26790000": {
+   "LavprisVVS": 5999.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "10720000": {
+   "LavprisVVS": 6392.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6392.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "19380DL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19380AL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19380GN2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "100 1162 S": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29403000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "12013000": {
+   "LavprisVVS": 6498.0,
+   "BilligVVS": 7799.0,
+   "CompletVVS": 6899.0,
+   "billigste": 6498.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39112000": {
+   "LavprisVVS": 7518.0,
+   "BilligVVS": 8399.0,
+   "CompletVVS": 7899.0,
+   "billigste": 7518.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "12172000": {
+   "LavprisVVS": 6708.0,
+   "BilligVVS": 7699.0,
+   "CompletVVS": 7099.0,
+   "billigste": 6708.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "10101000": {
+   "LavprisVVS": 6557.0,
+   "BilligVVS": 7299.0,
+   "CompletVVS": 6899.0,
+   "billigste": 6557.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "SETW000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHHE040-PN281": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSZC050-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCL016033 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61038450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61036450": {
+   "LavprisVVS": 6326.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6326.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "61037450": {
+   "LavprisVVS": null,
+   "BilligVVS": 7199.0,
+   "CompletVVS": null,
+   "billigste": 7199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "CS-WTUSLB 02-C": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-WTUSL 04 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31892DC0": {
+   "LavprisVVS": 5539.0,
+   "BilligVVS": 5539.0,
+   "CompletVVS": 5539.0,
+   "billigste": 5539.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39835800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76826670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76804670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24550000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24154DC0": {
+   "LavprisVVS": 5519.0,
+   "BilligVVS": 5519.0,
+   "CompletVVS": 5519.0,
+   "billigste": 5519.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24541000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24551000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29181MS2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24540000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29181MG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29181GL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29181DA2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29119DC0": {
+   "LavprisVVS": 6127.0,
+   "BilligVVS": 6127.0,
+   "CompletVVS": 6127.0,
+   "billigste": 6127.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "102166KF00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19446DA2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19446MG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19446MS2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29507KF0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29124DC0": {
+   "LavprisVVS": 5548.0,
+   "BilligVVS": 5548.0,
+   "CompletVVS": 5548.0,
+   "billigste": 5548.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "19446GL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "25251001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24155DC0": {
+   "LavprisVVS": 5519.0,
+   "BilligVVS": 5519.0,
+   "CompletVVS": 5519.0,
+   "billigste": 5519.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32146MG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32146GL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32146MS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32146DA1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-MS60-03 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIY070-PN380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "PN-SPS 29": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFZX101-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CS-WTUSLB 04-B": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535146": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C301": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A3R1": {
+   "LavprisVVS": 6499.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 6699.0,
+   "billigste": 6499.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4164A3R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "43305800": {
+   "LavprisVVS": 10643.0,
+   "BilligVVS": 10643.0,
+   "CompletVVS": 6199.0,
+   "billigste": 6199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "38815800": {
+   "LavprisVVS": 7123.0,
+   "BilligVVS": 8099.0,
+   "CompletVVS": 7499.0,
+   "billigste": 7123.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "43301800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26895MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26601000": {
+   "LavprisVVS": 6558.0,
+   "BilligVVS": 6558.0,
+   "CompletVVS": 6558.0,
+   "billigste": 6558.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26895DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26895MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26895GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33715990": {
+   "LavprisVVS": 6050.0,
+   "BilligVVS": 7299.0,
+   "CompletVVS": 6299.0,
+   "billigste": 6050.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33715340": {
+   "LavprisVVS": 5967.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5967.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29123A00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33711340": {
+   "LavprisVVS": 6050.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6299.0,
+   "billigste": 6050.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29118MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33713990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29123MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29118GL0": {
+   "LavprisVVS": 5458.0,
+   "BilligVVS": 5458.0,
+   "CompletVVS": 5458.0,
+   "billigste": 5458.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29118A00": {
+   "LavprisVVS": 5458.0,
+   "BilligVVS": 5458.0,
+   "CompletVVS": 5458.0,
+   "billigste": 5458.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24232000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39700000": {
+   "LavprisVVS": 6448.0,
+   "BilligVVS": 7699.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6448.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29123MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33713340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33715140": {
+   "LavprisVVS": 8899.0,
+   "BilligVVS": 8899.0,
+   "CompletVVS": 6099.0,
+   "billigste": 6099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29118DA0": {
+   "LavprisVVS": 5458.0,
+   "BilligVVS": 5458.0,
+   "CompletVVS": 5458.0,
+   "billigste": 5458.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33713140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29118MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33711990": {
+   "LavprisVVS": 6050.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6299.0,
+   "billigste": 6050.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39705000": {
+   "LavprisVVS": 6388.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6388.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20661AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20587DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20662DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20661GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29406DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29406AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39148000": {
+   "LavprisVVS": 6283.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6599.0,
+   "billigste": 6283.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39144000": {
+   "LavprisVVS": 6319.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6699.0,
+   "billigste": 6319.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20587GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20587AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20662GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "40831001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW005": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSKC035-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHUA050-PN239": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIZ061-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPHU070-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54295550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFZU071-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54295780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54295760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54295700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535245": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4289xA.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4288.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW023": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "41688CR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "416484RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A71D5R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A71D1R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73867800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "10651000": {
+   "LavprisVVS": 6386.0,
+   "BilligVVS": 7499.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6386.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15735400": {
+   "LavprisVVS": 7722.0,
+   "BilligVVS": 7722.0,
+   "CompletVVS": 7722.0,
+   "billigste": 7722.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "8114956233": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32550000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32552000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20628000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW204": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW117": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW196": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW192": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW153": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHBI040-PN274": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPNI040-PN415": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEAES5014": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6110-SPS 12": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPGS100-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDAES3017": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 27": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFKP051-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVV082-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "USBA040-PN090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W02003S70 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221F01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4168A1R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A2RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A5RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4168A2R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETKW075": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76801800": {
+   "LavprisVVS": 6749.0,
+   "BilligVVS": 6799.0,
+   "CompletVVS": 6999.0,
+   "billigste": 6749.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "40896000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "25287000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16801000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16800000": {
+   "LavprisVVS": 5987.0,
+   "BilligVVS": 6699.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5987.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29119AL0": {
+   "LavprisVVS": 7002.0,
+   "BilligVVS": 7002.0,
+   "CompletVVS": 7002.0,
+   "billigste": 7002.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "11042000": {
+   "LavprisVVS": 10914.0,
+   "BilligVVS": 10914.0,
+   "CompletVVS": 7699.0,
+   "billigste": 7699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "57752483": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "11035000": {
+   "LavprisVVS": 6774.0,
+   "BilligVVS": 7599.0,
+   "CompletVVS": 7199.0,
+   "billigste": 6774.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "20595000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1013910000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1013900000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW084": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW085": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW152": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCN016033 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHBG040-PN090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEAE00115": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFIX048-PN253": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CTWU08124850P1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4272.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "23361300001": {
+   "LavprisVVS": 7322.0,
+   "BilligVVS": 7322.0,
+   "CompletVVS": 7322.0,
+   "billigste": 7322.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "61186450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31615GN0": {
+   "LavprisVVS": 4699.0,
+   "BilligVVS": 5899.0,
+   "CompletVVS": 4409.0,
+   "billigste": 4409.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "31615AL0": {
+   "LavprisVVS": 4699.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 5669.0,
+   "billigste": 4699.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "31615DL0": {
+   "LavprisVVS": 5239.0,
+   "BilligVVS": 5327.0,
+   "CompletVVS": 4679.0,
+   "billigste": 4679.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "56062700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56062670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56062800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160AL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160DL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160GN1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "93666670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "93666140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "93666990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "93666340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29157LS0": {
+   "LavprisVVS": 4979.0,
+   "BilligVVS": 5121.0,
+   "CompletVVS": 4799.0,
+   "billigste": 4799.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "29904LS0": {
+   "LavprisVVS": 4999.0,
+   "BilligVVS": 5121.0,
+   "CompletVVS": 4799.0,
+   "billigste": 4799.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "03402473": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32757DL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32757AL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31101000": {
+   "LavprisVVS": 4568.0,
+   "BilligVVS": 5699.0,
+   "CompletVVS": 4799.0,
+   "billigste": 4568.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "32757GN1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24345000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HGR48020670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "65232213": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24344000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "53040300": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29176DL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3830.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW114": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54973670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54973700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 28": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPOE040-PN414": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPOE050-PN413": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEAES5013": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-SPS 03": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEEK051-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61031450": {
+   "LavprisVVS": 6056.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 6299.0,
+   "billigste": 6056.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "61024450": {
+   "LavprisVVS": 6209.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 4679.0,
+   "billigste": 4679.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "61025450": {
+   "LavprisVVS": 5679.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 5939.0,
+   "billigste": 5679.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "61026450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61030450": {
+   "LavprisVVS": 5679.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 5939.0,
+   "billigste": 5679.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "61032450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54262760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54262550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54262780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54294760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54294780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54294550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54262700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "234000600": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C101": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4164A2R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A4R1": {
+   "LavprisVVS": 9667.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 10499.0,
+   "billigste": 7199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4164A1R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C501": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A5R1": {
+   "LavprisVVS": 7035.0,
+   "BilligVVS": 7035.0,
+   "CompletVVS": 6499.0,
+   "billigste": 6499.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "63320001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A2R1": {
+   "LavprisVVS": 7035.0,
+   "BilligVVS": 7035.0,
+   "CompletVVS": 6499.0,
+   "billigste": 6499.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C201": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A23CKR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A1R1": {
+   "LavprisVVS": 7035.0,
+   "BilligVVS": 7035.0,
+   "CompletVVS": 6499.0,
+   "billigste": 6499.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A33C401": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "62025450": {
+   "LavprisVVS": 4635.0,
+   "BilligVVS": 6799.0,
+   "CompletVVS": 4859.0,
+   "billigste": 4635.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "10820000": {
+   "LavprisVVS": 8999.0,
+   "BilligVVS": 8999.0,
+   "CompletVVS": 7199.0,
+   "billigste": 7199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73817800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73830000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19380GL2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19380MS2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19380MG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19380DA2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "81143572": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "51942211": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "10129000": {
+   "LavprisVVS": 6595.0,
+   "BilligVVS": 6899.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "101385AL00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW106": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW154": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSKC035-PN453": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54975700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54975670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFUA060-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 23": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFKP051-PN453": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVW062-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVP063-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AG-WTUSL 02": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54293760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54293780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54293700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W99003S12 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54293550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AG-WTUSL 03": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSLB01PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "02330900641": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "30609DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "12716000": {
+   "LavprisVVS": 6998.0,
+   "BilligVVS": 7699.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6799.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "27188000": {
+   "LavprisVVS": 5758.0,
+   "BilligVVS": 6999.0,
+   "CompletVVS": 6599.0,
+   "billigste": 5758.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "45711000": {
+   "LavprisVVS": 6314.0,
+   "BilligVVS": 7399.0,
+   "CompletVVS": 6699.0,
+   "billigste": 6314.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "10411000": {
+   "LavprisVVS": 6972.0,
+   "BilligVVS": 8899.0,
+   "CompletVVS": 7399.0,
+   "billigste": 6972.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "76444000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29402000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "11041000": {
+   "LavprisVVS": 6381.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6381.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "11026000": {
+   "LavprisVVS": 5962.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5962.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "45003820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW028": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW139": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54137700": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54139700": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54137000": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54139000": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54140670": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54135670": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54136700": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54142700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54136000": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54142000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54138670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSBJ040-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54141700": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54141000": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54137670": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54139670": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54140700": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54135700": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "6010-HSR01-L-RPG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54140000": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54135000": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54136670": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54142670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54138700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54138000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54141670": {
+   "LavprisVVS": 6389.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6569.0,
+   "billigste": 6389.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "SEAES5012": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDAES5012": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54291760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54292780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54292550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54291780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54291700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54292760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54291550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54292700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "446500RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221H01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "416483RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221L01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D3R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221G01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A71D301": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A221K01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "30503KF0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27494000": {
+   "LavprisVVS": 4540.0,
+   "BilligVVS": 5099.0,
+   "CompletVVS": 4699.0,
+   "billigste": 4540.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "26600000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19446DC2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29181DC2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29406GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20661MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20587GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20587DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21144DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20662MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20662MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21134DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29406MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29406DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21144AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20661MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20587MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20661GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20587MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32146DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20662DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21134AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20662GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3983.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3832.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW079": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW029": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW150": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW093": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW094": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HB60-03 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "KOBW071-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 33": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 26": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S26-SPS 06": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPGS090-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIZ050-PN380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIY060-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPHY055-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "PN-SPS 28": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-WTUSL 01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A228FR1": {
+   "LavprisVVS": 6822.0,
+   "BilligVVS": 6822.0,
+   "CompletVVS": 6299.0,
+   "billigste": 6299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "76826800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76804800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26895DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24366DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15765000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24237000": {
+   "LavprisVVS": 4299.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 4599.0,
+   "billigste": 4299.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "33711670": {
+   "LavprisVVS": 5523.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5599.0,
+   "billigste": 5523.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26794000": {
+   "LavprisVVS": 6099.0,
+   "BilligVVS": 6999.0,
+   "CompletVVS": 6299.0,
+   "billigste": 6099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29118DC0": {
+   "LavprisVVS": 5627.0,
+   "BilligVVS": 5627.0,
+   "CompletVVS": 5627.0,
+   "billigste": 5627.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29123DC0": {
+   "LavprisVVS": 5095.0,
+   "BilligVVS": 5095.0,
+   "CompletVVS": 5095.0,
+   "billigste": 5095.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33713670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "11732000": {
+   "LavprisVVS": 6249.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6599.0,
+   "billigste": 6249.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33715700": {
+   "LavprisVVS": 5640.0,
+   "BilligVVS": 6699.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5640.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15714700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33715670": {
+   "LavprisVVS": 5030.0,
+   "BilligVVS": 6099.0,
+   "CompletVVS": 6499.0,
+   "billigste": 5030.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "38700000": {
+   "LavprisVVS": 5474.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5474.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33713700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33711700": {
+   "LavprisVVS": 5640.0,
+   "BilligVVS": 6699.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5640.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "13437180": {
+   "LavprisVVS": 7234.0,
+   "BilligVVS": 7234.0,
+   "CompletVVS": 7234.0,
+   "billigste": 7234.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "53122083": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "51942201": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "101336AL00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "101385DC00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1013380000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "80802100": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP1908049": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP1809049": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MAE20090465": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCW024533 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UGL536033 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SIHH100-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-SPS 12": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEAES5011": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W01003S12 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CS-WTUSL02-C": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSL 12 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "D007021105": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "D007021080": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A338GRW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "416884R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "62055450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "500202JT1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39860800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "46521000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16815000": {
+   "LavprisVVS": 7080.0,
+   "BilligVVS": 7080.0,
+   "CompletVVS": 7080.0,
+   "billigste": 7080.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39711000": {
+   "LavprisVVS": 7103.0,
+   "BilligVVS": 7103.0,
+   "CompletVVS": 6099.0,
+   "billigste": 6099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "16824000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39716000": {
+   "LavprisVVS": 7103.0,
+   "BilligVVS": 7103.0,
+   "CompletVVS": 6599.0,
+   "billigste": 6599.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "72416000": {
+   "LavprisVVS": 5146.0,
+   "BilligVVS": 5146.0,
+   "CompletVVS": 5146.0,
+   "billigste": 5146.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "10106000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIF035-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HS60-03 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHGZ050-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHHC040-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 24": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54974670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 31": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54974700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFUM052-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61023450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61022450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54055670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54054000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54057670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54057000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54290780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54054700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54290700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54054670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54290550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CTWU031148R50P1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54055700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54056700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54055000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54056670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54056000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54057700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54290760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "USAY080-PN274": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "VB-BAR-64-NO": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "41688LR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "416481RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A301": {
+   "LavprisVVS": 6718.0,
+   "BilligVVS": 6718.0,
+   "CompletVVS": 6199.0,
+   "billigste": 6199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73837000": {
+   "LavprisVVS": 5571.0,
+   "BilligVVS": 6499.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5571.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "45600820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26605000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73819800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27371000": {
+   "LavprisVVS": 6599.0,
+   "BilligVVS": 6599.0,
+   "CompletVVS": 4699.0,
+   "billigste": 4699.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "29151LS0": {
+   "LavprisVVS": 5009.0,
+   "BilligVVS": 4811.0,
+   "CompletVVS": 4799.0,
+   "billigste": 4799.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "29156LS0": {
+   "LavprisVVS": 4999.0,
+   "BilligVVS": 4811.0,
+   "CompletVVS": 4799.0,
+   "billigste": 4799.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "24340AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "VE17980465": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW207": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 29": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 21": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEAES5010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGVV062-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MMWTRB 64-1290": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-WTUSL 02 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "H585IN40001111": {
+   "LavprisVVS": 7112.0,
+   "BilligVVS": 7965.0,
+   "CompletVVS": 7499.0,
+   "billigste": 7112.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D1R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D4R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A71D101": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A71D501": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D2R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D5R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "H585IN30001111": {
+   "LavprisVVS": 7187.0,
+   "BilligVVS": 7187.0,
+   "CompletVVS": 7187.0,
+   "billigste": 7187.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "2336130000": {
+   "LavprisVVS": 7539.0,
+   "BilligVVS": 7765.0,
+   "CompletVVS": 7099.0,
+   "billigste": 7099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A331GR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31928KF0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31615GL0": {
+   "LavprisVVS": 4429.0,
+   "BilligVVS": 5699.0,
+   "CompletVVS": 4139.0,
+   "billigste": 4139.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "31615A00": {
+   "LavprisVVS": 4469.0,
+   "BilligVVS": 5499.0,
+   "CompletVVS": 4409.0,
+   "billigste": 4409.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "76803670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31615DA0": {
+   "LavprisVVS": 4469.0,
+   "BilligVVS": 5579.0,
+   "CompletVVS": 4769.0,
+   "billigste": 4469.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "40830001": {
+   "LavprisVVS": 6219.0,
+   "BilligVVS": 6219.0,
+   "CompletVVS": 6219.0,
+   "billigste": 6219.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "56060800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56060670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56060700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160DA1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160MS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160GL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160MG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24153DC0": {
+   "LavprisVVS": 4951.0,
+   "BilligVVS": 4951.0,
+   "CompletVVS": 4951.0,
+   "billigste": 4951.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26229000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26228000": {
+   "LavprisVVS": 5218.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5218.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15588140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15574140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15574340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "13151000": {
+   "LavprisVVS": 6099.0,
+   "BilligVVS": 6099.0,
+   "CompletVVS": 5099.0,
+   "billigste": 5099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15587340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "10755000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15573140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15559340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24340140": {
+   "LavprisVVS": 5038.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5199.0,
+   "billigste": 5038.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15588340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15559140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15554000": {
+   "LavprisVVS": 4948.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5099.0,
+   "billigste": 4948.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15583000": {
+   "LavprisVVS": 5112.0,
+   "BilligVVS": 6699.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5112.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15572000": {
+   "LavprisVVS": 5112.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5112.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "13151400": {
+   "LavprisVVS": 6099.0,
+   "BilligVVS": 6099.0,
+   "CompletVVS": 5099.0,
+   "billigste": 5099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "8113956233": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39135000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39133000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32757DA1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32757MS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32757MG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29176DA1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29176MS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW174": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW121": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW122": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-MS60-03 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIF035-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCW026033": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXU120-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXP120-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEZQ090-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 18": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "500207001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPGS080-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFPR071-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "60321450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSLB01PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "PEL4010.691418": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56256000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "538055": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4223.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "5257000000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BMEAL08SUP61": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A228LR1": {
+   "LavprisVVS": 6551.0,
+   "BilligVVS": 6551.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A228GR1": {
+   "LavprisVVS": 6551.0,
+   "BilligVVS": 6551.0,
+   "CompletVVS": 5999.0,
+   "billigste": 5999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "34822800": {
+   "LavprisVVS": 5898.0,
+   "BilligVVS": 6799.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5898.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73868800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26243700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27493000": {
+   "LavprisVVS": 4862.0,
+   "BilligVVS": 5799.0,
+   "CompletVVS": 5099.0,
+   "billigste": 4862.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26243670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "34725000": {
+   "LavprisVVS": 5941.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5941.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "19380DC2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "10942000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "11024000": {
+   "LavprisVVS": 6241.0,
+   "BilligVVS": 6599.0,
+   "CompletVVS": 6599.0,
+   "billigste": 6241.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36114000": {
+   "LavprisVVS": 5863.0,
+   "BilligVVS": 6499.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5863.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32512340": {
+   "LavprisVVS": 5742.0,
+   "BilligVVS": 5742.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5742.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32512990": {
+   "LavprisVVS": 5741.0,
+   "BilligVVS": 5741.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5741.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "51502130100": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32512140": {
+   "LavprisVVS": 5742.0,
+   "BilligVVS": 5742.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5742.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "35288000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "101336DC00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW197": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW194": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW193": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW205": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW201": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW195": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "209263": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HB45-03 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSBA035-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-HSR01-L-RPG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "USBF080-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54972670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 21": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 27": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54972700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 15": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFQA037": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MWFM036-C0039": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54260550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54260700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54260760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54260780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-WTUSL 02 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "671621": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "511331": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4203.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4237.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "558605R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A23CK01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "60344450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24347000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45200820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33712140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33710340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33714140": {
+   "LavprisVVS": 5390.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5599.0,
+   "billigste": 5390.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33712990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33712340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33710990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "10700000": {
+   "LavprisVVS": 6118.0,
+   "BilligVVS": 7199.0,
+   "CompletVVS": 6499.0,
+   "billigste": 6118.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33710140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24250700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33714990": {
+   "LavprisVVS": 5390.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5599.0,
+   "billigste": 5390.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33714340": {
+   "LavprisVVS": 5339.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5599.0,
+   "billigste": 5339.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "25268000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19315DL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19315GN1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19315AL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24362DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24362GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29410DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21144MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29410GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21144GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21134MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24362AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21134MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21144DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21144MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW118": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3984.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "DUB1809042": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HLT0160 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6110-SPS 07": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPNI050-PN413": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFAA043-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEDP042-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CS-WTUSLB 02-B": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535658": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A401": {
+   "LavprisVVS": 6446.0,
+   "BilligVVS": 6446.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5899.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A501": {
+   "LavprisVVS": 6446.0,
+   "BilligVVS": 6446.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5899.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A22A101": {
+   "LavprisVVS": 6446.0,
+   "BilligVVS": 6446.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5899.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A3R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "V+A-VB-IOS-80": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4626RSR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4626HSR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "30503DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24353DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24364DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24358000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "100 2400 S": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24359000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20587DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45133000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20661DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20662DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29406DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "101386AL00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3829.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW131": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW132": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HS4082-312": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIF035-PN380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UGL534533 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MHS4084-PN243": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHHE040-PN280": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 13": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDAES3018": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFIX048-PN239": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SGQZ052-PN529": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MMWTRB 64-1090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4010.691218": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535634": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535641": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4215.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4288xA.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4156A4RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4156A5RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D301": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "666210R1": {
+   "LavprisVVS": 5844.0,
+   "BilligVVS": 6039.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5844.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "0210090064": {
+   "LavprisVVS": 6299.0,
+   "BilligVVS": 7649.0,
+   "CompletVVS": 7399.0,
+   "billigste": 6299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "16580800": {
+   "LavprisVVS": 6099.0,
+   "BilligVVS": 6099.0,
+   "CompletVVS": 6099.0,
+   "billigste": 6099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39862000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24150700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24350670": {
+   "LavprisVVS": 5859.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 6099.0,
+   "billigste": 5859.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24151670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29120000": {
+   "LavprisVVS": 4659.0,
+   "BilligVVS": 4436.0,
+   "CompletVVS": 4499.0,
+   "billigste": 4436.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "24350700": {
+   "LavprisVVS": 5859.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 6099.0,
+   "billigste": 5859.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24351700": {
+   "LavprisVVS": 5859.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 6099.0,
+   "billigste": 5859.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73818000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24150670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24151700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24351670": {
+   "LavprisVVS": 5859.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 6099.0,
+   "billigste": 5859.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "71730000": {
+   "LavprisVVS": 4797.0,
+   "BilligVVS": 4797.0,
+   "CompletVVS": 4797.0,
+   "billigste": 4797.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32515990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32515140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36108000": {
+   "LavprisVVS": 6656.0,
+   "BilligVVS": 6656.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32511140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32515340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36115000": {
+   "LavprisVVS": 5208.0,
+   "BilligVVS": 5699.0,
+   "CompletVVS": 5499.0,
+   "billigste": 5208.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "21138000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39116000": {
+   "LavprisVVS": 5998.0,
+   "BilligVVS": 7299.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5998.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32511340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "53030300": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "44860021": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW190": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP18080RL": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LA18080495": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP1808049": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "LUP1758048": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UGL536033": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-MS45-03-L/R PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HSW60-04 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-M 01-L-R PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "42090820": {
+   "LavprisVVS": 6399.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5199.0,
+   "billigste": 5199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 25": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "42090830": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFTU060-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIY061-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-SPS05": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 11": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W01003S10 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535627": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4204.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW024": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3212000000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "503049JT1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "501663JT1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27381000": {
+   "LavprisVVS": 4993.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5199.0,
+   "billigste": 4993.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26604000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27185000": {
+   "LavprisVVS": 5824.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36707000": {
+   "LavprisVVS": 7999.0,
+   "BilligVVS": 7999.0,
+   "CompletVVS": 6399.0,
+   "billigste": 6399.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "16823000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36715000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36721820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16810000": {
+   "LavprisVVS": 7313.0,
+   "BilligVVS": 7313.0,
+   "CompletVVS": 7313.0,
+   "billigste": 7313.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36723000": {
+   "LavprisVVS": 6050.0,
+   "BilligVVS": 7299.0,
+   "CompletVVS": 6399.0,
+   "billigste": 6050.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "12715000": {
+   "LavprisVVS": 5887.0,
+   "BilligVVS": 6999.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5887.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24279AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "05682129": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36104000": {
+   "LavprisVVS": 5412.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5412.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "05682119": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "3820.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW143": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW126": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW155": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MCL516033": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSNP040-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MCL514533 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 23": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPOE030-PN415": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54258550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54258780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54258700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4005.199019": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSL 12 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "538048": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "535603": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "671212": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4287.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4284.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "416484R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A228F01": {
+   "LavprisVVS": 6234.0,
+   "BilligVVS": 6234.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5799.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A3380RW": {
+   "LavprisVVS": 5556.0,
+   "BilligVVS": 5556.0,
+   "CompletVVS": 5099.0,
+   "billigste": 5099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A3381RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "416881R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "5649R0T2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "72823800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "72821800": {
+   "LavprisVVS": 5163.0,
+   "BilligVVS": 6099.0,
+   "CompletVVS": 5199.0,
+   "billigste": 5163.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "65292203": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39850800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24160DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27376000": {
+   "LavprisVVS": 6119.0,
+   "BilligVVS": 6119.0,
+   "CompletVVS": 6119.0,
+   "billigste": 6119.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "46470000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "12015000": {
+   "LavprisVVS": 5591.0,
+   "BilligVVS": 6299.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5591.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32757DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1013840000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29176DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1013830000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW066": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW065": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW016": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW166": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MIR18090485": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW167": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "209262": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSKE035-PN391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HB45-03 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-MS02-L-RPG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SIHH090-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-SPS05-L/R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MMDWT 70-1320-GM": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "60319450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "60320450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MMDWT 70-1320-SM": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W99003S12 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-WTUSL 03 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BS51.1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4285.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4272xA.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4277.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "419861RW": {
+   "LavprisVVS": 5832.0,
+   "BilligVVS": 5832.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "7175A0R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "H8117040001041": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BMEAL11SUP86": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "VB-NAP-57": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "2353100072": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "146130111": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73816000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "16582000": {
+   "LavprisVVS": 5898.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 6199.0,
+   "billigste": 5898.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "31615DC0": {
+   "LavprisVVS": 4039.0,
+   "BilligVVS": 4745.0,
+   "CompletVVS": 4208.0,
+   "billigste": 4039.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "76803800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73836000": {
+   "LavprisVVS": 4857.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5099.0,
+   "billigste": 4857.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "56067380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56067670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56067700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15558700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15573670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15558670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15588670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15574700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15559670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15587670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15588700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15559700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15574670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "73443000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "20589000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "12012000": {
+   "LavprisVVS": 5398.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5398.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "13550180": {
+   "LavprisVVS": 5694.0,
+   "BilligVVS": 6999.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5694.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "3819.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW021": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW022": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW157": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AND1909045": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "ANT1909044": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UN18990445": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIG035-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCN016033": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIH035-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCL016033": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UGL534533": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXU100-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXP100-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPGS065-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDAES3016": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEAES5090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEZQ080-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-MMWTR 65-1548-R-sm": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-MMWTR 65-1548-L-sm": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-MMWTR 65-1548-R-gm": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-MMWTR 65-1548-L-gm": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "154441QC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "154441KS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "154441391": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4226.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW020": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4194.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4271.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "234000000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "558600R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "558700R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A2280R1": {
+   "LavprisVVS": 6072.0,
+   "BilligVVS": 6072.0,
+   "CompletVVS": 5499.0,
+   "billigste": 5499.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D501": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A5R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A2R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D401": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A2281R1": {
+   "LavprisVVS": 6072.0,
+   "BilligVVS": 6072.0,
+   "CompletVVS": 5499.0,
+   "billigste": 5499.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A70D201": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "10822800": {
+   "LavprisVVS": 5775.0,
+   "BilligVVS": 6499.0,
+   "CompletVVS": 6099.0,
+   "billigste": 5775.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73851800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24530340": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5214.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "27474000": {
+   "LavprisVVS": 3821.0,
+   "BilligVVS": 4499.0,
+   "CompletVVS": 3699.0,
+   "billigste": 3699.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "27461000": {
+   "LavprisVVS": 4034.0,
+   "BilligVVS": 4034.0,
+   "CompletVVS": 4034.0,
+   "billigste": 4034.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "24521140": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5299.0,
+   "CompletVVS": 5099.0,
+   "billigste": 5099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24531340": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5214.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24521340": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5214.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24531140": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5099.0,
+   "billigste": 5099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24520340": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5214.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24530140": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5214.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24520990": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5099.0,
+   "billigste": 5099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24521990": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5214.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24530990": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5299.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5214.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24520140": {
+   "LavprisVVS": 5214.0,
+   "BilligVVS": 5199.0,
+   "CompletVVS": 5099.0,
+   "billigste": 5099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15589000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15571000": {
+   "LavprisVVS": 5462.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5462.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15581000": {
+   "LavprisVVS": 5462.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5462.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "28083670": {
+   "LavprisVVS": 4184.0,
+   "BilligVVS": 4899.0,
+   "CompletVVS": 4799.0,
+   "billigste": 4184.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "16261820": {
+   "LavprisVVS": 5185.0,
+   "BilligVVS": 5899.0,
+   "CompletVVS": 5499.0,
+   "billigste": 5185.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "33710670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33712700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33710700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33712670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15575000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33714700": {
+   "LavprisVVS": 5030.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5199.0,
+   "billigste": 5030.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15562000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33714670": {
+   "LavprisVVS": 4941.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5099.0,
+   "billigste": 4941.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "15553000": {
+   "LavprisVVS": 4299.0,
+   "BilligVVS": 4299.0,
+   "CompletVVS": 4299.0,
+   "billigste": 4299.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "19315DA1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19315MS1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19315GL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19315MG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24362DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32512700": {
+   "LavprisVVS": 5358.0,
+   "BilligVVS": 5358.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5358.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24362MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29410MS0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21134DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21144DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21145DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24362MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "34115000": {
+   "LavprisVVS": 5432.0,
+   "BilligVVS": 6099.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5432.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32512670": {
+   "LavprisVVS": 5358.0,
+   "BilligVVS": 5358.0,
+   "CompletVVS": 5199.0,
+   "billigste": 5199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29410DA0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24362GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29410MG0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45016000": {
+   "LavprisVVS": 5040.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5040.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29410GL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW203": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "WIE154100R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SIL160100R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SIL160100L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW202": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "209267": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSFC035-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S20-FSP 20": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54971700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEAES5080": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AG-SPS 28": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFGX044-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61020450": {
+   "LavprisVVS": 3802.0,
+   "BilligVVS": 5199.0,
+   "CompletVVS": 3959.0,
+   "billigste": 3802.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "54256700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54256760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54256550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54256780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "537546": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4283.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "417258BCT7": {
+   "LavprisVVS": 5359.0,
+   "BilligVVS": 5739.0,
+   "CompletVVS": 5509.0,
+   "billigste": 5359.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "417258BCT0": {
+   "LavprisVVS": 5359.0,
+   "BilligVVS": 5739.0,
+   "CompletVVS": 5509.0,
+   "billigste": 5359.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "419861BCW2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "419861BCW0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETKW041": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETKW044": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76800000": {
+   "LavprisVVS": 5762.0,
+   "BilligVVS": 5799.0,
+   "CompletVVS": 7399.0,
+   "billigste": 5762.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "27624340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27624990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28821140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24357000": {
+   "LavprisVVS": 1399.0,
+   "BilligVVS": 1399.0,
+   "CompletVVS": 1199.0,
+   "billigste": 1199.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "27623140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28821340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27623990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28821990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27624140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26428670": {
+   "LavprisVVS": 4799.0,
+   "BilligVVS": 4199.0,
+   "CompletVVS": 3999.0,
+   "billigste": 3999.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "27623340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26429670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "57302173": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418300": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "57302473": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418330": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418950": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418310": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19418250": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36444000": {
+   "LavprisVVS": 4476.0,
+   "BilligVVS": 4476.0,
+   "CompletVVS": 4476.0,
+   "billigste": 4476.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73053000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "40569083": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "44030100": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "L17010050L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "L17010050R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "TOS1608042G": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BOR1808050": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MLL513033 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIG035-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HB30-03 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6110-SPS 08": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6110-SPS 11": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFPQ071-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W01003S12 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "D007019105": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4171.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "D007019080": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4286.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4214.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A331G01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A228L01": {
+   "LavprisVVS": 5963.0,
+   "BilligVVS": 5963.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5399.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "417258BCW0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A228G01": {
+   "LavprisVVS": 5963.0,
+   "BilligVVS": 5963.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5399.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "416483R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "417258BCW2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "503080JT1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "0233090064": {
+   "LavprisVVS": 6188.0,
+   "BilligVVS": 6474.0,
+   "CompletVVS": 6599.0,
+   "billigste": 6188.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32520990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32520140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32520340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26238000": {
+   "LavprisVVS": 4898.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5099.0,
+   "billigste": 4898.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26239000": {
+   "LavprisVVS": null,
+   "BilligVVS": 6135.0,
+   "CompletVVS": 6135.0,
+   "billigste": 6135.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "10922180": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "15486180": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "34705000": {
+   "LavprisVVS": 7499.0,
+   "BilligVVS": 7381.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5899.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "75444000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32826001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "81149572": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21149000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32515670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32511670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32515700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39113000": {
+   "LavprisVVS": 5606.0,
+   "BilligVVS": 6799.0,
+   "CompletVVS": 5899.0,
+   "billigste": 5606.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32511700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "21140000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "1013880000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54967670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54967700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPOE040-PN413": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "992.821202": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDEE00112": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPIY050-PN380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDNE00212": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-SPS03": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFAA043-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54254780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54254700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54266700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-WTUSL 02 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54252550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54252700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54266760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54266780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54266550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54252760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54254760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54252780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54254550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "670900 / 676201": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "520173": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "446500R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "633100R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A338GR1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61117450": {
+   "LavprisVVS": 5759.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 4139.0,
+   "billigste": 4139.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "43428800": {
+   "LavprisVVS": 4299.0,
+   "BilligVVS": 6599.0,
+   "CompletVVS": 6399.0,
+   "billigste": 4299.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "56090670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56090800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56089700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56089670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56089800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56090700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27298000": {
+   "LavprisVVS": 5935.0,
+   "BilligVVS": 7699.0,
+   "CompletVVS": 6599.0,
+   "billigste": 5935.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "34635820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48464DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48459GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48651DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48458GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24356GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48464GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48646GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48646DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48651GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48465GN0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "48458DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCN014533 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIG035-PN380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HS60-03 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-MS30-03-L/R PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHIC04T-PN338": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S16-FSP 32": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPHU055-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S25-SPS 08": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AG-SPS 16": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RD-SPS 01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MWFL036-C0001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CTWU031148L50P1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54250550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AG-WTUSL 01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSL01PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54250760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54250780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54250700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "538024": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "520180": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4259.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4183.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4258.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4202.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4170.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "9700201": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "5656HRRW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4626HS01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4626RS01": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76802000": {
+   "LavprisVVS": 5599.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5599.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73867000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "72824800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "72822800": {
+   "LavprisVVS": 121.0,
+   "BilligVVS": 134.0,
+   "CompletVVS": 134.0,
+   "billigste": 121.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "56063700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56063670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "56063800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39210000": {
+   "LavprisVVS": 5309.0,
+   "BilligVVS": 5309.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5309.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "11220000": {
+   "LavprisVVS": 5330.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5599.0,
+   "billigste": 5330.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "38715000": {
+   "LavprisVVS": 6841.0,
+   "BilligVVS": 6841.0,
+   "CompletVVS": 6399.0,
+   "billigste": 6399.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "58149113": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36705000": {
+   "LavprisVVS": 6732.0,
+   "BilligVVS": 6732.0,
+   "CompletVVS": 6732.0,
+   "billigste": 6732.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36716000": {
+   "LavprisVVS": 6698.0,
+   "BilligVVS": 6698.0,
+   "CompletVVS": 6698.0,
+   "billigste": 6698.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36722000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36706000": {
+   "LavprisVVS": 6698.0,
+   "BilligVVS": 6698.0,
+   "CompletVVS": 6698.0,
+   "billigste": 6698.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36726000": {
+   "LavprisVVS": 6698.0,
+   "BilligVVS": 6698.0,
+   "CompletVVS": 6698.0,
+   "billigste": 6698.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36714000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54719007": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "39031000": {
+   "LavprisVVS": 5348.0,
+   "BilligVVS": 5899.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5348.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39147000": {
+   "LavprisVVS": 4971.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5299.0,
+   "billigste": 4971.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39018000": {
+   "LavprisVVS": 4898.0,
+   "BilligVVS": 5499.0,
+   "CompletVVS": 5199.0,
+   "billigste": 4898.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39143000": {
+   "LavprisVVS": 5068.0,
+   "BilligVVS": 5799.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5068.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39010000": {
+   "LavprisVVS": 4949.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 4699.0,
+   "billigste": 4699.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "11021000": {
+   "LavprisVVS": 5354.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5354.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "39032000": {
+   "LavprisVVS": 5154.0,
+   "BilligVVS": 5899.0,
+   "CompletVVS": 5499.0,
+   "billigste": 5154.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "11025000": {
+   "LavprisVVS": 5052.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5052.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "36445000": {
+   "LavprisVVS": 3839.0,
+   "BilligVVS": 4603.0,
+   "CompletVVS": 4799.0,
+   "billigste": 3839.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "11020000": {
+   "LavprisVVS": 5103.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5399.0,
+   "billigste": 5103.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "1013320000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24340DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HI16080395R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HI16080395L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW092": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MLT5160 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCL014533 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCT016033 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCT016017 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-HS01-L-RPG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFFZ044-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S16-FSP 30": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDAES3014": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SDAES3013": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4.010.198.018": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54248760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54248780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54248700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54248550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "523297": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "520166": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "523167": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4205.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW018": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4266.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "55870501": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "55860501": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A301": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A228301": {
+   "LavprisVVS": 5755.0,
+   "BilligVVS": 5755.0,
+   "CompletVVS": 5199.0,
+   "billigste": 5199.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "5649R0R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "43434170": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "43434290": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "43434380": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27378000": {
+   "LavprisVVS": 5314.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5499.0,
+   "billigste": 5314.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "19317GN1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27378400": {
+   "LavprisVVS": 5976.0,
+   "BilligVVS": 5976.0,
+   "CompletVVS": 5976.0,
+   "billigste": 5976.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26022000": {
+   "LavprisVVS": 5950.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 6299.0,
+   "billigste": 5950.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26251000": {
+   "LavprisVVS": null,
+   "BilligVVS": 5760.0,
+   "CompletVVS": 5760.0,
+   "billigste": 5760.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24277AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19317DL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26431820": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19317AL1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27320000": {
+   "LavprisVVS": 6744.0,
+   "BilligVVS": 7099.0,
+   "CompletVVS": 6799.0,
+   "billigste": 6744.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24340670": {
+   "LavprisVVS": 4228.0,
+   "BilligVVS": 4899.0,
+   "CompletVVS": 4399.0,
+   "billigste": 4228.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29126000": {
+   "LavprisVVS": 3959.0,
+   "BilligVVS": 4481.0,
+   "CompletVVS": 3799.0,
+   "billigste": 3799.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "36708180": {
+   "LavprisVVS": 5446.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5446.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "29121000": {
+   "LavprisVVS": 3799.0,
+   "BilligVVS": 4229.0,
+   "CompletVVS": 3699.0,
+   "billigste": 3699.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "36701180": {
+   "LavprisVVS": 5444.0,
+   "BilligVVS": 6399.0,
+   "CompletVVS": 5799.0,
+   "billigste": 5444.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24340700": {
+   "LavprisVVS": 4228.0,
+   "BilligVVS": 5099.0,
+   "CompletVVS": 4399.0,
+   "billigste": 4228.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "73447000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "34420000": {
+   "LavprisVVS": 5217.0,
+   "BilligVVS": 6199.0,
+   "CompletVVS": 5499.0,
+   "billigste": 5217.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24342000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24341000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "05682029": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "A6133NU": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "RH1808044": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW180": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "TOS18080425": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW136": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UGL533033 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-HSW45-04-L/R PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "OSBA040-PN090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SEZQ065-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-SPS02": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-SPS 24": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPOE030-PN414": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-WTUSL 01 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W01003S70 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4282.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4269.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4213.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW022": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4192.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW021": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "416481R1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "34820800": {
+   "LavprisVVS": 5043.0,
+   "BilligVVS": 5899.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5043.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "43363170": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "14883800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31892000": {
+   "LavprisVVS": 4261.0,
+   "BilligVVS": 4261.0,
+   "CompletVVS": 4261.0,
+   "billigste": 4261.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "16581000": {
+   "LavprisVVS": 4708.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 4999.0,
+   "billigste": 4708.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "43363290": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26089670": {
+   "LavprisVVS": 4461.0,
+   "BilligVVS": 4899.0,
+   "CompletVVS": 4599.0,
+   "billigste": 4461.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "26097670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "96385800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "97332000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "19315DC1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "96385880": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24365000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "31077000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "34112000": {
+   "LavprisVVS": 5323.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 5599.0,
+   "billigste": 5323.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "23403001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32526140": {
+   "LavprisVVS": 5101.0,
+   "BilligVVS": 5101.0,
+   "CompletVVS": 5699.0,
+   "billigste": 5101.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "72115000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24362DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "29410DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36113000": {
+   "LavprisVVS": 5943.0,
+   "BilligVVS": 5943.0,
+   "CompletVVS": 5599.0,
+   "billigste": 5599.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32526990": {
+   "LavprisVVS": 5101.0,
+   "BilligVVS": 5101.0,
+   "CompletVVS": 5299.0,
+   "billigste": 5101.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "SETW172": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW098": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MAL18080445": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "DOR1798049L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW165": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MAR41808044": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "DOR1798049R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MAE19090465": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHBH040-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HCW024533": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSIE035-PN326": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSKE035-PN453": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MCL514533": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UHBG040-PN089": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SIIS059-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SPNI030-PN415": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-SPS 11": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "PN-SPS 27": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61095450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61094450": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "W01003S10 PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "794361": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "794347": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "794385": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "794392": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4276.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "41686CRW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETKW002": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "43427800": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32520670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32520700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27623700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28821700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28821670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27370000": {
+   "LavprisVVS": 5499.0,
+   "BilligVVS": 5499.0,
+   "CompletVVS": 4099.0,
+   "billigste": 4099.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "27375000": {
+   "LavprisVVS": 5291.0,
+   "BilligVVS": 5291.0,
+   "CompletVVS": 5291.0,
+   "billigste": 5291.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "27624700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27477000": {
+   "LavprisVVS": 3979.0,
+   "BilligVVS": 4799.0,
+   "CompletVVS": 4099.0,
+   "billigste": 3979.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "27624670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "27463000": {
+   "LavprisVVS": 4065.0,
+   "BilligVVS": 5199.0,
+   "CompletVVS": 4099.0,
+   "billigste": 4065.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "27982000": {
+   "LavprisVVS": 4586.0,
+   "BilligVVS": 5399.0,
+   "CompletVVS": 4899.0,
+   "billigste": 4586.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "32540990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32540140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32540340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24363DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "57482209": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24363AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "45113000": {
+   "LavprisVVS": 4398.0,
+   "BilligVVS": 4999.0,
+   "CompletVVS": 4699.0,
+   "billigste": 4398.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "FLO15090R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "UGL533033": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6025-MSW60-04 PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MHS484E-PN242": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "S16-FSP 28": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXP080-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54970670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SIJH050-PN497": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SFXU080-PN491": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54970700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4900.991406": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "BL-WTUSL 04": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "USBC040-PN088": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4201.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4237xA.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "D007027080": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETDW014": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "D007027105": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "7175A001": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "361370000": {
+   "LavprisVVS": 4197.0,
+   "BilligVVS": 4197.0,
+   "CompletVVS": 4197.0,
+   "billigste": 4197.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "SETKW045": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "61114450": {
+   "LavprisVVS": 3717.0,
+   "BilligVVS": 3699.0,
+   "CompletVVS": 3869.0,
+   "billigste": 3699.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "61119450": {
+   "LavprisVVS": 3374.0,
+   "BilligVVS": 4199.0,
+   "CompletVVS": 3509.0,
+   "billigste": 3374.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "62023450": {
+   "LavprisVVS": 4949.0,
+   "BilligVVS": 5499.0,
+   "CompletVVS": 3869.0,
+   "billigste": 3869.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "73817000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "72861340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "76801000": {
+   "LavprisVVS": 6665.0,
+   "BilligVVS": 5299.0,
+   "CompletVVS": 6899.0,
+   "billigste": 5299.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "44350100": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "28494000": {
+   "LavprisVVS": 3978.0,
+   "BilligVVS": 4499.0,
+   "CompletVVS": 4199.0,
+   "billigste": 3978.0,
+   "status": "GULV: kan ikke matche",
+   "tjekket": "2026-06-13"
+  },
+  "33717000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "33718000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "59549030202": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "102168KF00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24279DC0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "36106000": {
+   "LavprisVVS": 4898.0,
+   "BilligVVS": 5499.0,
+   "CompletVVS": 5199.0,
+   "billigste": 4898.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "59549050202": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "59549051102": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "101349DL00": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "59549130202": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "L160100505L": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "L160100505R": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETW042": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MAP18080465": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "HSFB035-PN258": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54128000": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54134000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "PN-HS 02 C PG2": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54130700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54133670": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54129700": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54131670": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "HSIE035-PN452": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54132700": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54127700": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54132000": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54127000": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54128670": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54134670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54130670": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54130000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54133700": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54129670": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54131700": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54129000": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54131000": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54132670": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54127670": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54128700": {
+   "LavprisVVS": 5039.0,
+   "BilligVVS": 5599.0,
+   "CompletVVS": 5309.0,
+   "billigste": 5039.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "54134700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "USBG120-PN090": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "AG-SPS 25": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "CS-SPS 77": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "MMDWT54-1830": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54265780": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "6010-WTUSL01PG1": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54265550": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54265760": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "54265700": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "ACFQ030-ZUB": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "520159": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "523082": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "520074": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "523150": {
+   "LavprisVVS": null,
+   "BilligVVS": 5492.0,
+   "CompletVVS": null,
+   "billigste": 5492.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "523204": {
+   "LavprisVVS": null,
+   "BilligVVS": 6944.0,
+   "CompletVVS": 5902.0,
+   "billigste": 5902.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "511386": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4189.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4265.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4275.010": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "SETKU027": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "414361RW": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A501": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "4A228101": {
+   "LavprisVVS": 5485.0,
+   "BilligVVS": 5485.0,
+   "CompletVVS": 4999.0,
+   "billigste": 4999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A228001": {
+   "LavprisVVS": 5485.0,
+   "BilligVVS": 5485.0,
+   "CompletVVS": 4999.0,
+   "billigste": 4999.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "4A33A201": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "43426800": {
+   "LavprisVVS": 5999.0,
+   "BilligVVS": 5999.0,
+   "CompletVVS": 4599.0,
+   "billigste": 4599.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "04180340": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26858990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "26843140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24360140": {
+   "LavprisVVS": 5299.0,
+   "BilligVVS": 5299.0,
+   "CompletVVS": 4399.0,
+   "billigste": 4399.0,
+   "status": "OK: under konkurrent",
+   "tjekket": "2026-06-13"
+  },
+  "24355DL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32546990": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24355AL0": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "32546140": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24427000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24426000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
+  },
+  "24425000": {
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-06-13"
   }
  }
 };
