@@ -18,7 +18,8 @@ import sys
 UD = "dist"
 KOPIER = ["index.html", "tak.html", "om-os.html", "kontakt.html", "shared.css", "trends.js", "sitemap.xml", "robots.txt", "logo-icon.png", "favicon.png"]
 KOPIER_MAPPER = ["produkt"]
-ADMIN_ENC_FIL = "admin_enc.html"   # krypteret, committet genbrugskopi (sikker i offentligt repo)
+ADMIN_ENC_FIL = "admin_enc.html"     # krypteret, committet genbrugskopi (sikker i offentligt repo)
+ADMIN_URL_FIL = "varmemester.html"   # offentligt filnavn (sløret — ikke /admin) til online-adgang
 
 
 def main() -> None:
@@ -275,16 +276,16 @@ def byg_admin(fuld_data: dict) -> None:
             print("  ! 'cryptography' mangler — kør: pip install cryptography (admin sprunget over)")
             return
         side = _byg_admin_html(enc)
-        with open(os.path.join(UD, "admin.html"), "w", encoding="utf-8") as f:
+        with open(os.path.join(UD, ADMIN_URL_FIL), "w", encoding="utf-8") as f:
             f.write(side)
         with open(ADMIN_ENC_FIL, "w", encoding="utf-8") as f:   # committes til genbrug
             f.write(side)
-        print(f"  admin.html: krypteret online-version bygget ({len(enc['ct'])//1024} KB data)")
+        print(f"  {ADMIN_URL_FIL}: krypteret online-version bygget ({len(enc['ct'])//1024} KB data)")
     elif os.path.exists(ADMIN_ENC_FIL):
-        shutil.copy2(ADMIN_ENC_FIL, os.path.join(UD, "admin.html"))
-        print("  admin.html: genbrugte tidligere krypteret version")
+        shutil.copy2(ADMIN_ENC_FIL, os.path.join(UD, ADMIN_URL_FIL))
+        print(f"  {ADMIN_URL_FIL}: genbrugte tidligere krypteret version")
     else:
-        print("  admin.html sprunget over (ingen ADMIN_PASSWORD/eur og ingen tidligere version)")
+        print(f"  {ADMIN_URL_FIL} sprunget over (ingen ADMIN_PASSWORD/eur og ingen tidligere version)")
 
 
 if __name__ == "__main__":
