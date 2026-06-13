@@ -14,7 +14,7 @@ import shutil
 import sys
 
 UD = "dist"
-KOPIER = ["index.html", "tak.html", "trends.js", "sitemap.xml", "robots.txt", "logo-icon.png", "favicon.png"]
+KOPIER = ["index.html", "tak.html", "om-os.html", "kontakt.html", "shared.css", "trends.js", "sitemap.xml", "robots.txt", "logo-icon.png", "favicon.png"]
 KOPIER_MAPPER = ["produkt"]
 
 

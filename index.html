@@ -590,8 +590,8 @@
     <button class="burger" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
     <ul class="nav-links">
       <li><a href="#produkter">Produkter</a></li>
-      <li><a href="#hvorfor">Hvorfor os</a></li>
-      <li><a href="#kontakt">Kontakt</a></li>
+      <li><a href="/om-os.html">Om os</a></li>
+      <li><a href="/kontakt.html">Kontakt</a></li>
     </ul>
     <button class="cart-btn" onclick="toggleCart(true)">
       🛒 <span class="cart-label">Kurv</span> <span class="cart-count" id="cartCount">0</span>
@@ -608,7 +608,7 @@
       <p class="lead">Armaturer, badmøbler, brusekabiner, badekar og køkkenarmaturer fra Tysklands førende producenter. Bestil online — vi klarer import, fragt og dansk support.</p>
       <div class="hero-cta">
         <a href="#produkter" class="btn btn-accent">Se alle produkter</a>
-        <a href="#kontakt" class="btn btn-ghost">Få tilbud på større ordrer</a>
+        <a href="/kontakt.html" class="btn btn-ghost">Få tilbud på større ordrer</a>
       </div>
       <div class="hero-stats">
         <div class="hero-stat"><div class="n" id="statAntal">—</div><div class="l">produkter på lager</div></div>
@@ -717,93 +717,6 @@
   </div>
 </section>
 
-<!-- Hvorfor os -->
-<section class="why" id="hvorfor">
-  <div class="container">
-    <div class="section-head">
-      <div class="kicker">Hvorfor handle hos os</div>
-      <h2>Tryg handel — fra klik til badeværelse</h2>
-    </div>
-    <div class="grid-4">
-      <div class="usp">
-        <div class="num" id="uspAntal">—</div>
-        <div class="label">produkter</div>
-        <p>Hele det tyske sortiment til bad og køkken — opdateret dagligt.</p>
-      </div>
-      <div class="usp">
-        <div class="num">100%</div>
-        <div class="label">originale varer</div>
-        <p>Alle produkter kommer direkte fra producenternes officielle forhandlernet.</p>
-      </div>
-      <div class="usp">
-        <div class="num">3–6</div>
-        <div class="label">hverdages levering</div>
-        <p>Din ordre sendes automatisk videre til lageret samme dag, du bestiller.</p>
-      </div>
-      <div class="usp">
-        <div class="num">30</div>
-        <div class="label">dages returret</div>
-        <p>Fortrudt? Du har altid 30 dages fuld returret på ubrugte varer.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- CTA -->
-<section class="cta-banner">
-  <div class="container">
-    <h2>Skal hele badeværelset eller køkkenet renoveres?</h2>
-    <p>Vi giver mængderabat på større ordrer og skaffer gerne varer, der ikke er på siden.</p>
-    <a href="#kontakt" class="btn btn-white">Få et uforpligtende tilbud</a>
-  </div>
-</section>
-
-<!-- Kontakt -->
-<section class="contact" id="kontakt">
-  <div class="container">
-    <div class="section-head">
-      <div class="kicker">Kontakt</div>
-      <h2>Spørgsmål eller specialbestilling?</h2>
-    </div>
-    <div class="inner">
-      <div class="contact-info">
-        <p>Mangler du et bestemt produkt, eller vil du have et samlet tilbud på flere varer? Skriv eller ring — vi svarer hurtigt.</p>
-        <div class="contact-line">
-          <div class="icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 2 .8 2.9a2 2 0 0 1-.5 2.1L8.1 10a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.5c.9.4 1.9.7 2.9.8a2 2 0 0 1 1.7 2z"/></svg>
-          </div>
-          <div>70 12 34 56 <small>Man–fre kl. 8–16</small></div>
-        </div>
-        <div class="contact-line">
-          <div class="icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#0e3a5c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 7l-10 6L2 7"/></svg>
-          </div>
-          <div>kontakt@vvsdeal.dk <small>Vi svarer typisk samme dag</small></div>
-        </div>
-      </div>
-      <div class="contact-card">
-        <h3>Send en forespørgsel</h3>
-        <form onsubmit="return handleContact(this)">
-          <div class="form-group">
-            <label for="k-navn">Navn</label>
-            <input id="k-navn" type="text" required placeholder="Dit fulde navn">
-          </div>
-          <div class="form-group">
-            <label for="k-email">E-mail</label>
-            <input id="k-email" type="email" required placeholder="din@email.dk">
-          </div>
-          <div class="form-group">
-            <label for="k-besked">Besked</label>
-            <textarea id="k-besked" required placeholder="Hvilket produkt eller projekt drejer det sig om?"></textarea>
-          </div>
-          <button type="submit" class="btn btn-accent" style="width:100%">Send forespørgsel</button>
-          <p class="form-success">Tak! Vi vender tilbage hurtigst muligt. 👍</p>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
-
 <!-- Footer -->
 <footer>
   <div class="container">
@@ -816,9 +729,9 @@
       <div>
         <h4>Kundeservice</h4>
         <ul>
+          <li><a href="/om-os.html">Fragt &amp; levering</a></li>
+          <li><a href="/om-os.html">Returnering</a></li>
           <li><a href="#">Handelsbetingelser</a></li>
-          <li><a href="#">Fragt &amp; levering</a></li>
-          <li><a href="#">Returnering</a></li>
           <li><a href="#">Persondatapolitik</a></li>
         </ul>
       </div>
@@ -1022,7 +935,6 @@ function initUI() {
   }
   // Hero-statistik
   document.getElementById("statAntal").textContent = PRODUKTER.length.toLocaleString("da-DK") + "+";
-  document.getElementById("uspAntal").textContent = PRODUKTER.length.toLocaleString("da-DK");
   const maerker = [...new Set(PRODUKTER.map(p => p.maerke))].sort((a, b) => a.localeCompare(b, "da"));
   document.getElementById("statMaerker").textContent = maerker.length;
 
@@ -1707,12 +1619,6 @@ function fuldfoerOrdreLokalt(payload) {
   renderCart();
   coStep = 4;
   renderCheckout();
-}
-
-function handleContact(form) {
-  form.querySelector(".form-success").style.display = "block";
-  form.querySelectorAll("input, textarea, button").forEach(el => el.disabled = true);
-  return false;
 }
 
 document.querySelectorAll(".nav-links a").forEach(a =>
