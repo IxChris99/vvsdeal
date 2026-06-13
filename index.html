@@ -915,7 +915,7 @@ const SHOWROOM_STRAF = new Set(["Reservedele", "Tilbehør & holdere",
   "Toiletbørster & -ruller", "Bruserstænger & slanger", "Afløb & vandlåse"]);
 // Tydelige tilbehørs-/monteringsdele (typen mangler ofte på disse) — skubbes bagud,
 // så de rigtige produkter (kar, armaturer, møbler) åbner kategorien.
-const TILBEHOER_RE = /untergestell|wannentr(ä|ae)ger|wannenfu(ß|ss)|tr(ä|ae)ger|brandschutz|rohbauelement|ausstattungsset|verbindungsst(ü|ue)ck|abdicht|dichtband|verl(ä|ae)ng|schallschutz|montage(rahmen|set)|befestigung|geruchsverschluss|siphon|sifon|\bbogen\b|stutzen|adapter/i;
+const TILBEHOER_RE = /untergestell|wannentr(ä|ae)ger|wannenfu(ß|ss)|tr(ä|ae)ger|brandschutz|rohbauelement|ausstattungsset|verbindungsst(ü|ue)ck|abdicht|dichtband|verl(ä|ae)ng|schallschutz|montage(rahmen|set)|befestigung|geruchsverschluss|\bbogen\b|stutzen|adapter/i;
 const popScore = p => {
   let score = p.pop / trendBoost(p);
   // Gælder både forsiden OG kategori-sider: vis de populære/flotte varer først,

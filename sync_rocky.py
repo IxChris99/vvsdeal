@@ -39,11 +39,15 @@ KATEGORIER = [
     ("https://www.rockyshop.de/kueche/zubehoer/",        "koekkentilbehoer","Køkken-tilbehør"),
 ]
 
+# Tempereret token: et .*? må ALDRIG krydse ind i næste vare (markeret af
+# 'class="product-image"'). Uden dette "lånte" en vare uden egen pris den
+# næste vares pris (fx iBox 108 € blev til 5309 € fra et naboarmatur).
+_IKKE_NÆSTE = r'(?:(?!class="product-image").)*?'
 ITEM_RE = re.compile(
     r'<a href="(?P<url>https://www\.rockyshop\.de/[^"]+\.html)"\s+title="(?P<titel>[^"]+)"\s+class="product-image">'
-    r'.*?<img[^>]+src="(?P<billede>[^"]+)"'
-    r'.*?Artikelnummer:\s*</span>\s*<span>(?P<varenr>[^<]+)</span>'
-    r'.*?itemprop="price"\s+name="price"\s+content="(?P<pris>[\d.]+)"'
+    + _IKKE_NÆSTE + r'<img[^>]+src="(?P<billede>[^"]+)"'
+    + _IKKE_NÆSTE + r'Artikelnummer:\s*</span>\s*<span>(?P<varenr>[^<]+)</span>'
+    + _IKKE_NÆSTE + r'itemprop="price"\s+name="price"\s+content="(?P<pris>[\d.]+)"'
     r'(?P<rest>.*?)(?=<li class="item|</ul>)',
     re.DOTALL,
 )
