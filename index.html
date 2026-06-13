@@ -913,13 +913,17 @@ const erTrend     = p => TRENDS ? farveBoost(p) >= 1.10 : p.trend;
 const SHOWROOM_STRAF = new Set(["Reservedele", "Tilbehør & holdere",
   "Øvrige armaturer & dele", "Øvrig badkeramik", "Øvrigt",
   "Toiletbørster & -ruller", "Bruserstænger & slanger", "Afløb & vandlåse"]);
+// Tydelige tilbehørs-/monteringsdele (typen mangler ofte på disse) — skubbes bagud,
+// så de rigtige produkter (kar, armaturer, møbler) åbner kategorien.
+const TILBEHOER_RE = /untergestell|wannentr(ä|ae)ger|wannenfu(ß|ss)|tr(ä|ae)ger|brandschutz|rohbauelement|ausstattungsset|verbindungsst(ü|ue)ck|abdicht|dichtband|verl(ä|ae)ng|schallschutz|montage(rahmen|set)|befestigung|geruchsverschluss|siphon|sifon|\bbogen\b|stutzen|adapter/i;
 const popScore = p => {
   let score = p.pop / trendBoost(p);
-  if (aktivKategori === "alle") {
-    if (SHOWROOM_STRAF.has(p.type)) score *= 8;
-    if (p.pris < 150) score *= 3;          // småting hører ikke til på forsiden
-    if (erTrend(p)) score *= 0.6;          // trendvarer helt frem
-  }
+  // Gælder både forsiden OG kategori-sider: vis de populære/flotte varer først,
+  // og skub smådele (pakninger, greb, rør) og billige varer bagud.
+  if (SHOWROOM_STRAF.has(p.type)) score *= 8;
+  if (TILBEHOER_RE.test((p.navnDE || "") + " " + (p.navn || ""))) score *= 8;
+  if (p.pris < 300) score *= 8;            // billige smådele (sifoner, propper, pakninger) bagud
+  if (erTrend(p)) score *= 0.6;            // trendvarer helt frem
   return score;
 };
 
