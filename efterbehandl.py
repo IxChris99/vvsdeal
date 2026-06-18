@@ -47,6 +47,34 @@ def rekategoriser(data: dict) -> None:
     print(f"Rekategoriseret: {flyttet} afløbsvarer flyttet fra Brusekar -> Afløb & render")
 
 
+# Bidetter sælger næsten ikke i DK — fjern de fleste, behold kun de mest populære
+# skåle/vandhaner. Bidet-afløb og -dele fjernes helt.
+BIDET_RE = re.compile(
+    r"wandbidet|standbidet|wand-bidet|stand-bidet|bidetarmatur|bidetbatter|"
+    r"bidetmischer|bidetsiphon|bidetventil|\bbidet\b",
+    re.I,
+)
+BIDET_IKKE = re.compile(r"køkken|kartusche|adapter", re.I)        # generiske flerbrugs-dele = ikke bidet
+BIDET_DEL = re.compile(r"siphon|stopfen|zugstange|vandlås|ventil|schallschutz", re.I)  # dele må ikke beholdes
+BEHOLD_BIDET = 6
+
+
+def fjern_bidet(data: dict) -> None:
+    """Fjerner bidet-skåle, -vandhaner og -afløb; beholder kun de
+    BEHOLD_BIDET mest populære skåle/vandhaner."""
+    def n(p):
+        return (p.get("navnDE") or "") + " " + (p.get("navn") or "")
+    bidet = [p for p in data["produkter"]
+             if BIDET_RE.search(n(p)) and not BIDET_IKKE.search(n(p))]
+    if not bidet:
+        return
+    behold_kand = [p for p in bidet if not BIDET_DEL.search(n(p))]   # kun skåle/vandhaner
+    behold = {id(p) for p in sorted(behold_kand, key=lambda x: x.get("pop", 99999))[:BEHOLD_BIDET]}
+    fjern = {id(p) for p in bidet if id(p) not in behold}
+    data["produkter"] = [p for p in data["produkter"] if id(p) not in fjern]
+    print(f"Bidet-oprydning: fjernet {len(fjern)} bidet-varer (beholdt {len(behold)} mest populære)")
+
+
 def main() -> None:
     with open("products.js", encoding="utf-8") as f:
         t = f.read()
@@ -62,6 +90,7 @@ def main() -> None:
         print(f"Fjernet {foer_antal - len(data['produkter'])} pladsholdervarer (main####/diverser)")
 
     rekategoriser(data)   # flyt afløb ud af Brusekar FØR fragt beregnes
+    fjern_bidet(data)     # ryd op i bidet-produkter (behold kun de mest populære)
 
     oversat = 0
     for p in data["produkter"]:
