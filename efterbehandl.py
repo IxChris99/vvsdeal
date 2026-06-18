@@ -50,13 +50,13 @@ def rekategoriser(data: dict) -> None:
 # Bidetter sælger næsten ikke i DK — fjern de fleste, behold kun de mest populære
 # skåle/vandhaner. Bidet-afløb og -dele fjernes helt.
 BIDET_RE = re.compile(
-    r"wandbidet|standbidet|wand-bidet|stand-bidet|bidetarmatur|bidetbatter|"
-    r"bidetmischer|bidetsiphon|bidetventil|\bbidet\b",
+    r"wandbidet|standbidet|wand-?bidet|stand-?bidet|bidetarmatur|bidetbatt|"
+    r"bidetmischer|bidetsiphon|bidetventil|bidette|\bbidet\b",
     re.I,
 )
 BIDET_IKKE = re.compile(r"køkken|kartusche|adapter", re.I)        # generiske flerbrugs-dele = ikke bidet
 BIDET_DEL = re.compile(r"siphon|stopfen|zugstange|vandlås|ventil|schallschutz", re.I)  # dele må ikke beholdes
-BEHOLD_BIDET = 6
+BEHOLD_BIDET = 3
 
 
 def fjern_bidet(data: dict) -> None:
