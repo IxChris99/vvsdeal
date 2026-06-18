@@ -80,15 +80,31 @@ def paen_pris_ned(hoejst: float) -> int:
     return p if p <= hoejst else p - 50
 
 
+def kun_cifre(s: str) -> str:
+    return re.sub(r"\D", "", s or "")
+
+
+def kandidat_former(varenr: str):
+    """Søge-varianter af varenummeret. Danske shops bruger ofte producentens
+    format MED separatorer (fx Geberit 146.210.11.1), mens Rocky har 146210111."""
+    former = [varenr]
+    d = kun_cifre(varenr)
+    if len(d) == 9:                                   # Geberit-format
+        former.append(f"{d[0:3]}.{d[3:6]}.{d[6:8]}.{d[8:9]}")
+    return former
+
+
 def find_konkurrentpris(html: str, varenr: str):
-    """Finder produktpris i sidens JSON-LD. Returnerer (pris, navn) eller None."""
+    """Finder produktpris i sidens JSON-LD — KUN ved sikker validering, så vi
+    aldrig får en forkert pris. Returnerer (pris, navn) eller None."""
+    vdig = kun_cifre(varenr)
+    produkter = []
     for m in JSONLD_RE.finditer(html):
         try:
             data = json.loads(m.group(1))
         except json.JSONDecodeError:
             continue
-        kandidater = data if isinstance(data, list) else [data]
-        for d in kandidater:
+        for d in (data if isinstance(data, list) else [data]):
             if not isinstance(d, dict) or d.get("@type") != "Product":
                 continue
             offers = d.get("offers") or {}
@@ -97,13 +113,20 @@ def find_konkurrentpris(html: str, varenr: str):
             pris = offers.get("price")
             if pris is None:
                 continue
-            # Validér at det er den rigtige vare: leverandør-varenr skal
-            # optræde i sidens tekst (udover i selve søge-URL'en)
-            sku = str(d.get("sku") or d.get("mpn") or "")
-            if sku and sku.replace(" ", "") == varenr:
-                return float(pris), d.get("name", "")
-            if html.count(varenr) >= 2:
-                return float(pris), d.get("name", "")
+            sku = kun_cifre(str(d.get("sku") or d.get("mpn") or d.get("gtin13") or ""))
+            produkter.append((float(pris), d.get("name", ""), sku))
+
+    # 1) Eksakt artikel-match på sku/mpn/gtin (cifre — uafhængigt af punktum-format)
+    if vdig:
+        for pris, navn, sku in produkter:
+            if sku and sku == vdig:
+                return pris, navn
+
+    # 2) Søgningen ramte præcis ÉT produkt OG varenummeret står på siden
+    #    (i en af de kendte former) -> sikker kobling, ingen gætteri.
+    if len(produkter) == 1 and len(vdig) >= 6:
+        if any(form in html for form in kandidat_former(varenr)):
+            return produkter[0][0], produkter[0][1]
     return None
 
 
@@ -195,14 +218,15 @@ def main() -> None:
         gulv_paen = paen_pris_op(gulv)
         priser = {}
         for shopnavn, skabelon in SHOPS:
-            url = skabelon.format(q=urllib.parse.quote(p["id"]))
-            try:
-                fund = find_konkurrentpris(hent(url), p["id"])
-                if fund:
-                    priser[shopnavn] = fund[0]
-            except Exception:
-                pass
-            time.sleep(FORSINKELSE)
+            for form in kandidat_former(p["id"]):     # prøv flere varenr-formater
+                try:
+                    fund = find_konkurrentpris(hent(skabelon.format(q=urllib.parse.quote(form))), p["id"])
+                    if fund:
+                        priser[shopnavn] = fund[0]
+                        break
+                except Exception:
+                    pass
+                time.sleep(FORSINKELSE)
 
         if priser:
             billigste = min(priser.values())
