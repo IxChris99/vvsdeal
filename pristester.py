@@ -235,13 +235,13 @@ def main() -> None:
                 maal = int(billigste) - 1
             ny_pris = max(maal, gulv_paen)
             status = "OK: under konkurrent" if ny_pris < billigste else "GULV: kan ikke matche"
+            # Kun konkurrent-bakkede justeringer gemmes (ellers fastfryses fejlpriser)
+            if ny_pris != p["pris"]:
+                justeringer[p["id"]] = ny_pris
         else:
             billigste = None
-            ny_pris = max(p["pris"], gulv_paen)
+            ny_pris = gulv_paen   # ingen konkurrent -> ren Rocky-mark, INGEN justering
             status = "ingen konkurrentpris fundet"
-
-        if ny_pris != p["pris"]:
-            justeringer[p["id"]] = ny_pris
 
         rapport.append({
             "varenr": p["id"], "navn": p["navn"], "maerke": p["maerke"],

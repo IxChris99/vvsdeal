@@ -247,19 +247,38 @@ def paen_pris_op(mindst: float) -> int:
 
 def anvend_prisjusteringer(produkter: dict) -> int:
     """Anvender priser fra pristester.py (prisjusteringer.json).
-    Gulvreglen håndhæves altid: aldrig under Rocky + 12%."""
+
+    En justering anvendes KUN når varen faktisk har en konkurrentpris
+    (konkurrenter.js), og prisen kappes altid til konkurrentens pris som loft
+    og Rocky+12% som gulv. Varer UDEN konkurrent beholder Rocky-marken — så en
+    forældet justering aldrig kan oppuste prisen (fx 74 kr -> 9849 kr)."""
     try:
         with open("prisjusteringer.json", encoding="utf-8") as f:
             justeringer = json.load(f)
     except FileNotFoundError:
         return 0
+    # Billigste konkurrentpris pr. vare (loft) — kilden til "har vi en konkurrent?"
+    billigste = {}
+    try:
+        with open("konkurrenter.js", encoding="utf-8") as f:
+            t = f.read()
+        i = t.index("= ") + 2
+        for vr, v in json.loads(t[i:t.rindex(";")]).get("priser", {}).items():
+            if v.get("billigste"):
+                billigste[vr] = float(v["billigste"])
+    except (FileNotFoundError, ValueError):
+        pass
+
     antal = 0
     for varenr, oensket in justeringer.items():
         p = produkter.get(varenr)
         if not p:
             continue
+        konk = billigste.get(varenr)
+        if not konk:
+            continue   # ingen konkurrent -> behold Rocky-mark (spring forældet justering over)
         gulv = paen_pris_op(p["eur"] * KURS * AVANCE)
-        p["pris"] = max(int(oensket), gulv)
+        p["pris"] = max(min(int(oensket), int(konk)), gulv)   # mellem gulv og konkurrent
         antal += 1
     return antal
 
