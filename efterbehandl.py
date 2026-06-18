@@ -86,6 +86,88 @@ def ryd_familier(data: dict) -> None:
         data["produkter"] = [p for p in data["produkter"] if id(p) not in fjern_alle]
 
 
+# Underkategorier (p["type"]) udledt fra produktnavnet pr. kategori. Første
+# regel der matcher vinder, så stil de mest specifikke øverst. Uden match
+# -> "Øvrige". Bruges både til type-dropdown og klikbare chips på forsiden.
+_SUBKAT_RAW = {
+    "armaturer": [
+        ("Termostater", r"thermostat|termostat"),
+        ("Brusersæt & stænger", r"brauseset|brusers|brausestange|brusestang|showerpipe|unica|wallbar"),
+        ("Hovedbrusere", r"kopfbrause|hovedbruser|overhead|raindance|rainshower|regnbruser|tellerkopf"),
+        ("Håndbrusere", r"handbrause|håndbruser|porter|ausziehbrause|schulterbrause"),
+        ("Brusearmaturer", r"brausearmatur|brusearmatur|brausemischer|brusebatteri|brausethermostat|brausebatt|dusch"),
+        ("Køkkenarmaturer", r"küchen|køkken|spültisch|spueltisch"),
+        ("Håndvaskarmaturer", r"waschtisch|håndvask|\bwt-|waschbecken|einlochbatterie|einhebel|sitzwaschbecken|bidet"),
+        ("Kararmaturer", r"wannen|kararmatur|karbatteri|bademischer|wannenrand"),
+        ("Indbygningsdele", r"ibox|grundkörper|grundkoerper|unterputz|indbygning|einbau"),
+    ],
+    "keramik": [
+        ("Toiletter", r"\bwc\b|toilet|klosett|tiefspül|aquaclean|dusch-?wc|stand-?wc|wand-?wc|closet"),
+        ("Cisterner & betjening", r"spülkasten|cisterne|spülrohr|betätig|drücker|trykplade|bedienpanel|wandbedien|drückerplatte"),
+        ("Urinaler", r"urinal"),
+        ("Bidet", r"bidet"),
+        ("Håndvaske", r"waschtisch|waschbecken|håndvask|aufsatz|handwaschbecken|møbelvask|møbelhåndvask"),
+    ],
+    "badmoebler": [
+        ("Spejlskabe", r"spiegelschrank|spejlskab"),
+        ("Spejle & belysning", r"spiegel|spejl|beleucht|spejllys"),
+        ("Vaskeskabe & møbelsæt", r"waschtischunterschrank|waschplatz|vaskeskab|badmöbel|møbelsæt|waschtisch-set|set\b"),
+        ("Underskabe", r"unterschrank|underskab"),
+        ("Høj- & midtskabe", r"hochschrank|højskab|mittelschrank|midtskab|seitenschrank|sideskab"),
+    ],
+    "badekar": [
+        ("Fritstående badekar", r"freistehend|fritstående"),
+        ("Hjørnebadekar", r"\beck|hjørne"),
+        ("Whirlpool & spa", r"whirlpool|\bspa\b"),
+        ("Indbygningsbadekar", r"einbau|indbygning|rechteck|rektangul|raumspar|body"),
+    ],
+    "afloeb": [
+        ("Afløbsrender", r"rinne|rende|cera(line|wall|floor)|drainline|drainprofile|designrost|duschrinne|duschprofil"),
+        ("Gulvafløb", r"bodenablauf|gulvafløb|punktafløb|bodeneinlauf|wandablauf"),
+        ("Sifoner & vandlåse", r"siphon|sifon|geruchsverschluss|vandlås|raumspar"),
+        ("Afløbsgarniturer", r"ablaufgarnitur|afløbsgarniture|ablaufventil|tempoplex|push-open|ablaufgeh|ablaufset"),
+    ],
+    "brusekabiner": [
+        ("Brusedøre", r"tür|\bdør|drehtür|schiebetür|pendeltür|nische|gleittür"),
+        ("Brusevægge & walk-in", r"\bwand|væg|seitenwand|walk-?in|seitenteil|freistehend"),
+        ("Hjørnebrusere", r"\beck|hjørne|runddusche|viertelkreis"),
+    ],
+    "accessoires": [
+        ("Toiletbørster", r"bürstengarnitur|toilettenbürste|toiletbørste|wc-bürste|wc-garnitur|bürstenhalter"),
+        ("Toiletrulleholdere", r"papierhalter|rollenhalter|toiletrulle|papirholder|reservepapier|toilettenpapier"),
+        ("Håndklædeholdere", r"handtuch|håndklæde|handdoek"),
+        ("Knager & kroge", r"haken|knage|krog"),
+        ("Sæbe & dispensere", r"seifenspender|seifenschale|sæbe|seife|lotionspender"),
+        ("Greb & støttehåndtag", r"haltegriff|støttegreb|stützgriff"),
+        ("Hylder & kurve", r"ablage|\bkorb|hylde|glasablage|duschkorb|reling"),
+        ("Spejle", r"spiegel|spejl"),
+    ],
+    "koekkenarmatur": [
+        ("Udtræksarmaturer", r"ausziehbar|udtræk|pull-?out|ausziehbrause|ausziehauslauf|udtræksbruser"),
+        ("Med brusefunktion", r"brause|spray|bruse|dual"),
+        ("Høje tudarmaturer", r"hoher auslauf|profi|professional|gastro|semi-?pro"),
+    ],
+}
+SUBKAT = {cat: [(navn, re.compile(pat, re.I)) for navn, pat in regler]
+          for cat, regler in _SUBKAT_RAW.items()}
+
+
+def tildel_type(data: dict) -> None:
+    """Sætter p['type'] (underkategori) udledt fra navnet, pr. kategori."""
+    for p in data["produkter"]:
+        regler = SUBKAT.get(p.get("cat"))
+        nm = ((p.get("navnDE") or "") + " " + (p.get("navn") or ""))
+        typ = ""
+        if regler:
+            for navn, rx in regler:
+                if rx.search(nm):
+                    typ = navn
+                    break
+            if not typ:
+                typ = "Øvrige"
+        p["type"] = typ
+
+
 def main() -> None:
     with open("products.js", encoding="utf-8") as f:
         t = f.read()
@@ -102,6 +184,7 @@ def main() -> None:
 
     rekategoriser(data)   # flyt afløb ud af Brusekar FØR fragt beregnes
     ryd_familier(data)    # ryd op i bidet/urinal (behold kun de mest populære)
+    tildel_type(data)     # udled underkategori (type) pr. vare
 
     oversat = 0
     for p in data["produkter"]:

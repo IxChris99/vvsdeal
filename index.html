@@ -162,17 +162,19 @@
   }
 
   /* ---------- Mærker ---------- */
-  .brands { background: #fff; }
-  .brand-strip { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
+  .brands { background: var(--bg); }
+  .brand-strip { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; }
   .brand-item {
-    display: inline-flex; align-items: center; justify-content: center;
-    min-width: 130px; padding: 14px 22px; border-radius: 12px;
-    background: var(--bg); border: 1px solid var(--line);
-    color: var(--navy); font-weight: 800; font-size: 1.02rem; letter-spacing: -.3px;
-    text-decoration: none; text-align: center; transition: transform .15s, box-shadow .2s, border-color .2s;
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 7px;
+    min-width: 150px; min-height: 92px; padding: 16px 22px; border-radius: 12px;
+    background: #fff; border: 1px solid var(--line);
+    color: var(--navy); text-decoration: none; text-align: center;
+    transition: transform .15s, box-shadow .2s, border-color .2s;
   }
-  .brand-item:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); border-color: var(--accent); color: var(--accent-dark); }
-  .brand-item .n { display: block; font-size: .7rem; font-weight: 600; color: var(--text-light); margin-top: 2px; letter-spacing: 0; }
+  .brand-item:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); border-color: var(--accent); }
+  .brand-logo { max-height: 40px; max-width: 130px; object-fit: contain; }
+  .brand-navn { font-weight: 800; font-size: 1.05rem; letter-spacing: -.3px; color: var(--navy); }
+  .brand-item .n { font-size: .7rem; font-weight: 600; color: var(--text-light); letter-spacing: 0; }
 
   /* ---------- Dagens tilbud ---------- */
   .deals { background: #fff; border-bottom: 1px solid var(--line); }
@@ -264,6 +266,17 @@
   .filter-tab:hover { border-color: var(--navy); color: var(--navy); }
   .filter-tab.active { background: var(--navy); border-color: var(--navy); color: #fff; }
   .result-count { font-size: .86rem; color: var(--text-light); margin: 14px 4px 18px; }
+
+  /* ---------- Underkategori-chips ---------- */
+  .subcat-chips { display: flex; gap: 9px; flex-wrap: wrap; margin: 4px 0 22px; }
+  .subcat-chip {
+    background: #fff; border: 1.5px solid var(--line); border-radius: 999px;
+    padding: 8px 17px; font-weight: 700; font-size: .88rem; color: var(--navy);
+    cursor: pointer; transition: all .15s; font-family: inherit;
+  }
+  .subcat-chip:hover { border-color: var(--accent); color: var(--accent-dark); }
+  .subcat-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .subcat-chip .n { font-weight: 500; opacity: .7; font-size: .8rem; }
 
   /* ---------- Produktgrid ---------- */
   .product-grid {
@@ -700,6 +713,8 @@
     </div>
     <div class="data-stamp" id="dataStamp"></div>
 
+    <div class="subcat-chips" id="subcatChips"></div>
+
     <div class="shop-layout">
       <aside class="cat-sidebar" id="catSidebar"></aside>
       <div class="shop-main">
@@ -901,7 +916,10 @@ const TYPE_FALLBACK = {
   "oevrigt-bad": "Øvrigt",
 };
 
+// Underkategori (type) kommer primært fra data (efterbehandl.py). Mangler den
+// — fx ældre/cachet data — udledes den her som fallback ud fra navnet.
 PRODUKTER.forEach(p => {
+  if (p.type) return;
   const n = (p.navn + " " + (p.navnDE || "")).toLowerCase();
   const match = TYPER.find(([, ord]) => ord.some(o => n.includes(o)));
   p.type = match ? match[0] : (TYPE_FALLBACK[p.cat] || "Øvrigt");
@@ -1010,9 +1028,14 @@ function initUI() {
     const antalPr = {};
     PRODUKTER.forEach(p => { if (p.maerke) antalPr[p.maerke] = (antalPr[p.maerke] || 0) + 1; });
     const vis = KENDTE.filter(m => antalPr[m]).sort((a, b) => antalPr[b] - antalPr[a]);
+    const slug = s => s.toLowerCase().replace(/&/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
     document.getElementById("brandStrip").innerHTML = vis.map(m =>
-      `<a class="brand-item" href="/?m=${encodeURIComponent(m)}#produkter">${m}
-        <span class="n">${antalPr[m].toLocaleString("da-DK")} varer</span></a>`).join("");
+      `<a class="brand-item" href="/?m=${encodeURIComponent(m)}#produkter" title="${m}">
+        <img class="brand-logo" src="/logos/${slug(m)}.png" alt="${m}"
+             onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
+        <span class="brand-navn" style="display:none">${m}</span>
+        <span class="n">${antalPr[m].toLocaleString("da-DK")} varer</span>
+      </a>`).join("");
   } else if (brandsSection) {
     brandsSection.style.display = "none";   // skjul på kategori-sider
   }
@@ -1130,14 +1153,27 @@ function opdaterTypeDropdown() {
   const sel = document.getElementById("typeSelect");
   const grundlag = PRODUKTER.filter(p => aktivKategori === "alle" || p.cat === aktivKategori);
   const taelling = {};
-  grundlag.forEach(p => taelling[p.type] = (taelling[p.type] || 0) + 1);
+  grundlag.forEach(p => { if (p.type) taelling[p.type] = (taelling[p.type] || 0) + 1; });
   const valgt = aktivType;
+  // Underkategorier sorteret efter antal, men "Øvrige" altid til sidst
+  const typer = Object.keys(taelling).sort((a, b) =>
+    (a === "Øvrige") - (b === "Øvrige") || taelling[b] - taelling[a]);
+
   sel.innerHTML = '<option value="">Alle produkttyper</option>' +
-    TYPER.map(([t]) => t).concat(["Øvrige armaturer & dele", "Øvrig badkeramik", "Øvrigt"])
-      .filter(t => taelling[t])
-      .map(t => `<option value="${t}" ${t === valgt ? "selected" : ""}>${t} (${taelling[t]})</option>`)
-      .join("");
+    typer.map(t => `<option value="${t}" ${t === valgt ? "selected" : ""}>${t} (${taelling[t]})</option>`).join("");
   if (valgt && !taelling[valgt]) { aktivType = ""; sel.value = ""; }
+
+  // Klikbare underkategori-chips (kun når en kategori er valgt og der er flere typer)
+  const chipBox = document.getElementById("subcatChips");
+  if (chipBox) {
+    if (aktivKategori !== "alle" && typer.length >= 2) {
+      chipBox.innerHTML =
+        `<div class="subcat-chip${aktivType ? "" : " active"}" data-type="">Alle</div>` +
+        typer.map(t => `<div class="subcat-chip${t === aktivType ? " active" : ""}" data-type="${t}">${t} <span class="n">${taelling[t]}</span></div>`).join("");
+    } else {
+      chipBox.innerHTML = "";
+    }
+  }
 }
 
 /* Aktive filtre vises som chips med ✕ */
@@ -1277,6 +1313,16 @@ document.getElementById("catSidebar").addEventListener("click", e => {
   const item = e.target.closest(".cat-side-item");
   if (!item) return;
   setKategori(item.dataset.cat, false);
+});
+
+document.getElementById("subcatChips").addEventListener("click", e => {
+  const chip = e.target.closest(".subcat-chip");
+  if (!chip) return;
+  aktivType = chip.dataset.type || "";
+  document.getElementById("typeSelect").value = aktivType;
+  visAntal = VIS_AD_GANGEN;
+  opdaterTypeDropdown();
+  renderProdukter();
 });
 let soegTimer;
 document.getElementById("searchInput").addEventListener("input", e => {
