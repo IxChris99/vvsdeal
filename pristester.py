@@ -33,6 +33,13 @@ import urllib.request
 KURS = 7.46
 AVANCE = 1.12          # gulv: Rocky + 12% — sælg ALDRIG under dette
 UNDERBUD = 0.90        # læg dig ~10% under billigste danske konkurrent
+MAX_KONK_FAKTOR = 5    # en konkurrentpris over 5x Rocky-gulv = fejl-match -> ignoreres
+
+
+def konkurrent_plausibel(eur: float, konkurrentpris: float) -> bool:
+    """En konkurrentpris er kun troværdig hvis den ikke er absurd høj ift.
+    vores Rocky-kost (fanger gamle fejl-match som €92-vare -> 12.199 kr)."""
+    return konkurrentpris <= eur * KURS * AVANCE * MAX_KONK_FAKTOR
 FORSINKELSE = 0.6      # sekunder mellem opslag (vær høflig)
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "

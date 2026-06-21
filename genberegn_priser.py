@@ -11,7 +11,7 @@ Opdaterer products.js + prisjusteringer.json. Kan køres igen og igen.
 import json
 import sys
 
-from pristester import (KURS, AVANCE, UNDERBUD, gulv_pris,
+from pristester import (KURS, AVANCE, UNDERBUD, gulv_pris, konkurrent_plausibel,
                         paen_pris_op, paen_pris_ned, indlaes_products_js)
 
 
@@ -34,6 +34,8 @@ def main() -> None:
         if not k or not k.get("billigste"):
             continue
         billigste = float(k["billigste"])
+        if not konkurrent_plausibel(p["eur"], billigste):
+            continue   # urealistisk høj konkurrentpris (fejl-match) -> spring over
         gulv_paen = paen_pris_op(gulv_pris(p["eur"]))
         maal = paen_pris_ned(billigste * UNDERBUD)
         if maal >= billigste:

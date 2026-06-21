@@ -275,9 +275,10 @@ def anvend_prisjusteringer(produkter: dict) -> int:
         if not p:
             continue
         konk = billigste.get(varenr)
-        if not konk:
-            continue   # ingen konkurrent -> behold Rocky-mark (spring forældet justering over)
-        gulv = paen_pris_op(p["eur"] * KURS * AVANCE)
+        gulv_raw = p["eur"] * KURS * AVANCE
+        if not konk or konk > gulv_raw * 5:
+            continue   # ingen/urealistisk konkurrent (fejl-match) -> behold Rocky-mark
+        gulv = paen_pris_op(gulv_raw)
         p["pris"] = max(min(int(oensket), int(konk)), gulv)   # mellem gulv og konkurrent
         antal += 1
     return antal

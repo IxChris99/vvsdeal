@@ -64509,9 +64509,9 @@ const KONKURRENT_DATA = {
   "209312": {
    "LavprisVVS": null,
    "BilligVVS": null,
-   "CompletVVS": 14961.0,
-   "billigste": 14961.0,
-   "status": "OK: under konkurrent",
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "fejl-match fjernet",
    "tjekket": "2026-06-16"
   },
   "UGT516043 PG2": {
@@ -79083,11 +79083,11 @@ const KONKURRENT_DATA = {
    "tjekket": "2026-06-17"
   },
   "13324000": {
-   "LavprisVVS": 7128.0,
-   "BilligVVS": 7128.0,
-   "CompletVVS": 7128.0,
-   "billigste": 7128.0,
-   "status": "OK: under konkurrent",
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "fejl-match fjernet",
    "tjekket": "2026-06-17"
   },
   "57652100": {
@@ -86059,11 +86059,11 @@ const KONKURRENT_DATA = {
    "tjekket": "2026-06-17"
   },
   "32100": {
-   "LavprisVVS": 7202.0,
-   "BilligVVS": 6750.0,
-   "CompletVVS": 5699.0,
-   "billigste": 5699.0,
-   "status": "OK: under konkurrent",
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "fejl-match fjernet",
    "tjekket": "2026-06-17"
   },
   "H8989650000001": {
@@ -90387,11 +90387,11 @@ const KONKURRENT_DATA = {
    "tjekket": "2026-06-17"
   },
   "150130": {
-   "LavprisVVS": 7238.0,
-   "BilligVVS": 7238.0,
-   "CompletVVS": 7238.0,
-   "billigste": 7238.0,
-   "status": "OK: under konkurrent",
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "fejl-match fjernet",
    "tjekket": "2026-06-17"
   },
   "02C4020005": {
@@ -92851,11 +92851,11 @@ const KONKURRENT_DATA = {
    "tjekket": "2026-06-18"
   },
   "71103000": {
-   "LavprisVVS": 12199.0,
-   "BilligVVS": 13399.0,
-   "CompletVVS": 12299.0,
-   "billigste": 12199.0,
-   "status": "OK: under konkurrent",
+   "LavprisVVS": null,
+   "BilligVVS": null,
+   "CompletVVS": null,
+   "billigste": null,
+   "status": "fejl-match fjernet",
    "tjekket": "2026-06-18"
   },
   "71101000": {

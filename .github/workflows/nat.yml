@@ -49,17 +49,21 @@ jobs:
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
         run: python byg_deploy.py
 
+      # Upload FØR data-commit, så deploy aldrig afhænger af git-push'et
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
       - name: Gem opdateret prisdata + krypteret admin tilbage i repoet
+        continue-on-error: true   # en push-race må ALDRIG vælte deploy
         run: |
           git config user.name "vvsdeal-bot"
           git config user.email "actions@github.com"
           git add konkurrenter.js prisjusteringer.json admin_enc.html
-          git diff --cached --quiet || git commit -m "Natlig prisdata-opdatering [skip ci]"
-          git push
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
+          git diff --cached --quiet && exit 0
+          git commit -m "Natlig prisdata-opdatering [skip ci]"
+          git pull --rebase --autostash origin main || true
+          git push || git push   # gentag én gang hvis remote nåede at ændre sig
 
   deploy:
     needs: sync
