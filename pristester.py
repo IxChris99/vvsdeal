@@ -189,13 +189,15 @@ def main() -> None:
     produkter = data["produkter"]
 
     tjekkede = {}
+    har_match = {}
     if arg.nye:
         try:
             with open("konkurrenter.js", encoding="utf-8") as f:
                 t = f.read()
             i = t.index("const KONKURRENT_DATA = ") + len("const KONKURRENT_DATA = ")
-            tjekkede = {k: v.get("tjekket", "") for k, v in
-                        json.loads(t[i:t.rindex(";")]).get("priser", {}).items()}
+            for k, v in json.loads(t[i:t.rindex(";")]).get("priser", {}).items():
+                tjekkede[k] = v.get("tjekket", "")
+                har_match[k] = bool(v.get("billigste"))
             print(f"Springer {len(tjekkede)} allerede tjekkede varer over")
         except (FileNotFoundError, ValueError):
             pass
@@ -206,15 +208,21 @@ def main() -> None:
         udvalg = [p for p in sorted(produkter, key=lambda p: -p["pris"]) if p["id"] not in tjekkede]
     else:
         udvalg = [p for p in sorted(produkter, key=lambda p: -p["pris"]) if p["id"] not in tjekkede][:arg.antal]
-        # Rullende opdatering: er alle varer tjekket, genopfriskes de ældste,
-        # så priserne aldrig bliver mere end nogle uger gamle.
+        # Rullende opdatering: er alle varer tjekket, genopfriskes de.
+        # "Ingen match"-varer prioriteres (ældste først), så en forbedret
+        # matcher hurtigt konverterer dem; derefter ældste matchede varer.
         rest = arg.antal - len(udvalg)
         if arg.nye and rest > 0 and tjekkede:
-            aeldste = sorted((p for p in produkter if p["id"] in tjekkede),
-                             key=lambda p: tjekkede[p["id"]])[:rest]
-            udvalg += aeldste
-            if aeldste:
-                print(f"Genopfrisker desuden de {len(aeldste)} ældst tjekkede varer")
+            tjekket_liste = [p for p in produkter if p["id"] in tjekkede]
+            uden_match = sorted((p for p in tjekket_liste if not har_match.get(p["id"])),
+                                key=lambda p: tjekkede[p["id"]])
+            med_match = sorted((p for p in tjekket_liste if har_match.get(p["id"])),
+                               key=lambda p: tjekkede[p["id"]])
+            genopfrisk = (uden_match + med_match)[:rest]
+            udvalg += genopfrisk
+            if genopfrisk:
+                print(f"Genopfrisker {len(genopfrisk)} varer "
+                      f"({sum(1 for p in genopfrisk if not har_match.get(p['id']))} uden tidligere match)")
 
     print(f"Tjekker {len(udvalg)} varer mod {len(SHOPS)} danske forhandlere...\n", flush=True)
 
