@@ -1,11 +1,11 @@
 // Genereret af trends_sync.py — danske Google Trends-data.
 // Kør 'py trends_sync.py' for at opdatere (fx ugentligt).
 const TRENDS_DATA = {
- "genereret": "2026-07-19T03:53:14.846332+00:00",
+ "genereret": "2026-07-26T03:55:52.611929+00:00",
  "kilde": "Google Trends (geo=DK, today 12-m)",
  "farver": {
-  "Mat sort": 1.0,
-  "Børstet sort krom": 1.0,
+  "Mat sort": 1.5,
+  "Børstet sort krom": 1.5,
   "Guld & messing": 1.0,
   "Mat hvid": 1.0,
   "Hvid": 1.0,
@@ -13,20 +13,20 @@ const TRENDS_DATA = {
   "Børstet krom": 1.0
  },
  "maerker": {
-  "Hansgrohe": 0.821,
-  "AXOR": 0.821,
+  "Hansgrohe": 0.837,
+  "AXOR": 0.837,
   "Grohe": 1.5,
-  "Geberit": 1.067,
-  "Duravit": 0.711,
+  "Geberit": 1.041,
+  "Duravit": 0.7,
   "Burgbad": 1.0
  },
  "kategorier": {
   "armaturer": 1.0,
   "badekar": 1.0,
-  "keramik": 1.078,
-  "brusekabiner": 1.406,
-  "brusekar": 1.406,
-  "badmoebler": 0.901,
+  "keramik": 1.028,
+  "brusekabiner": 1.442,
+  "brusekar": 1.442,
+  "badmoebler": 0.904,
   "koekkenarmatur": 0.7,
   "koekkentilbehoer": 0.7,
   "accessoires": 1.5,
@@ -34,24 +34,24 @@ const TRENDS_DATA = {
  },
  "soegeord": {
   "hansgrohe": {
-   "momentum": 0.863,
-   "niveau": 0.758,
-   "boost": 0.821
+   "momentum": 0.88,
+   "niveau": 0.774,
+   "boost": 0.837
   },
   "grohe": {
-   "momentum": 0.861,
-   "niveau": 2.504,
+   "momentum": 0.869,
+   "niveau": 2.511,
    "boost": 1.5
   },
   "geberit": {
-   "momentum": 0.885,
-   "niveau": 1.341,
-   "boost": 1.067
+   "momentum": 0.858,
+   "niveau": 1.317,
+   "boost": 1.041
   },
   "duravit": {
-   "momentum": 0.92,
-   "niveau": 0.396,
-   "boost": 0.711
+   "momentum": 0.895,
+   "niveau": 0.398,
+   "boost": 0.7
   },
   "burgbad": {
    "momentum": 0.5,
@@ -64,24 +64,24 @@ const TRENDS_DATA = {
    "boost": 1.0
   },
   "fritstående badekar": {
-   "momentum": 0.791,
-   "niveau": 0.069,
+   "momentum": 1.351,
+   "niveau": 0.112,
    "boost": 1.0
   },
   "væghængt toilet": {
-   "momentum": 0.822,
-   "niveau": 1.461,
-   "boost": 1.078
+   "momentum": 0.802,
+   "niveau": 1.368,
+   "boost": 1.028
   },
   "brusekabine": {
-   "momentum": 0.836,
-   "niveau": 2.26,
-   "boost": 1.406
+   "momentum": 0.861,
+   "niveau": 2.314,
+   "boost": 1.442
   },
   "badeværelsesmøbler": {
-   "momentum": 0.695,
-   "niveau": 1.21,
-   "boost": 0.901
+   "momentum": 0.703,
+   "niveau": 1.206,
+   "boost": 0.904
   },
   "køkkenarmatur": {
    "momentum": 0.855,
@@ -99,23 +99,23 @@ const TRENDS_DATA = {
    "boost": 1.0
   },
   "sort vandhane": {
-   "momentum": 1.574,
-   "niveau": 2.465,
-   "boost": 1.0
+   "momentum": 1.09,
+   "niveau": 2.629,
+   "boost": 1.5
   },
   "guld vandhane": {
    "momentum": 1.6,
-   "niveau": 0.283,
+   "niveau": 0.419,
    "boost": 1.0
   },
   "hvid vandhane": {
    "momentum": 1.6,
-   "niveau": 0.566,
+   "niveau": 0.343,
    "boost": 1.0
   },
   "krom vandhane": {
    "momentum": 1.6,
-   "niveau": 0.687,
+   "niveau": 0.61,
    "boost": 1.0
   }
  }
