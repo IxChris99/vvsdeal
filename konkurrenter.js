@@ -1,6 +1,6 @@
 // Genereret af pristester.py — konkurrentpriser til admin.html.
 const KONKURRENT_DATA = {
- "genereret": "2026-11-16T12:32:49.187222+00:00",
+ "genereret": "2026-11-17T14:07:13.907039+00:00",
  "priser": {
   "531221xA.010552": {
    "LavprisVVS": null,
@@ -48,7 +48,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "532221B.550": {
    "LavprisVVS": null,
@@ -72,7 +72,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "10621800": {
    "LavprisVVS": null,
@@ -120,7 +120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24424AL0": {
    "LavprisVVS": null,
@@ -160,7 +160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24424DC0": {
    "LavprisVVS": null,
@@ -224,7 +224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "V+AWOR-N-SW-NO": {
    "LavprisVVS": null,
@@ -312,7 +312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27984820": {
    "LavprisVVS": null,
@@ -320,7 +320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "BS15.2": {
    "LavprisVVS": null,
@@ -600,7 +600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "16546820": {
    "LavprisVVS": null,
@@ -608,7 +608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "146210111SET1": {
    "LavprisVVS": null,
@@ -696,7 +696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25229MG0": {
    "LavprisVVS": null,
@@ -704,7 +704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25229GL0": {
    "LavprisVVS": null,
@@ -712,7 +712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25229DA0": {
    "LavprisVVS": null,
@@ -896,7 +896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "B089011005": {
    "LavprisVVS": null,
@@ -1232,7 +1232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25222GN1": {
    "LavprisVVS": null,
@@ -1248,7 +1248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25222AL1": {
    "LavprisVVS": null,
@@ -1400,7 +1400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "16544000": {
    "LavprisVVS": null,
@@ -1424,7 +1424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "BD09220S1WI1144": {
    "LavprisVVS": null,
@@ -1464,7 +1464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SPOR120-PN413": {
    "LavprisVVS": null,
@@ -1544,7 +1544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25272AL0": {
    "LavprisVVS": null,
@@ -1552,7 +1552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25222MS1": {
    "LavprisVVS": null,
@@ -1568,7 +1568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25227AL0": {
    "LavprisVVS": null,
@@ -1752,7 +1752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SPOQ140-PN414": {
    "LavprisVVS": null,
@@ -1768,7 +1768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "SEMV161-PN090": {
    "LavprisVVS": null,
@@ -1952,7 +1952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25227MG0": {
    "LavprisVVS": null,
@@ -1960,7 +1960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25272DA0": {
    "LavprisVVS": null,
@@ -2200,7 +2200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "54237730": {
    "LavprisVVS": null,
@@ -2560,7 +2560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "TA487.5 SM": {
    "LavprisVVS": null,
@@ -2880,7 +2880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SPLQ120-PN451": {
    "LavprisVVS": null,
@@ -3072,7 +3072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SGIK122-PN531": {
    "LavprisVVS": null,
@@ -3240,7 +3240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25226GN0": {
    "LavprisVVS": null,
@@ -3336,7 +3336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4402.010": {
    "LavprisVVS": null,
@@ -3560,7 +3560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20669000": {
    "LavprisVVS": null,
@@ -3592,7 +3592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "V0E200R1": {
    "LavprisVVS": null,
@@ -3944,7 +3944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "4532.010": {
    "LavprisVVS": null,
@@ -3984,7 +3984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SPLP120-PN451": {
    "LavprisVVS": null,
@@ -4016,7 +4016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR25.1": {
    "LavprisVVS": null,
@@ -4024,7 +4024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX24.3": {
    "LavprisVVS": null,
@@ -4032,7 +4032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA489.7HG": {
    "LavprisVVS": null,
@@ -4072,7 +4072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25226GL0": {
    "LavprisVVS": null,
@@ -4080,7 +4080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25226DA0": {
    "LavprisVVS": null,
@@ -4128,7 +4128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O17.0SET": {
    "LavprisVVS": null,
@@ -4136,7 +4136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO52.9SET": {
    "LavprisVVS": null,
@@ -4144,7 +4144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "3823.010": {
    "LavprisVVS": null,
@@ -4184,7 +4184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKW001": {
    "LavprisVVS": null,
@@ -4256,7 +4256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA486.6SM": {
    "LavprisVVS": null,
@@ -4272,7 +4272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "OPL044.3": {
    "LavprisVVS": null,
@@ -4280,7 +4280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX13.0": {
    "LavprisVVS": null,
@@ -4288,7 +4288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX21.5": {
    "LavprisVVS": null,
@@ -4296,7 +4296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA486.0HG": {
    "LavprisVVS": null,
@@ -4312,7 +4312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35276000": {
    "LavprisVVS": null,
@@ -4320,7 +4320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35282000": {
    "LavprisVVS": null,
@@ -4512,7 +4512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "76839670": {
    "LavprisVVS": null,
@@ -4560,7 +4560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24368DA0": {
    "LavprisVVS": null,
@@ -4568,7 +4568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24368MG0": {
    "LavprisVVS": null,
@@ -4576,7 +4576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24368GL0": {
    "LavprisVVS": null,
@@ -4584,7 +4584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24368MS0": {
    "LavprisVVS": null,
@@ -4600,7 +4600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O12.0SET": {
    "LavprisVVS": null,
@@ -4608,7 +4608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX12.9": {
    "LavprisVVS": null,
@@ -4616,7 +4616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA492.2SM": {
    "LavprisVVS": null,
@@ -4624,7 +4624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "76810800": {
    "LavprisVVS": null,
@@ -4664,7 +4664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SPOL050-PN415": {
    "LavprisVVS": null,
@@ -4760,7 +4760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "SGIB142-PN530": {
    "LavprisVVS": null,
@@ -4792,7 +4792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O24.3SET": {
    "LavprisVVS": null,
@@ -4800,7 +4800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "OPL043.4": {
    "LavprisVVS": null,
@@ -4808,7 +4808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "146220111": {
    "LavprisVVS": 18477.0,
@@ -4912,7 +4912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR11.1": {
    "LavprisVVS": null,
@@ -4976,7 +4976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX21.3": {
    "LavprisVVS": null,
@@ -5032,7 +5032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O13.0SET": {
    "LavprisVVS": null,
@@ -5048,7 +5048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "OPL043.3": {
    "LavprisVVS": null,
@@ -5056,7 +5056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX21.4": {
    "LavprisVVS": null,
@@ -5064,7 +5064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O24.2SET": {
    "LavprisVVS": null,
@@ -5072,7 +5072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "16560000": {
    "LavprisVVS": 7498.0,
@@ -5096,7 +5096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29523000": {
    "LavprisVVS": null,
@@ -5104,7 +5104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SFKZ102-PN391": {
    "LavprisVVS": null,
@@ -5168,7 +5168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA486.5SM": {
    "LavprisVVS": null,
@@ -5216,7 +5216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "700477000000000": {
    "LavprisVVS": 23600.0,
@@ -5392,7 +5392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "OPL045.0": {
    "LavprisVVS": null,
@@ -5400,7 +5400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "OPL043.2": {
    "LavprisVVS": null,
@@ -5408,7 +5408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31302DC2": {
    "LavprisVVS": null,
@@ -5432,7 +5432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "6010-SET 7.4 PG2": {
    "LavprisVVS": null,
@@ -5520,7 +5520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA492.2HG": {
    "LavprisVVS": null,
@@ -5528,7 +5528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA493.2HG": {
    "LavprisVVS": null,
@@ -5624,7 +5624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA493.2SM": {
    "LavprisVVS": null,
@@ -5656,7 +5656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "3882.010": {
    "LavprisVVS": null,
@@ -5688,7 +5688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O21.3SET": {
    "LavprisVVS": null,
@@ -5696,7 +5696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13317GN1": {
    "LavprisVVS": null,
@@ -5728,7 +5728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28112310": {
    "LavprisVVS": null,
@@ -5768,7 +5768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O24.0SET": {
    "LavprisVVS": null,
@@ -5856,7 +5856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5674B403-6196SET": {
    "LavprisVVS": null,
@@ -5888,7 +5888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA487.0": {
    "LavprisVVS": null,
@@ -5904,7 +5904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19316AL1": {
    "LavprisVVS": null,
@@ -5912,7 +5912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19316GN1": {
    "LavprisVVS": null,
@@ -5952,7 +5952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O21.4SET": {
    "LavprisVVS": null,
@@ -5960,7 +5960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25222001": {
    "LavprisVVS": null,
@@ -5992,7 +5992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR52.9": {
    "LavprisVVS": null,
@@ -6000,7 +6000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO18.9SET": {
    "LavprisVVS": null,
@@ -6008,7 +6008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O13.9SET": {
    "LavprisVVS": null,
@@ -6016,7 +6016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "45037820": {
    "LavprisVVS": null,
@@ -6168,7 +6168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA489.3HG": {
    "LavprisVVS": null,
@@ -6304,7 +6304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "BL-SET 3.2": {
    "LavprisVVS": null,
@@ -6368,7 +6368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "35279000": {
    "LavprisVVS": null,
@@ -6432,7 +6432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO17.9SET": {
    "LavprisVVS": null,
@@ -6440,7 +6440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO12.9SET": {
    "LavprisVVS": null,
@@ -6448,7 +6448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA487.9": {
    "LavprisVVS": null,
@@ -6520,7 +6520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34863DL0": {
    "LavprisVVS": null,
@@ -6672,7 +6672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "131231007": {
    "LavprisVVS": 15799.0,
@@ -6784,7 +6784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13317DA1": {
    "LavprisVVS": null,
@@ -6872,7 +6872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TCF803CG": {
    "LavprisVVS": 31847.0,
@@ -6928,7 +6928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA487.3": {
    "LavprisVVS": null,
@@ -6944,7 +6944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "18358000": {
    "LavprisVVS": null,
@@ -6976,7 +6976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15382140": {
    "LavprisVVS": null,
@@ -7016,7 +7016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19316GL1": {
    "LavprisVVS": null,
@@ -7032,7 +7032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25221GL1": {
    "LavprisVVS": null,
@@ -7040,7 +7040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25221MS1": {
    "LavprisVVS": null,
@@ -7136,7 +7136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25272000": {
    "LavprisVVS": null,
@@ -7144,7 +7144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25227000": {
    "LavprisVVS": null,
@@ -7208,7 +7208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO21.3SET": {
    "LavprisVVS": null,
@@ -7216,7 +7216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA486.5": {
    "LavprisVVS": null,
@@ -7328,7 +7328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73445700": {
    "LavprisVVS": null,
@@ -7456,7 +7456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "6025-SET 3.2 PG2": {
    "LavprisVVS": null,
@@ -7528,7 +7528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX22.0": {
    "LavprisVVS": null,
@@ -7536,7 +7536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AORBR-1775": {
    "LavprisVVS": null,
@@ -7584,7 +7584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O22.1SET": {
    "LavprisVVS": null,
@@ -7768,7 +7768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX21.1": {
    "LavprisVVS": null,
@@ -7880,7 +7880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29407DL0": {
    "LavprisVVS": null,
@@ -7896,7 +7896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29407AL0": {
    "LavprisVVS": null,
@@ -8048,7 +8048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA493.3": {
    "LavprisVVS": null,
@@ -8072,7 +8072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "700269000000000": {
    "LavprisVVS": 21342.0,
@@ -8232,7 +8232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24583140": {
    "LavprisVVS": 16375.0,
@@ -8248,7 +8248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24583990": {
    "LavprisVVS": 18182.0,
@@ -8440,7 +8440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR24.1": {
    "LavprisVVS": null,
@@ -8448,7 +8448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX22.9": {
    "LavprisVVS": null,
@@ -8520,7 +8520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "B090005005": {
    "LavprisVVS": null,
@@ -8784,7 +8784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24590700": {
    "LavprisVVS": null,
@@ -8800,7 +8800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73440670": {
    "LavprisVVS": null,
@@ -8848,7 +8848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR24.0": {
    "LavprisVVS": null,
@@ -8856,7 +8856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "131222JL7": {
    "LavprisVVS": null,
@@ -8928,7 +8928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "0100-055-00-A/CR": {
    "LavprisVVS": null,
@@ -8936,7 +8936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "NX21.0": {
    "LavprisVVS": null,
@@ -8944,7 +8944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX23.3": {
    "LavprisVVS": null,
@@ -8952,7 +8952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26034000": {
    "LavprisVVS": null,
@@ -9088,7 +9088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29408GL0": {
    "LavprisVVS": null,
@@ -9104,7 +9104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29407MG0": {
    "LavprisVVS": null,
@@ -9112,7 +9112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25224MS0": {
    "LavprisVVS": null,
@@ -9240,7 +9240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA492.2": {
    "LavprisVVS": null,
@@ -9248,7 +9248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "H8206014000001": {
    "LavprisVVS": 15764.0,
@@ -9304,7 +9304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO21.2SET": {
    "LavprisVVS": null,
@@ -9312,7 +9312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "E306801": {
    "LavprisVVS": null,
@@ -9392,7 +9392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "4504.010": {
    "LavprisVVS": null,
@@ -9560,7 +9560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO22.1SET": {
    "LavprisVVS": null,
@@ -9568,7 +9568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX21.9": {
    "LavprisVVS": null,
@@ -9576,7 +9576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31454DC1": {
    "LavprisVVS": 15029.0,
@@ -9704,7 +9704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "57252073": {
    "LavprisVVS": null,
@@ -9712,7 +9712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "3944.010": {
    "LavprisVVS": null,
@@ -9768,7 +9768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O21.0SET": {
    "LavprisVVS": null,
@@ -10088,7 +10088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31498DC1": {
    "LavprisVVS": 14439.0,
@@ -10192,7 +10192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "NX23.1": {
    "LavprisVVS": null,
@@ -10200,7 +10200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "35277000": {
    "LavprisVVS": null,
@@ -10208,7 +10208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "4500.010": {
    "LavprisVVS": null,
@@ -10304,7 +10304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA493.0": {
    "LavprisVVS": null,
@@ -10424,7 +10424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO21.1SET": {
    "LavprisVVS": null,
@@ -10432,7 +10432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O23.2SET": {
    "LavprisVVS": null,
@@ -10600,7 +10600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "15381700": {
    "LavprisVVS": null,
@@ -10664,7 +10664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32532000": {
    "LavprisVVS": 15930.0,
@@ -10888,7 +10888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETW067": {
    "LavprisVVS": null,
@@ -11000,7 +11000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR22.0": {
    "LavprisVVS": null,
@@ -11008,7 +11008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "O23.1SET": {
    "LavprisVVS": null,
@@ -11016,7 +11016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28120330": {
    "LavprisVVS": null,
@@ -11024,7 +11024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25248DC1": {
    "LavprisVVS": null,
@@ -11032,7 +11032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SPOS060-PN413": {
    "LavprisVVS": null,
@@ -11096,7 +11096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15483180": {
    "LavprisVVS": null,
@@ -11136,7 +11136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "700264000000000": {
    "LavprisVVS": 17933.0,
@@ -11312,7 +11312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "B118001105A": {
    "LavprisVVS": null,
@@ -11464,7 +11464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "30083AL1": {
    "LavprisVVS": null,
@@ -11664,7 +11664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "6005-SET2.2": {
    "LavprisVVS": null,
@@ -11712,7 +11712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SPRO23.0SET": {
    "LavprisVVS": null,
@@ -11720,7 +11720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "18356000": {
    "LavprisVVS": null,
@@ -11952,7 +11952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "PN-SET 6.3 C PG2": {
    "LavprisVVS": null,
@@ -12016,7 +12016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31456001": {
    "LavprisVVS": 13119.0,
@@ -12168,7 +12168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29405000": {
    "LavprisVVS": null,
@@ -12176,7 +12176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "3812.010": {
    "LavprisVVS": null,
@@ -12280,7 +12280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "CT-SET 4.7": {
    "LavprisVVS": null,
@@ -12320,7 +12320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "35318000": {
    "LavprisVVS": null,
@@ -12336,7 +12336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28624250": {
    "LavprisVVS": null,
@@ -12344,7 +12344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35303000": {
    "LavprisVVS": null,
@@ -12352,7 +12352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "06462083": {
    "LavprisVVS": null,
@@ -12400,7 +12400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34865KF0": {
    "LavprisVVS": null,
@@ -12512,7 +12512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "OPL042.2": {
    "LavprisVVS": null,
@@ -12520,7 +12520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26853670": {
    "LavprisVVS": null,
@@ -12680,7 +12680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO23.1SET": {
    "LavprisVVS": null,
@@ -12808,7 +12808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15380340": {
    "LavprisVVS": null,
@@ -12880,7 +12880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "72412000": {
    "LavprisVVS": 16721.0,
@@ -13040,7 +13040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26232700": {
    "LavprisVVS": null,
@@ -13048,7 +13048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "11445000": {
    "LavprisVVS": 17353.0,
@@ -13112,7 +13112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR21.2": {
    "LavprisVVS": null,
@@ -13120,7 +13120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "02330900641+8727100005+0065880099": {
    "LavprisVVS": null,
@@ -13216,7 +13216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCIP31.5SET": {
    "LavprisVVS": null,
@@ -13224,7 +13224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26234700": {
    "LavprisVVS": 12462.0,
@@ -13392,7 +13392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "39454000": {
    "LavprisVVS": null,
@@ -13496,7 +13496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA485.1SM": {
    "LavprisVVS": null,
@@ -13504,7 +13504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73445000": {
    "LavprisVVS": null,
@@ -13560,7 +13560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO23.0SET": {
    "LavprisVVS": null,
@@ -13568,7 +13568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24595000": {
    "LavprisVVS": null,
@@ -13792,7 +13792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "BD41005": {
    "LavprisVVS": null,
@@ -13896,7 +13896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "75445000": {
    "LavprisVVS": 10933.0,
@@ -13936,7 +13936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "PN-SET 3.3 C PG2": {
    "LavprisVVS": null,
@@ -14032,7 +14032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA485.2HG": {
    "LavprisVVS": null,
@@ -14048,7 +14048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35296000": {
    "LavprisVVS": null,
@@ -14056,7 +14056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24592140": {
    "LavprisVVS": null,
@@ -14160,7 +14160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "21142DL0": {
    "LavprisVVS": null,
@@ -14392,7 +14392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "3955.010": {
    "LavprisVVS": null,
@@ -14440,7 +14440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "BL-SET 2.2": {
    "LavprisVVS": null,
@@ -14552,7 +14552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "35321000": {
    "LavprisVVS": null,
@@ -14584,7 +14584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26031000": {
    "LavprisVVS": 15319.0,
@@ -14600,7 +14600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35314000": {
    "LavprisVVS": null,
@@ -14608,7 +14608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24396DL0": {
    "LavprisVVS": null,
@@ -14616,7 +14616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24396AL0": {
    "LavprisVVS": null,
@@ -14760,7 +14760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26253990": {
    "LavprisVVS": null,
@@ -14768,7 +14768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28622250": {
    "LavprisVVS": null,
@@ -14944,7 +14944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26230340": {
    "LavprisVVS": null,
@@ -14968,7 +14968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24593700": {
    "LavprisVVS": 10660.0,
@@ -15024,7 +15024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SIJF070-PN413": {
    "LavprisVVS": null,
@@ -15088,7 +15088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "ROCO23.9SET": {
    "LavprisVVS": null,
@@ -15096,7 +15096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "30085DC1": {
    "LavprisVVS": 12818.0,
@@ -15136,7 +15136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35317000": {
    "LavprisVVS": null,
@@ -15144,7 +15144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "6138.010": {
    "LavprisVVS": null,
@@ -15248,7 +15248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26853000": {
    "LavprisVVS": null,
@@ -15256,7 +15256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20188DL1": {
    "LavprisVVS": null,
@@ -15384,7 +15384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLO17090LS": {
    "LavprisVVS": null,
@@ -15568,7 +15568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR21.0": {
    "LavprisVVS": null,
@@ -15576,7 +15576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA485.1HG": {
    "LavprisVVS": null,
@@ -15592,7 +15592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26891140": {
    "LavprisVVS": 10849.0,
@@ -15616,7 +15616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "95805000": {
    "LavprisVVS": 1023.0,
@@ -15696,7 +15696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "3916.010": {
    "LavprisVVS": null,
@@ -15704,7 +15704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "PN-SET 6.5 PG1": {
    "LavprisVVS": null,
@@ -16320,7 +16320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "11300000": {
    "LavprisVVS": 11132.0,
@@ -16336,7 +16336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24396GL0": {
    "LavprisVVS": null,
@@ -16344,7 +16344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24396DA0": {
    "LavprisVVS": null,
@@ -16352,7 +16352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24396MS0": {
    "LavprisVVS": null,
@@ -16480,7 +16480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "11302000": {
    "LavprisVVS": 12432.0,
@@ -16632,7 +16632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26253670": {
    "LavprisVVS": null,
@@ -16640,7 +16640,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "0100-255-R": {
    "LavprisVVS": null,
@@ -16656,7 +16656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6040-SET 1.2 PG2": {
    "LavprisVVS": null,
@@ -16768,7 +16768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20193MS2": {
    "LavprisVVS": null,
@@ -16888,7 +16888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6110-SET 3.4": {
    "LavprisVVS": null,
@@ -17040,7 +17040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TA485.0HG": {
    "LavprisVVS": null,
@@ -17048,7 +17048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "538253": {
    "LavprisVVS": 49.0,
@@ -17064,7 +17064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26507DC0": {
    "LavprisVVS": 9619.0,
@@ -17208,7 +17208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "26891700": {
    "LavprisVVS": 9698.0,
@@ -17344,7 +17344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35284000": {
    "LavprisVVS": null,
@@ -17352,7 +17352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28284000": {
    "LavprisVVS": 580.0,
@@ -17368,7 +17368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26230990": {
    "LavprisVVS": null,
@@ -17576,7 +17576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28742000": {
    "LavprisVVS": null,
@@ -17600,7 +17600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25224000": {
    "LavprisVVS": null,
@@ -17616,7 +17616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29408000": {
    "LavprisVVS": null,
@@ -17632,7 +17632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20189DA2": {
    "LavprisVVS": null,
@@ -17752,7 +17752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "131031005": {
    "LavprisVVS": 9787.0,
@@ -18000,7 +18000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "18020000": {
    "LavprisVVS": 9817.0,
@@ -18064,7 +18064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26234000": {
    "LavprisVVS": null,
@@ -18072,7 +18072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "16821820": {
    "LavprisVVS": null,
@@ -18168,7 +18168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25251DL1": {
    "LavprisVVS": null,
@@ -18176,7 +18176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25251AL1": {
    "LavprisVVS": null,
@@ -18200,7 +18200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "6110-SET3.5": {
    "LavprisVVS": null,
@@ -18296,7 +18296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "30085001": {
    "LavprisVVS": 9899.0,
@@ -18392,7 +18392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW028": {
    "LavprisVVS": null,
@@ -18400,7 +18400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5504R0RW": {
    "LavprisVVS": null,
@@ -18608,7 +18608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "IR35.4": {
    "LavprisVVS": null,
@@ -19152,7 +19152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "74445000": {
    "LavprisVVS": null,
@@ -19248,7 +19248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "45713000": {
    "LavprisVVS": 10298.0,
@@ -19264,7 +19264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "39441000": {
    "LavprisVVS": null,
@@ -19352,7 +19352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "CS-SETB 1.1": {
    "LavprisVVS": null,
@@ -19392,7 +19392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "AR20.9": {
    "LavprisVVS": null,
@@ -19400,7 +19400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "536426": {
    "LavprisVVS": null,
@@ -19408,7 +19408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4164CBRW": {
    "LavprisVVS": null,
@@ -19432,7 +19432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35286000": {
    "LavprisVVS": null,
@@ -19440,7 +19440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "35309000": {
    "LavprisVVS": null,
@@ -19464,7 +19464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25251DA1": {
    "LavprisVVS": null,
@@ -19512,7 +19512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4218.010": {
    "LavprisVVS": null,
@@ -19520,7 +19520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24540340": {
    "LavprisVVS": null,
@@ -19560,7 +19560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24541140": {
    "LavprisVVS": null,
@@ -19568,7 +19568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24541990": {
    "LavprisVVS": null,
@@ -19576,7 +19576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24551990": {
    "LavprisVVS": null,
@@ -19584,7 +19584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24551340": {
    "LavprisVVS": null,
@@ -19592,7 +19592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24551140": {
    "LavprisVVS": null,
@@ -19600,7 +19600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24540990": {
    "LavprisVVS": null,
@@ -19608,7 +19608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24550990": {
    "LavprisVVS": null,
@@ -19888,7 +19888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "535337": {
    "LavprisVVS": null,
@@ -19896,7 +19896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "43430800": {
    "LavprisVVS": null,
@@ -20016,7 +20016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20669DC0": {
    "LavprisVVS": null,
@@ -20056,7 +20056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20671DC0": {
    "LavprisVVS": null,
@@ -20152,7 +20152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "54237790": {
    "LavprisVVS": null,
@@ -20176,7 +20176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "419861BCT7": {
    "LavprisVVS": 5832.0,
@@ -20320,7 +20320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24417DC0": {
    "LavprisVVS": null,
@@ -20448,7 +20448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24400AL0": {
    "LavprisVVS": null,
@@ -20568,7 +20568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "46031000": {
    "LavprisVVS": null,
@@ -20664,7 +20664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SFHJ065-PN326": {
    "LavprisVVS": null,
@@ -20800,7 +20800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "SFTZ150-PN452": {
    "LavprisVVS": null,
@@ -20928,7 +20928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "BB79005": {
    "LavprisVVS": null,
@@ -20936,7 +20936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "20193GL2": {
    "LavprisVVS": null,
@@ -21000,7 +21000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "WULE080-PN090": {
    "LavprisVVS": null,
@@ -21224,7 +21224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "H604110000S002": {
    "LavprisVVS": null,
@@ -21400,7 +21400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW027": {
    "LavprisVVS": null,
@@ -21408,7 +21408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4164C3RW": {
    "LavprisVVS": null,
@@ -21560,7 +21560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "536419": {
    "LavprisVVS": null,
@@ -21568,7 +21568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73831670": {
    "LavprisVVS": null,
@@ -21728,7 +21728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "535313": {
    "LavprisVVS": null,
@@ -21736,7 +21736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26230670": {
    "LavprisVVS": null,
@@ -21744,7 +21744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "15556700": {
    "LavprisVVS": null,
@@ -21856,7 +21856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26231340": {
    "LavprisVVS": null,
@@ -21864,7 +21864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "SGVT123-PN529": {
    "LavprisVVS": null,
@@ -21976,7 +21976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "38010000": {
    "LavprisVVS": 8651.0,
@@ -22032,7 +22032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4280.010": {
    "LavprisVVS": null,
@@ -22040,7 +22040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24347AL0": {
    "LavprisVVS": null,
@@ -22248,7 +22248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4217.010": {
    "LavprisVVS": null,
@@ -22256,7 +22256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "H561PN37081111": {
    "LavprisVVS": null,
@@ -22288,7 +22288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25268GN0": {
    "LavprisVVS": null,
@@ -22344,7 +22344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6005-SET 3.1": {
    "LavprisVVS": null,
@@ -22480,7 +22480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24237140": {
    "LavprisVVS": 7542.0,
@@ -22496,7 +22496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "16515000": {
    "LavprisVVS": 3295.0,
@@ -22528,7 +22528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "CT-S3D7-1573-16": {
    "LavprisVVS": null,
@@ -22592,7 +22592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "DAL536464": {
    "LavprisVVS": null,
@@ -22600,7 +22600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5504R1R1": {
    "LavprisVVS": null,
@@ -22648,7 +22648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24359GN0": {
    "LavprisVVS": null,
@@ -22656,7 +22656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24359AL0": {
    "LavprisVVS": null,
@@ -22816,7 +22816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "LUP19012049": {
    "LavprisVVS": null,
@@ -22824,7 +22824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "6110-SET 2.3": {
    "LavprisVVS": null,
@@ -22864,7 +22864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26231700": {
    "LavprisVVS": 7672.0,
@@ -22880,7 +22880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "20595DC0": {
    "LavprisVVS": null,
@@ -23224,7 +23224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26226700": {
    "LavprisVVS": 8097.0,
@@ -23240,7 +23240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "15572140": {
    "LavprisVVS": 7667.0,
@@ -23416,7 +23416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "536457": {
    "LavprisVVS": null,
@@ -23424,7 +23424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "27114000": {
    "LavprisVVS": 7479.0,
@@ -23448,7 +23448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "A6347AA": {
    "LavprisVVS": null,
@@ -23456,7 +23456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "76444700": {
    "LavprisVVS": null,
@@ -23464,7 +23464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20589GN0": {
    "LavprisVVS": null,
@@ -23704,7 +23704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "538246": {
    "LavprisVVS": null,
@@ -23712,7 +23712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4139D8R1": {
    "LavprisVVS": null,
@@ -23736,7 +23736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25268DA0": {
    "LavprisVVS": null,
@@ -23864,7 +23864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5865017184": {
    "LavprisVVS": null,
@@ -24056,7 +24056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24540700": {
    "LavprisVVS": null,
@@ -24064,7 +24064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24550700": {
    "LavprisVVS": null,
@@ -24072,7 +24072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24541700": {
    "LavprisVVS": null,
@@ -24080,7 +24080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24358MG0": {
    "LavprisVVS": null,
@@ -24088,7 +24088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24550670": {
    "LavprisVVS": null,
@@ -24096,7 +24096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24357AL0": {
    "LavprisVVS": null,
@@ -24104,7 +24104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24540670": {
    "LavprisVVS": null,
@@ -24120,7 +24120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24359DA0": {
    "LavprisVVS": null,
@@ -24216,7 +24216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4280xA.010": {
    "LavprisVVS": null,
@@ -24224,7 +24224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "42300000": {
    "LavprisVVS": 140.0,
@@ -24352,7 +24352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "FOK3050-SET1.1": {
    "LavprisVVS": null,
@@ -24576,7 +24576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32826GN1": {
    "LavprisVVS": null,
@@ -25032,7 +25032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29126DL0": {
    "LavprisVVS": 6857.0,
@@ -25192,7 +25192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4238xA.010": {
    "LavprisVVS": null,
@@ -25200,7 +25200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A33C2RW": {
    "LavprisVVS": null,
@@ -25328,7 +25328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15562340": {
    "LavprisVVS": null,
@@ -25432,7 +25432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24367DL0": {
    "LavprisVVS": null,
@@ -25592,7 +25592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26228140": {
    "LavprisVVS": null,
@@ -25600,7 +25600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26228340": {
    "LavprisVVS": null,
@@ -25716,11 +25716,11 @@ const KONKURRENT_DATA = {
   },
   "24358DC0": {
    "LavprisVVS": null,
-   "BilligVVS": 6799.0,
+   "BilligVVS": null,
    "CompletVVS": null,
    "billigste": null,
-   "status": "GULV: kan ikke matche",
-   "tjekket": "2026-11-11"
+   "status": "ingen konkurrentpris fundet",
+   "tjekket": "2026-11-17"
   },
   "24357MS0": {
    "LavprisVVS": null,
@@ -25728,7 +25728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24357DA0": {
    "LavprisVVS": null,
@@ -25744,7 +25744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24359DC0": {
    "LavprisVVS": null,
@@ -25848,7 +25848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26238990": {
    "LavprisVVS": 7143.0,
@@ -25864,7 +25864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26238140": {
    "LavprisVVS": 7236.0,
@@ -25880,7 +25880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26239140": {
    "LavprisVVS": null,
@@ -25888,7 +25888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26238340": {
    "LavprisVVS": 7284.0,
@@ -26008,7 +26008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "H561PN40001111": {
    "LavprisVVS": 8253.0,
@@ -26056,7 +26056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32826MS1": {
    "LavprisVVS": null,
@@ -26064,7 +26064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32826DA1": {
    "LavprisVVS": null,
@@ -26152,7 +26152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "BW2992": {
    "LavprisVVS": null,
@@ -26192,7 +26192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13444180": {
    "LavprisVVS": null,
@@ -26488,7 +26488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "54302700": {
    "LavprisVVS": null,
@@ -26688,7 +26688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "6110-SET 3.1": {
    "LavprisVVS": null,
@@ -26904,7 +26904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4209.010": {
    "LavprisVVS": null,
@@ -26912,7 +26912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4290.010": {
    "LavprisVVS": null,
@@ -26920,7 +26920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A22C1R1": {
    "LavprisVVS": null,
@@ -26968,7 +26968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26229700": {
    "LavprisVVS": null,
@@ -26976,7 +26976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26228700": {
    "LavprisVVS": 6795.0,
@@ -27000,7 +27000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "73443670": {
    "LavprisVVS": null,
@@ -27008,7 +27008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73443700": {
    "LavprisVVS": null,
@@ -27296,7 +27296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24396000": {
    "LavprisVVS": null,
@@ -27304,7 +27304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26251340": {
    "LavprisVVS": null,
@@ -27312,7 +27312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29121MS0": {
    "LavprisVVS": null,
@@ -27352,7 +27352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29121MG0": {
    "LavprisVVS": null,
@@ -27400,7 +27400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24398000": {
    "LavprisVVS": null,
@@ -27448,7 +27448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "3975.010": {
    "LavprisVVS": null,
@@ -27456,7 +27456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "54978670": {
    "LavprisVVS": 6449.0,
@@ -27736,7 +27736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24367MS0": {
    "LavprisVVS": null,
@@ -27968,7 +27968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "535122": {
    "LavprisVVS": null,
@@ -27976,7 +27976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "H613890000S002": {
    "LavprisVVS": null,
@@ -28152,7 +28152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "75444670": {
    "LavprisVVS": null,
@@ -28296,7 +28296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26238700": {
    "LavprisVVS": 7097.0,
@@ -28376,7 +28376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32826DC1": {
    "LavprisVVS": null,
@@ -28656,7 +28656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4289.010": {
    "LavprisVVS": null,
@@ -28664,7 +28664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "76802670": {
    "LavprisVVS": 7019.0,
@@ -28696,7 +28696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "32846DA1": {
    "LavprisVVS": null,
@@ -28704,7 +28704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "32846MG1": {
    "LavprisVVS": null,
@@ -28720,7 +28720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "12171000": {
    "LavprisVVS": 6874.0,
@@ -28752,7 +28752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "10140000": {
    "LavprisVVS": 8040.0,
@@ -29040,7 +29040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "16549180": {
    "LavprisVVS": 6198.0,
@@ -29320,7 +29320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26250700": {
    "LavprisVVS": 6095.0,
@@ -29400,7 +29400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24341DC0": {
    "LavprisVVS": null,
@@ -29504,7 +29504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "535108": {
    "LavprisVVS": null,
@@ -29512,7 +29512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW025": {
    "LavprisVVS": null,
@@ -29520,7 +29520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "42305000": {
    "LavprisVVS": 12351.0,
@@ -29568,7 +29568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "16820000": {
    "LavprisVVS": 6565.0,
@@ -29808,7 +29808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29181AL2": {
    "LavprisVVS": null,
@@ -29816,7 +29816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "19446GN2": {
    "LavprisVVS": null,
@@ -29984,7 +29984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A221FR1": {
    "LavprisVVS": null,
@@ -30024,7 +30024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24366GN0": {
    "LavprisVVS": null,
@@ -30032,7 +30032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26228670": {
    "LavprisVVS": null,
@@ -30040,7 +30040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26895AL0": {
    "LavprisVVS": null,
@@ -30048,7 +30048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24366AL0": {
    "LavprisVVS": null,
@@ -30056,7 +30056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26895DL0": {
    "LavprisVVS": null,
@@ -30064,7 +30064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24366DL0": {
    "LavprisVVS": null,
@@ -30240,7 +30240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "7175D001": {
    "LavprisVVS": null,
@@ -30368,7 +30368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "11043000": {
    "LavprisVVS": 7498.0,
@@ -30512,7 +30512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4207.010": {
    "LavprisVVS": null,
@@ -30520,7 +30520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A33C2R1": {
    "LavprisVVS": null,
@@ -30824,7 +30824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24153AL0": {
    "LavprisVVS": 5659.0,
@@ -30880,7 +30880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31190000": {
    "LavprisVVS": 6497.0,
@@ -30960,7 +30960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "KAN1909050": {
    "LavprisVVS": null,
@@ -30968,7 +30968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW127": {
    "LavprisVVS": null,
@@ -30984,7 +30984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "LUP1909049": {
    "LavprisVVS": null,
@@ -30992,7 +30992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "LUP18080VL": {
    "LavprisVVS": null,
@@ -31000,7 +31000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "NED2009049": {
    "LavprisVVS": null,
@@ -31008,7 +31008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW128": {
    "LavprisVVS": null,
@@ -31024,7 +31024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "535153": {
    "LavprisVVS": null,
@@ -31232,7 +31232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "36703000": {
    "LavprisVVS": 6427.0,
@@ -31680,7 +31680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24540000": {
    "LavprisVVS": null,
@@ -31688,7 +31688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29181MG2": {
    "LavprisVVS": null,
@@ -31696,7 +31696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29181GL2": {
    "LavprisVVS": null,
@@ -31704,7 +31704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29181DA2": {
    "LavprisVVS": null,
@@ -31872,7 +31872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A33C301": {
    "LavprisVVS": null,
@@ -31992,7 +31992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26601000": {
    "LavprisVVS": 6558.0,
@@ -32008,7 +32008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24366MS0": {
    "LavprisVVS": null,
@@ -32016,7 +32016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26895MG0": {
    "LavprisVVS": null,
@@ -32024,7 +32024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24366GL0": {
    "LavprisVVS": null,
@@ -32032,7 +32032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26895GL0": {
    "LavprisVVS": null,
@@ -32040,7 +32040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "33715990": {
    "LavprisVVS": 6050.0,
@@ -32080,7 +32080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "33713990": {
    "LavprisVVS": null,
@@ -32376,7 +32376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4289xA.010": {
    "LavprisVVS": null,
@@ -32384,7 +32384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4288.010": {
    "LavprisVVS": null,
@@ -32392,7 +32392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW023": {
    "LavprisVVS": null,
@@ -32400,7 +32400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "41688CR1": {
    "LavprisVVS": null,
@@ -32472,7 +32472,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32552000": {
    "LavprisVVS": null,
@@ -32688,7 +32688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "16801000": {
    "LavprisVVS": null,
@@ -32768,7 +32768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW085": {
    "LavprisVVS": null,
@@ -32776,7 +32776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW152": {
    "LavprisVVS": null,
@@ -32832,7 +32832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "23361300001": {
    "LavprisVVS": 7322.0,
@@ -32944,7 +32944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "93666340": {
    "LavprisVVS": null,
@@ -32952,7 +32952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29157LS0": {
    "LavprisVVS": 4979.0,
@@ -32976,7 +32976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32757DL1": {
    "LavprisVVS": null,
@@ -33680,7 +33680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW139": {
    "LavprisVVS": null,
@@ -34048,7 +34048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "24364MS0": {
    "LavprisVVS": null,
@@ -34128,7 +34128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "19446DC2": {
    "LavprisVVS": null,
@@ -34344,7 +34344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW029": {
    "LavprisVVS": null,
@@ -34488,7 +34488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "26895DC0": {
    "LavprisVVS": null,
@@ -34680,7 +34680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "LUP1809049": {
    "LavprisVVS": null,
@@ -34688,7 +34688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "MAE20090465": {
    "LavprisVVS": null,
@@ -34696,7 +34696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "HCW024533 PG2": {
    "LavprisVVS": null,
@@ -34768,7 +34768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007021080": {
    "LavprisVVS": null,
@@ -34776,7 +34776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A338GRW": {
    "LavprisVVS": null,
@@ -35160,7 +35160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "73819800": {
    "LavprisVVS": null,
@@ -35168,7 +35168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27371000": {
    "LavprisVVS": 5221.0,
@@ -35208,7 +35208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW207": {
    "LavprisVVS": null,
@@ -35480,7 +35480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15574140": {
    "LavprisVVS": null,
@@ -35800,7 +35800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4223.010": {
    "LavprisVVS": null,
@@ -35808,7 +35808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5257000000": {
    "LavprisVVS": null,
@@ -35880,7 +35880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34725000": {
    "LavprisVVS": 5941.0,
@@ -35904,7 +35904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "11024000": {
    "LavprisVVS": 6241.0,
@@ -36024,7 +36024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6025-HB45-03 PG2": {
    "LavprisVVS": null,
@@ -36160,7 +36160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "511331": {
    "LavprisVVS": null,
@@ -36168,7 +36168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4203.010": {
    "LavprisVVS": null,
@@ -36176,7 +36176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4237.010": {
    "LavprisVVS": null,
@@ -36184,7 +36184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "558605R1": {
    "LavprisVVS": null,
@@ -36320,7 +36320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19315DL1": {
    "LavprisVVS": null,
@@ -36480,7 +36480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "DUB1809042": {
    "LavprisVVS": null,
@@ -36544,7 +36544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A22A401": {
    "LavprisVVS": 6446.0,
@@ -36648,7 +36648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "20587DC0": {
    "LavprisVVS": null,
@@ -36816,7 +36816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "535641": {
    "LavprisVVS": null,
@@ -36824,7 +36824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4215.010": {
    "LavprisVVS": null,
@@ -36832,7 +36832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4288xA.010": {
    "LavprisVVS": null,
@@ -36840,7 +36840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4156A4RW": {
    "LavprisVVS": null,
@@ -36952,7 +36952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24150670": {
    "LavprisVVS": null,
@@ -36960,7 +36960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24151700": {
    "LavprisVVS": null,
@@ -36968,7 +36968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24351670": {
    "LavprisVVS": 5858.0,
@@ -37096,7 +37096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "LUP1808049": {
    "LavprisVVS": null,
@@ -37104,7 +37104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "LUP1758048": {
    "LavprisVVS": null,
@@ -37112,7 +37112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "UGL536033": {
    "LavprisVVS": null,
@@ -37216,7 +37216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4204.010": {
    "LavprisVVS": null,
@@ -37224,7 +37224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW024": {
    "LavprisVVS": null,
@@ -37232,7 +37232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "3212000000": {
    "LavprisVVS": null,
@@ -37344,7 +37344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "05682129": {
    "LavprisVVS": null,
@@ -37488,7 +37488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "535603": {
    "LavprisVVS": null,
@@ -37496,7 +37496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "671212": {
    "LavprisVVS": null,
@@ -37504,7 +37504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4287.010": {
    "LavprisVVS": null,
@@ -37512,7 +37512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4284.010": {
    "LavprisVVS": null,
@@ -37520,7 +37520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "416484R1": {
    "LavprisVVS": null,
@@ -37592,7 +37592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "39850800": {
    "LavprisVVS": null,
@@ -37624,7 +37624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "12015000": {
    "LavprisVVS": 5591.0,
@@ -37704,7 +37704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW167": {
    "LavprisVVS": null,
@@ -37720,7 +37720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "HSKE035-PN391": {
    "LavprisVVS": null,
@@ -37824,7 +37824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4272xA.010": {
    "LavprisVVS": null,
@@ -37832,7 +37832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4277.010": {
    "LavprisVVS": null,
@@ -37840,7 +37840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "419861RW": {
    "LavprisVVS": 5832.0,
@@ -38040,7 +38040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73443000": {
    "LavprisVVS": null,
@@ -38104,7 +38104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW157": {
    "LavprisVVS": null,
@@ -38120,7 +38120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "ANT1909044": {
    "LavprisVVS": null,
@@ -38128,7 +38128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "UN18990445": {
    "LavprisVVS": null,
@@ -38264,7 +38264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154441KS1": {
    "LavprisVVS": null,
@@ -38272,7 +38272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154441391": {
    "LavprisVVS": 8199.0,
@@ -38288,7 +38288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW020": {
    "LavprisVVS": null,
@@ -38296,7 +38296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4194.010": {
    "LavprisVVS": null,
@@ -38304,7 +38304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4271.010": {
    "LavprisVVS": null,
@@ -38312,7 +38312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "234000000": {
    "LavprisVVS": null,
@@ -38408,7 +38408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "24530340": {
    "LavprisVVS": 5213.0,
@@ -38584,7 +38584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15575000": {
    "LavprisVVS": null,
@@ -38632,7 +38632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19315MS1": {
    "LavprisVVS": null,
@@ -38640,7 +38640,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19315GL1": {
    "LavprisVVS": null,
@@ -38648,7 +38648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19315MG1": {
    "LavprisVVS": null,
@@ -38824,7 +38824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "HSFC035-PN258": {
    "LavprisVVS": null,
@@ -38920,7 +38920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4283.010": {
    "LavprisVVS": null,
@@ -38928,7 +38928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "417258BCT7": {
    "LavprisVVS": 5359.0,
@@ -39024,7 +39024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28821340": {
    "LavprisVVS": null,
@@ -39032,7 +39032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27623990": {
    "LavprisVVS": null,
@@ -39040,7 +39040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28821990": {
    "LavprisVVS": null,
@@ -39048,7 +39048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27624140": {
    "LavprisVVS": null,
@@ -39056,7 +39056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26428670": {
    "LavprisVVS": 4799.0,
@@ -39072,7 +39072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26429670": {
    "LavprisVVS": null,
@@ -39096,7 +39096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19418140": {
    "LavprisVVS": null,
@@ -39104,7 +39104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19418800": {
    "LavprisVVS": null,
@@ -39112,7 +39112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19418340": {
    "LavprisVVS": null,
@@ -39120,7 +39120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19418820": {
    "LavprisVVS": null,
@@ -39128,7 +39128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "57302473": {
    "LavprisVVS": null,
@@ -39232,7 +39232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "BOR1808050": {
    "LavprisVVS": null,
@@ -39240,7 +39240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "MLL513033 PG2": {
    "LavprisVVS": null,
@@ -39304,7 +39304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4171.010": {
    "LavprisVVS": null,
@@ -39312,7 +39312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007019080": {
    "LavprisVVS": null,
@@ -39320,7 +39320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4286.010": {
    "LavprisVVS": null,
@@ -39328,7 +39328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4214.010": {
    "LavprisVVS": null,
@@ -39336,7 +39336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A331G01": {
    "LavprisVVS": null,
@@ -39448,7 +39448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "15486180": {
    "LavprisVVS": null,
@@ -39744,7 +39744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "446500R1": {
    "LavprisVVS": null,
@@ -40088,7 +40088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520180": {
    "LavprisVVS": null,
@@ -40096,7 +40096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4259.010": {
    "LavprisVVS": null,
@@ -40104,7 +40104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4183.010": {
    "LavprisVVS": null,
@@ -40112,7 +40112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4258.010": {
    "LavprisVVS": null,
@@ -40120,7 +40120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4202.010": {
    "LavprisVVS": null,
@@ -40128,7 +40128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4170.010": {
    "LavprisVVS": null,
@@ -40136,7 +40136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9700201": {
    "LavprisVVS": null,
@@ -40184,7 +40184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "72824800": {
    "LavprisVVS": null,
@@ -40432,7 +40432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "MLT5160 PG2": {
    "LavprisVVS": null,
@@ -40552,7 +40552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520166": {
    "LavprisVVS": null,
@@ -40560,7 +40560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523167": {
    "LavprisVVS": null,
@@ -40568,7 +40568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4205.010": {
    "LavprisVVS": null,
@@ -40576,7 +40576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW018": {
    "LavprisVVS": null,
@@ -40584,7 +40584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4266.010": {
    "LavprisVVS": null,
@@ -40592,7 +40592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "55870501": {
    "LavprisVVS": null,
@@ -40656,7 +40656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "27378000": {
    "LavprisVVS": 5314.0,
@@ -40704,7 +40704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "19317DL1": {
    "LavprisVVS": null,
@@ -40712,7 +40712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26431820": {
    "LavprisVVS": null,
@@ -40720,7 +40720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "19317AL1": {
    "LavprisVVS": null,
@@ -40856,7 +40856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW136": {
    "LavprisVVS": null,
@@ -40944,7 +40944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4269.010": {
    "LavprisVVS": null,
@@ -40952,7 +40952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4213.010": {
    "LavprisVVS": null,
@@ -40960,7 +40960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW022": {
    "LavprisVVS": null,
@@ -40968,7 +40968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4192.010": {
    "LavprisVVS": null,
@@ -40976,7 +40976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW021": {
    "LavprisVVS": null,
@@ -40984,7 +40984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "416481R1": {
    "LavprisVVS": null,
@@ -41008,7 +41008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "14883800": {
    "LavprisVVS": null,
@@ -41056,7 +41056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "96385800": {
    "LavprisVVS": null,
@@ -41192,7 +41192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "DOR1798049L": {
    "LavprisVVS": null,
@@ -41200,7 +41200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SETW165": {
    "LavprisVVS": null,
@@ -41216,7 +41216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "DOR1798049R": {
    "LavprisVVS": null,
@@ -41224,7 +41224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "MAE19090465": {
    "LavprisVVS": null,
@@ -41232,7 +41232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "UHBH040-PN089": {
    "LavprisVVS": null,
@@ -41344,7 +41344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794347": {
    "LavprisVVS": null,
@@ -41352,7 +41352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794385": {
    "LavprisVVS": null,
@@ -41360,7 +41360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794392": {
    "LavprisVVS": null,
@@ -41368,7 +41368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4276.010": {
    "LavprisVVS": null,
@@ -41376,7 +41376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "41686CRW": {
    "LavprisVVS": null,
@@ -41400,7 +41400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "32520670": {
    "LavprisVVS": null,
@@ -41464,7 +41464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27477000": {
    "LavprisVVS": 3979.0,
@@ -41480,7 +41480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27463000": {
    "LavprisVVS": 4065.0,
@@ -41504,7 +41504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32540140": {
    "LavprisVVS": null,
@@ -41512,7 +41512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32540340": {
    "LavprisVVS": null,
@@ -41664,7 +41664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4237xA.010": {
    "LavprisVVS": null,
@@ -41672,7 +41672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007027080": {
    "LavprisVVS": null,
@@ -41680,7 +41680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW014": {
    "LavprisVVS": null,
@@ -41688,7 +41688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007027105": {
    "LavprisVVS": null,
@@ -41696,7 +41696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "7175A001": {
    "LavprisVVS": null,
@@ -41760,7 +41760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "76801000": {
    "LavprisVVS": 6665.0,
@@ -41808,7 +41808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "102168KF00": {
    "LavprisVVS": null,
@@ -41888,7 +41888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "MAP18080465": {
    "LavprisVVS": null,
@@ -41896,7 +41896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "HSFB035-PN258": {
    "LavprisVVS": null,
@@ -42192,7 +42192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523082": {
    "LavprisVVS": null,
@@ -42200,7 +42200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520074": {
    "LavprisVVS": null,
@@ -42208,7 +42208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523150": {
    "LavprisVVS": null,
@@ -42232,7 +42232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4189.010": {
    "LavprisVVS": null,
@@ -42240,7 +42240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4265.010": {
    "LavprisVVS": null,
@@ -42248,7 +42248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4275.010": {
    "LavprisVVS": null,
@@ -42256,7 +42256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU027": {
    "LavprisVVS": null,
@@ -42360,7 +42360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24355AL0": {
    "LavprisVVS": null,
@@ -42384,7 +42384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24426000": {
    "LavprisVVS": null,
@@ -42632,7 +42632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "26234340": {
    "LavprisVVS": null,
@@ -42712,7 +42712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "24400000": {
    "LavprisVVS": 570.0,
@@ -42760,7 +42760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETW120": {
    "LavprisVVS": null,
@@ -42872,7 +42872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW004": {
    "LavprisVVS": null,
@@ -42888,7 +42888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "924096": {
    "LavprisVVS": null,
@@ -42928,7 +42928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "54075700": {
    "LavprisVVS": null,
@@ -43088,7 +43088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "LUP1808050V": {
    "LavprisVVS": null,
@@ -43096,7 +43096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "4A221HR1": {
    "LavprisVVS": null,
@@ -43128,7 +43128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "131003SL5": {
    "LavprisVVS": null,
@@ -43168,7 +43168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETW200": {
    "LavprisVVS": null,
@@ -43272,7 +43272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MCL516033 PG2": {
    "LavprisVVS": null,
@@ -43296,7 +43296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "CA18080445": {
    "LavprisVVS": null,
@@ -43384,7 +43384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A3383RW": {
    "LavprisVVS": null,
@@ -43496,7 +43496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "FLO17090R": {
    "LavprisVVS": null,
@@ -43504,7 +43504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "54258760": {
    "LavprisVVS": null,
@@ -43520,7 +43520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AR1908045L": {
    "LavprisVVS": null,
@@ -43528,7 +43528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AR1908045R": {
    "LavprisVVS": null,
@@ -43536,7 +43536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "419861BCT8": {
    "LavprisVVS": 5832.0,
@@ -43568,7 +43568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "4A70D101": {
    "LavprisVVS": null,
@@ -43696,7 +43696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "115651JV1": {
    "LavprisVVS": null,
@@ -43760,7 +43760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AR1808045L": {
    "LavprisVVS": null,
@@ -43768,7 +43768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AR1808045R": {
    "LavprisVVS": null,
@@ -43776,7 +43776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "4A3383R1": {
    "LavprisVVS": null,
@@ -43864,7 +43864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "K30CR": {
    "LavprisVVS": null,
@@ -43872,7 +43872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28012000": {
    "LavprisVVS": null,
@@ -43880,7 +43880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "SUN173108S": {
    "LavprisVVS": null,
@@ -43888,7 +43888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6025-HS45-02-L/R PG2": {
    "LavprisVVS": null,
@@ -44016,7 +44016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523198": {
    "LavprisVVS": null,
@@ -44024,7 +44024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523143": {
    "LavprisVVS": null,
@@ -44032,7 +44032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "538000": {
    "LavprisVVS": null,
@@ -44040,7 +44040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4279.010": {
    "LavprisVVS": null,
@@ -44048,7 +44048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FL18090": {
    "LavprisVVS": null,
@@ -44056,7 +44056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4156A5R1": {
    "LavprisVVS": null,
@@ -44192,7 +44192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "40873000": {
    "LavprisVVS": null,
@@ -44224,7 +44224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "45405820": {
    "LavprisVVS": null,
@@ -44232,7 +44232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19317GL1": {
    "LavprisVVS": null,
@@ -44240,7 +44240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "39313000": {
    "LavprisVVS": 4912.0,
@@ -44392,7 +44392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW417": {
    "LavprisVVS": null,
@@ -44408,7 +44408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "791235000001000": {
    "LavprisVVS": null,
@@ -44416,7 +44416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6010-MSR01-L-RPG2": {
    "LavprisVVS": null,
@@ -44536,7 +44536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4284xA.010": {
    "LavprisVVS": null,
@@ -44544,7 +44544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW019": {
    "LavprisVVS": null,
@@ -44552,7 +44552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4270.010": {
    "LavprisVVS": null,
@@ -44560,7 +44560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "55870001": {
    "LavprisVVS": null,
@@ -44664,7 +44664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "30609000": {
    "LavprisVVS": null,
@@ -44920,7 +44920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4277xA.010": {
    "LavprisVVS": null,
@@ -44928,7 +44928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4169.010": {
    "LavprisVVS": null,
@@ -44936,7 +44936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4285xA.010": {
    "LavprisVVS": null,
@@ -44944,7 +44944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "63310001": {
    "LavprisVVS": 5227.0,
@@ -45016,7 +45016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "30504AL0": {
    "LavprisVVS": null,
@@ -45096,7 +45096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34116000": {
    "LavprisVVS": 4798.0,
@@ -45176,7 +45176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW082": {
    "LavprisVVS": null,
@@ -45184,7 +45184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MCL513033 PG2": {
    "LavprisVVS": null,
@@ -45288,7 +45288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520135": {
    "LavprisVVS": null,
@@ -45296,7 +45296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523136": {
    "LavprisVVS": null,
@@ -45304,7 +45304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523075": {
    "LavprisVVS": null,
@@ -45312,7 +45312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW017": {
    "LavprisVVS": null,
@@ -45320,7 +45320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "417841BCT8": {
    "LavprisVVS": 4609.0,
@@ -45448,7 +45448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "73868000": {
    "LavprisVVS": null,
@@ -45456,7 +45456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "14847800": {
    "LavprisVVS": null,
@@ -45536,7 +45536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "ANT18080445": {
    "LavprisVVS": null,
@@ -45544,7 +45544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AND1808045": {
    "LavprisVVS": null,
@@ -45552,7 +45552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "EM-TR 02-W": {
    "LavprisVVS": null,
@@ -45752,7 +45752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4212.010": {
    "LavprisVVS": null,
@@ -45760,7 +45760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4283xA.010": {
    "LavprisVVS": null,
@@ -45768,7 +45768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4271xA.010": {
    "LavprisVVS": null,
@@ -45776,7 +45776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4251.010": {
    "LavprisVVS": null,
@@ -45784,7 +45784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007025105": {
    "LavprisVVS": null,
@@ -45792,7 +45792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007025080": {
    "LavprisVVS": null,
@@ -45800,7 +45800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "417943BCW2": {
    "LavprisVVS": null,
@@ -45944,7 +45944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24355GL0": {
    "LavprisVVS": null,
@@ -45952,7 +45952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "45005820": {
    "LavprisVVS": null,
@@ -46000,7 +46000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6010-MSR01-L-RPG1": {
    "LavprisVVS": null,
@@ -46168,7 +46168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520111": {
    "LavprisVVS": null,
@@ -46176,7 +46176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56047000": {
    "LavprisVVS": null,
@@ -46184,7 +46184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56054140": {
    "LavprisVVS": 4186.0,
@@ -46208,7 +46208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "671202": {
    "LavprisVVS": null,
@@ -46216,7 +46216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56054990": {
    "LavprisVVS": 4186.0,
@@ -46232,7 +46232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56054340": {
    "LavprisVVS": 4186.0,
@@ -46256,7 +46256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4286xA.010": {
    "LavprisVVS": null,
@@ -46264,7 +46264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "417841BCW2": {
    "LavprisVVS": null,
@@ -46392,7 +46392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26220700": {
    "LavprisVVS": 4359.0,
@@ -46480,7 +46480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MAP17080465": {
    "LavprisVVS": null,
@@ -46488,7 +46488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "CRO1808045": {
    "LavprisVVS": null,
@@ -46496,7 +46496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "ACA1808042": {
    "LavprisVVS": null,
@@ -46504,7 +46504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "OSBA040-PN274": {
    "LavprisVVS": null,
@@ -46760,7 +46760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794514": {
    "LavprisVVS": null,
@@ -46768,7 +46768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794484": {
    "LavprisVVS": null,
@@ -46776,7 +46776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523068": {
    "LavprisVVS": null,
@@ -46784,7 +46784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4274.010": {
    "LavprisVVS": null,
@@ -46792,7 +46792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "115202111": {
    "LavprisVVS": null,
@@ -46864,7 +46864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "19317DC1": {
    "LavprisVVS": null,
@@ -46944,7 +46944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "TOS17080425": {
    "LavprisVVS": null,
@@ -46952,7 +46952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "TOS16080425": {
    "LavprisVVS": null,
@@ -46960,7 +46960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "HSEQ032-PN253": {
    "LavprisVVS": null,
@@ -47096,7 +47096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FL15090": {
    "LavprisVVS": null,
@@ -47104,7 +47104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4263.010": {
    "LavprisVVS": null,
@@ -47112,7 +47112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU026": {
    "LavprisVVS": null,
@@ -47520,7 +47520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28020140": {
    "LavprisVVS": null,
@@ -47528,7 +47528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28020990": {
    "LavprisVVS": null,
@@ -47536,7 +47536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6025-HS45-02-L/R PG1": {
    "LavprisVVS": null,
@@ -47656,7 +47656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523051": {
    "LavprisVVS": null,
@@ -47664,7 +47664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4176.010": {
    "LavprisVVS": null,
@@ -47672,7 +47672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FL14090": {
    "LavprisVVS": null,
@@ -47680,7 +47680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4258xA.010": {
    "LavprisVVS": null,
@@ -47688,7 +47688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4259xA.010": {
    "LavprisVVS": null,
@@ -47696,7 +47696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FL16090": {
    "LavprisVVS": null,
@@ -47704,7 +47704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5685R001": {
    "LavprisVVS": null,
@@ -47800,7 +47800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34113000": {
    "LavprisVVS": 4656.0,
@@ -47832,7 +47832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "TU169745425": {
    "LavprisVVS": null,
@@ -47840,7 +47840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "TU159745425": {
    "LavprisVVS": null,
@@ -47848,7 +47848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "BAL1707540": {
    "LavprisVVS": null,
@@ -47856,7 +47856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "LUP1707549": {
    "LavprisVVS": null,
@@ -47864,7 +47864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "TU149745425": {
    "LavprisVVS": null,
@@ -47872,7 +47872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW031": {
    "LavprisVVS": null,
@@ -47880,7 +47880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "UGT519033 PG2": {
    "LavprisVVS": null,
@@ -48008,7 +48008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4181.010": {
    "LavprisVVS": null,
@@ -48016,7 +48016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4282xA.010": {
    "LavprisVVS": null,
@@ -48024,7 +48024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4188.010": {
    "LavprisVVS": null,
@@ -48032,7 +48032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4266xA.010": {
    "LavprisVVS": null,
@@ -48040,7 +48040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4182.010": {
    "LavprisVVS": null,
@@ -48048,7 +48048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4257.010": {
    "LavprisVVS": null,
@@ -48056,7 +48056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4264.010": {
    "LavprisVVS": null,
@@ -48064,7 +48064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4256.010": {
    "LavprisVVS": null,
@@ -48072,7 +48072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "8M10S1RW": {
    "LavprisVVS": null,
@@ -48240,7 +48240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71474340": {
    "LavprisVVS": null,
@@ -48248,7 +48248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "010 4140 S": {
    "LavprisVVS": null,
@@ -48272,7 +48272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW081": {
    "LavprisVVS": null,
@@ -48280,7 +48280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "UHDF035-PN391": {
    "LavprisVVS": null,
@@ -48400,7 +48400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56054670": {
    "LavprisVVS": 3907.0,
@@ -48416,7 +48416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56046140": {
    "LavprisVVS": null,
@@ -48424,7 +48424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56053140": {
    "LavprisVVS": 4949.0,
@@ -48440,7 +48440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56054700": {
    "LavprisVVS": 3907.0,
@@ -48456,7 +48456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154440391": {
    "LavprisVVS": 4285.0,
@@ -48488,7 +48488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56046000": {
    "LavprisVVS": null,
@@ -48496,7 +48496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56053340": {
    "LavprisVVS": 3951.0,
@@ -48512,7 +48512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56047700": {
    "LavprisVVS": null,
@@ -48520,7 +48520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4220.010": {
    "LavprisVVS": null,
@@ -48528,7 +48528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4168.010": {
    "LavprisVVS": null,
@@ -48536,7 +48536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4245.010": {
    "LavprisVVS": null,
@@ -48544,7 +48544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4276xA.010": {
    "LavprisVVS": null,
@@ -48552,7 +48552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKW069": {
    "LavprisVVS": null,
@@ -48600,7 +48600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "34822000": {
    "LavprisVVS": 4438.0,
@@ -48672,7 +48672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "44529583": {
    "LavprisVVS": null,
@@ -48688,7 +48688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556050101": {
    "LavprisVVS": null,
@@ -48696,7 +48696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "100 2480": {
    "LavprisVVS": null,
@@ -48704,7 +48704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "10117000": {
    "LavprisVVS": 3798.0,
@@ -48728,7 +48728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "UHHY035-PN326": {
    "LavprisVVS": null,
@@ -48800,7 +48800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW013": {
    "LavprisVVS": null,
@@ -48808,7 +48808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4267.010": {
    "LavprisVVS": null,
@@ -48816,7 +48816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4190.010": {
    "LavprisVVS": null,
@@ -48824,7 +48824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4200.010": {
    "LavprisVVS": null,
@@ -48832,7 +48832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU019": {
    "LavprisVVS": null,
@@ -49120,7 +49120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "32507140": {
    "LavprisVVS": 3898.0,
@@ -49184,7 +49184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AR1707545L": {
    "LavprisVVS": null,
@@ -49192,7 +49192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "DOR1607550R": {
    "LavprisVVS": null,
@@ -49208,7 +49208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AR1707545R": {
    "LavprisVVS": null,
@@ -49216,7 +49216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28010340": {
    "LavprisVVS": null,
@@ -49224,7 +49224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28010990": {
    "LavprisVVS": null,
@@ -49232,7 +49232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28010140": {
    "LavprisVVS": null,
@@ -49240,7 +49240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MLT5160 PG1": {
    "LavprisVVS": null,
@@ -49376,7 +49376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56045000": {
    "LavprisVVS": null,
@@ -49384,7 +49384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794330": {
    "LavprisVVS": null,
@@ -49392,7 +49392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520043": {
    "LavprisVVS": null,
@@ -49400,7 +49400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56052990": {
    "LavprisVVS": 3834.0,
@@ -49424,7 +49424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56052000": {
    "LavprisVVS": 3834.0,
@@ -49440,7 +49440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "111580001": {
    "LavprisVVS": 3421.0,
@@ -49456,7 +49456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794309": {
    "LavprisVVS": null,
@@ -49464,7 +49464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154459001": {
    "LavprisVVS": 4337.0,
@@ -49480,7 +49480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794507": {
    "LavprisVVS": null,
@@ -49488,7 +49488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56052340": {
    "LavprisVVS": 3834.0,
@@ -49504,7 +49504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56052140": {
    "LavprisVVS": 3835.0,
@@ -49520,7 +49520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4275xA.010": {
    "LavprisVVS": null,
@@ -49528,7 +49528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU008": {
    "LavprisVVS": null,
@@ -49728,7 +49728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28020670": {
    "LavprisVVS": null,
@@ -49736,7 +49736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "HLL013033 PG1": {
    "LavprisVVS": null,
@@ -49864,7 +49864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW012": {
    "LavprisVVS": null,
@@ -49872,7 +49872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4279xA.010": {
    "LavprisVVS": null,
@@ -49880,7 +49880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4265xA.010": {
    "LavprisVVS": null,
@@ -49888,7 +49888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4269xA.010": {
    "LavprisVVS": null,
@@ -49896,7 +49896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW015": {
    "LavprisVVS": null,
@@ -49904,7 +49904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE16090": {
    "LavprisVVS": null,
@@ -49912,7 +49912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW016": {
    "LavprisVVS": null,
@@ -49920,7 +49920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU021": {
    "LavprisVVS": null,
@@ -50240,7 +50240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56051000": {
    "LavprisVVS": 4679.0,
@@ -50256,7 +50256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56051990": {
    "LavprisVVS": 4679.0,
@@ -50280,7 +50280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "111589001": {
    "LavprisVVS": null,
@@ -50296,7 +50296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56051140": {
    "LavprisVVS": 4679.0,
@@ -50312,7 +50312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56044000": {
    "LavprisVVS": null,
@@ -50320,7 +50320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56053700": {
    "LavprisVVS": 3690.0,
@@ -50336,7 +50336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "670812": {
    "LavprisVVS": null,
@@ -50344,7 +50344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007017105": {
    "LavprisVVS": null,
@@ -50352,7 +50352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4270xA.010": {
    "LavprisVVS": null,
@@ -50360,7 +50360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007017080": {
    "LavprisVVS": null,
@@ -50368,7 +50368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU014": {
    "LavprisVVS": null,
@@ -50568,7 +50568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "100 3170": {
    "LavprisVVS": null,
@@ -50576,7 +50576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71733340": {
    "LavprisVVS": null,
@@ -50856,7 +50856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56218700": {
    "LavprisVVS": null,
@@ -50888,7 +50888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4248.010": {
    "LavprisVVS": null,
@@ -50896,7 +50896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE16080": {
    "LavprisVVS": null,
@@ -50904,7 +50904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS10018040M": {
    "LavprisVVS": null,
@@ -50912,7 +50912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007023105": {
    "LavprisVVS": null,
@@ -50920,7 +50920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A7081R1": {
    "LavprisVVS": null,
@@ -51184,7 +51184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "DOM17075435": {
    "LavprisVVS": null,
@@ -51192,7 +51192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "COS1707543": {
    "LavprisVVS": null,
@@ -51200,7 +51200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AND1707545": {
    "LavprisVVS": null,
@@ -51208,7 +51208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "ACA1707542": {
    "LavprisVVS": null,
@@ -51216,7 +51216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "69191": {
    "LavprisVVS": null,
@@ -51224,7 +51224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6025-HS30-02-L/R PG1": {
    "LavprisVVS": null,
@@ -51352,7 +51352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56050990": {
    "LavprisVVS": 4499.0,
@@ -51368,7 +51368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56050340": {
    "LavprisVVS": 3600.0,
@@ -51384,7 +51384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56050000": {
    "LavprisVVS": 4499.0,
@@ -51400,7 +51400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56052700": {
    "LavprisVVS": 4499.0,
@@ -51416,7 +51416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56052670": {
    "LavprisVVS": 3140.0,
@@ -51432,7 +51432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "671003": {
    "LavprisVVS": null,
@@ -51440,7 +51440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56050140": {
    "LavprisVVS": 3600.0,
@@ -51456,7 +51456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56043140": {
    "LavprisVVS": 4499.0,
@@ -51472,7 +51472,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4249.010": {
    "LavprisVVS": null,
@@ -51480,7 +51480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE13090": {
    "LavprisVVS": null,
@@ -51488,7 +51488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4175.010": {
    "LavprisVVS": null,
@@ -51496,7 +51496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4268.010": {
    "LavprisVVS": null,
@@ -51504,7 +51504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE13080": {
    "LavprisVVS": null,
@@ -51512,7 +51512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4195.010": {
    "LavprisVVS": null,
@@ -51520,7 +51520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "500690011": {
    "LavprisVVS": null,
@@ -51920,7 +51920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW026": {
    "LavprisVVS": null,
@@ -51928,7 +51928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW024": {
    "LavprisVVS": null,
@@ -51936,7 +51936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW023": {
    "LavprisVVS": null,
@@ -51944,7 +51944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "BA15075455": {
    "LavprisVVS": null,
@@ -51952,7 +51952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AND1607545": {
    "LavprisVVS": null,
@@ -51960,7 +51960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "JU16075435": {
    "LavprisVVS": null,
@@ -51968,7 +51968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MCW514533 PG2": {
    "LavprisVVS": null,
@@ -52104,7 +52104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794460": {
    "LavprisVVS": null,
@@ -52112,7 +52112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794491": {
    "LavprisVVS": null,
@@ -52120,7 +52120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "111587001": {
    "LavprisVVS": null,
@@ -52128,7 +52128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FL12090": {
    "LavprisVVS": null,
@@ -52136,7 +52136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4166.010": {
    "LavprisVVS": null,
@@ -52144,7 +52144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4242.010": {
    "LavprisVVS": null,
@@ -52152,7 +52152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW011": {
    "LavprisVVS": null,
@@ -52160,7 +52160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FL120100": {
    "LavprisVVS": null,
@@ -52168,7 +52168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU020": {
    "LavprisVVS": null,
@@ -52288,7 +52288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "92210000": {
    "LavprisVVS": 3222.0,
@@ -52336,7 +52336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32515000": {
    "LavprisVVS": null,
@@ -52792,7 +52792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "523020": {
    "LavprisVVS": null,
@@ -52800,7 +52800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520029": {
    "LavprisVVS": null,
@@ -52808,7 +52808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601593": {
    "LavprisVVS": null,
@@ -52816,7 +52816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56044700": {
    "LavprisVVS": null,
@@ -52824,7 +52824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "161505": {
    "LavprisVVS": null,
@@ -52832,7 +52832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56051670": {
    "LavprisVVS": 15209.0,
@@ -52856,7 +52856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE14090": {
    "LavprisVVS": null,
@@ -52864,7 +52864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4251xA.010": {
    "LavprisVVS": null,
@@ -52872,7 +52872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "503130008": {
    "LavprisVVS": null,
@@ -53056,7 +53056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71733700": {
    "LavprisVVS": null,
@@ -53160,7 +53160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MAE16075425": {
    "LavprisVVS": null,
@@ -53168,7 +53168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28010700": {
    "LavprisVVS": null,
@@ -53176,7 +53176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6025-MS60-01 PG1": {
    "LavprisVVS": null,
@@ -53384,7 +53384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4262.010": {
    "LavprisVVS": null,
@@ -53392,7 +53392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE120100": {
    "LavprisVVS": null,
@@ -53400,7 +53400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4274xA.010": {
    "LavprisVVS": null,
@@ -53408,7 +53408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4222.010": {
    "LavprisVVS": null,
@@ -53416,7 +53416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "540500RW": {
    "LavprisVVS": null,
@@ -53528,7 +53528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "72801000": {
    "LavprisVVS": null,
@@ -53536,7 +53536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "26844990": {
    "LavprisVVS": null,
@@ -53640,7 +53640,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "76416670": {
    "LavprisVVS": null,
@@ -53792,7 +53792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MAE1507543": {
    "LavprisVVS": null,
@@ -53800,7 +53800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AQ1607042": {
    "LavprisVVS": null,
@@ -53808,7 +53808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AQ1397042": {
    "LavprisVVS": null,
@@ -53816,7 +53816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "209273": {
    "LavprisVVS": 737.0,
@@ -53832,7 +53832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "HLT0130 PG2": {
    "LavprisVVS": null,
@@ -53952,7 +53952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56043670": {
    "LavprisVVS": 4274.0,
@@ -53976,7 +53976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601251": {
    "LavprisVVS": null,
@@ -53984,7 +53984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520012": {
    "LavprisVVS": 104.0,
@@ -54000,7 +54000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE11090": {
    "LavprisVVS": null,
@@ -54008,7 +54008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4243.010": {
    "LavprisVVS": null,
@@ -54016,7 +54016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4240.010": {
    "LavprisVVS": null,
@@ -54024,7 +54024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4165.010": {
    "LavprisVVS": null,
@@ -54032,7 +54032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4164.010": {
    "LavprisVVS": null,
@@ -54040,7 +54040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007015080": {
    "LavprisVVS": null,
@@ -54048,7 +54048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLNE100100": {
    "LavprisVVS": null,
@@ -54056,7 +54056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4167.010": {
    "LavprisVVS": null,
@@ -54064,7 +54064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4241.010": {
    "LavprisVVS": null,
@@ -54072,7 +54072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU018": {
    "LavprisVVS": null,
@@ -54328,7 +54328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71734340": {
    "LavprisVVS": 3009.0,
@@ -54680,7 +54680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32018": {
    "LavprisVVS": null,
@@ -54688,7 +54688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "511379": {
    "LavprisVVS": null,
@@ -54696,7 +54696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4462.010": {
    "LavprisVVS": null,
@@ -54704,7 +54704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4263xA.010": {
    "LavprisVVS": null,
@@ -54712,7 +54712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW010": {
    "LavprisVVS": null,
@@ -54720,7 +54720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4254.010": {
    "LavprisVVS": null,
@@ -54728,7 +54728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4211.010": {
    "LavprisVVS": null,
@@ -54736,7 +54736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4163.010": {
    "LavprisVVS": null,
@@ -54744,7 +54744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4221.010": {
    "LavprisVVS": null,
@@ -54752,7 +54752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE14080": {
    "LavprisVVS": null,
@@ -54760,7 +54760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4179.010": {
    "LavprisVVS": null,
@@ -54768,7 +54768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4460.010": {
    "LavprisVVS": null,
@@ -54776,7 +54776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "8M10S101": {
    "LavprisVVS": null,
@@ -55152,7 +55152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28745140": {
    "LavprisVVS": null,
@@ -55184,7 +55184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34635000": {
    "LavprisVVS": 3658.0,
@@ -55208,7 +55208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24170AL1": {
    "LavprisVVS": null,
@@ -55376,7 +55376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "L170100RS": {
    "LavprisVVS": null,
@@ -55384,7 +55384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "L175135LS": {
    "LavprisVVS": null,
@@ -55392,7 +55392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "28010670": {
    "LavprisVVS": null,
@@ -55400,7 +55400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "209272": {
    "LavprisVVS": null,
@@ -55408,7 +55408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "L170100LS": {
    "LavprisVVS": null,
@@ -55416,7 +55416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "L160100RS": {
    "LavprisVVS": null,
@@ -55424,7 +55424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "L160100LS": {
    "LavprisVVS": null,
@@ -55432,7 +55432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "209271": {
    "LavprisVVS": null,
@@ -55440,7 +55440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "UGL514533 PG2": {
    "LavprisVVS": null,
@@ -55544,7 +55544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601293": {
    "LavprisVVS": null,
@@ -55552,7 +55552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32016": {
    "LavprisVVS": null,
@@ -55560,7 +55560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601294": {
    "LavprisVVS": 596.0,
@@ -55576,7 +55576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "670903": {
    "LavprisVVS": null,
@@ -55584,7 +55584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "515308": {
    "LavprisVVS": null,
@@ -55592,7 +55592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "670902": {
    "LavprisVVS": null,
@@ -55600,7 +55600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007009080": {
    "LavprisVVS": null,
@@ -55608,7 +55608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4250xA.010": {
    "LavprisVVS": null,
@@ -55616,7 +55616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007009105": {
    "LavprisVVS": null,
@@ -55624,7 +55624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4267xA.010": {
    "LavprisVVS": null,
@@ -55632,7 +55632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "447000R1": {
    "LavprisVVS": null,
@@ -55880,7 +55880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "56168800": {
    "LavprisVVS": null,
@@ -55928,7 +55928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71716670": {
    "LavprisVVS": 2849.0,
@@ -55992,7 +55992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "OKT019017 PG2": {
    "LavprisVVS": null,
@@ -56144,7 +56144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4185.010": {
    "LavprisVVS": null,
@@ -56152,7 +56152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4261.010": {
    "LavprisVVS": null,
@@ -56160,7 +56160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4264xA.010": {
    "LavprisVVS": null,
@@ -56168,7 +56168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09018040M": {
    "LavprisVVS": null,
@@ -56176,7 +56176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLNE10090": {
    "LavprisVVS": null,
@@ -56184,7 +56184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4256xA.010": {
    "LavprisVVS": null,
@@ -56192,7 +56192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4180.010": {
    "LavprisVVS": null,
@@ -56200,7 +56200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4255.010": {
    "LavprisVVS": null,
@@ -56208,7 +56208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW006": {
    "LavprisVVS": null,
@@ -56216,7 +56216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS08018040M": {
    "LavprisVVS": null,
@@ -56224,7 +56224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4162.010": {
    "LavprisVVS": null,
@@ -56232,7 +56232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4257xA.010": {
    "LavprisVVS": null,
@@ -56240,7 +56240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "61169450": {
    "LavprisVVS": null,
@@ -56456,7 +56456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32526000": {
    "LavprisVVS": 3363.0,
@@ -56552,7 +56552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "792804000001000": {
    "LavprisVVS": 3095.0,
@@ -56568,7 +56568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "6025-MS45-01-L/R PG2": {
    "LavprisVVS": null,
@@ -56672,7 +56672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794279": {
    "LavprisVVS": null,
@@ -56680,7 +56680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "536518": {
    "LavprisVVS": null,
@@ -56688,7 +56688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794248": {
    "LavprisVVS": null,
@@ -56696,7 +56696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56201800": {
    "LavprisVVS": null,
@@ -56704,7 +56704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56261800": {
    "LavprisVVS": null,
@@ -56712,7 +56712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794262": {
    "LavprisVVS": null,
@@ -56720,7 +56720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794224": {
    "LavprisVVS": null,
@@ -56728,7 +56728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "457534001": {
    "LavprisVVS": null,
@@ -56736,7 +56736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56262800": {
    "LavprisVVS": null,
@@ -56744,7 +56744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4273.010": {
    "LavprisVVS": null,
@@ -56752,7 +56752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4278.010": {
    "LavprisVVS": null,
@@ -56760,7 +56760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007013105": {
    "LavprisVVS": null,
@@ -56768,7 +56768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4245xA.010": {
    "LavprisVVS": null,
@@ -56776,7 +56776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007013080": {
    "LavprisVVS": null,
@@ -56784,7 +56784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A1551RW": {
    "LavprisVVS": null,
@@ -57072,7 +57072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "UHHX035-PN380": {
    "LavprisVVS": null,
@@ -57144,7 +57144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "515049": {
    "LavprisVVS": null,
@@ -57152,7 +57152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "670803": {
    "LavprisVVS": null,
@@ -57160,7 +57160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "670802": {
    "LavprisVVS": null,
@@ -57168,7 +57168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154451KS1": {
    "LavprisVVS": null,
@@ -57176,7 +57176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007007105": {
    "LavprisVVS": null,
@@ -57184,7 +57184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW007": {
    "LavprisVVS": null,
@@ -57192,7 +57192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4244xA.010": {
    "LavprisVVS": null,
@@ -57200,7 +57200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE11080": {
    "LavprisVVS": null,
@@ -57208,7 +57208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW009": {
    "LavprisVVS": null,
@@ -57216,7 +57216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4196.010": {
    "LavprisVVS": null,
@@ -57224,7 +57224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "22881500001": {
    "LavprisVVS": 3199.0,
@@ -57536,7 +57536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27247400": {
    "LavprisVVS": null,
@@ -57544,7 +57544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "16261000": {
    "LavprisVVS": 3430.0,
@@ -57696,7 +57696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "KOR1507041": {
    "LavprisVVS": null,
@@ -57704,7 +57704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "KOR1307039": {
    "LavprisVVS": null,
@@ -57712,7 +57712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "KOR18080415": {
    "LavprisVVS": null,
@@ -57720,7 +57720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "KOR17070415": {
    "LavprisVVS": null,
@@ -57728,7 +57728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "KOR1607041": {
    "LavprisVVS": null,
@@ -57736,7 +57736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "KOR1407040": {
    "LavprisVVS": null,
@@ -57744,7 +57744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AQ1707542": {
    "LavprisVVS": null,
@@ -57752,7 +57752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "209276": {
    "LavprisVVS": null,
@@ -57760,7 +57760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "209275": {
    "LavprisVVS": null,
@@ -57768,7 +57768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "PELHCT013033 PG2": {
    "LavprisVVS": null,
@@ -57856,7 +57856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601591": {
    "LavprisVVS": null,
@@ -57864,7 +57864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "515155": {
    "LavprisVVS": null,
@@ -57872,7 +57872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601094": {
    "LavprisVVS": null,
@@ -57880,7 +57880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601592": {
    "LavprisVVS": null,
@@ -57888,7 +57888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601590": {
    "LavprisVVS": null,
@@ -57896,7 +57896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4249xA.010": {
    "LavprisVVS": null,
@@ -57904,7 +57904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4247.010": {
    "LavprisVVS": null,
@@ -57912,7 +57912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4173.010": {
    "LavprisVVS": null,
@@ -57920,7 +57920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4268xA.010": {
    "LavprisVVS": null,
@@ -57928,7 +57928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW002": {
    "LavprisVVS": null,
@@ -57936,7 +57936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4248xA.010": {
    "LavprisVVS": null,
@@ -57944,7 +57944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "755706R1": {
    "LavprisVVS": null,
@@ -58248,7 +58248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24277000": {
    "LavprisVVS": null,
@@ -58328,7 +58328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "36455000": {
    "LavprisVVS": 6891.0,
@@ -58344,7 +58344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71754700": {
    "LavprisVVS": null,
@@ -58448,7 +58448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "131231SJ7": {
    "LavprisVVS": null,
@@ -58856,7 +58856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "SPNI040-PN414": {
    "LavprisVVS": null,
@@ -58896,7 +58896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26858340": {
    "LavprisVVS": null,
@@ -58920,7 +58920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "24355GN0": {
    "LavprisVVS": null,
@@ -58968,7 +58968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27337000": {
    "LavprisVVS": null,
@@ -58976,7 +58976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "19317MS1": {
    "LavprisVVS": null,
@@ -58984,7 +58984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26221990": {
    "LavprisVVS": 4698.0,
@@ -59064,7 +59064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "4287xA.010": {
    "LavprisVVS": null,
@@ -59072,7 +59072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24520700": {
    "LavprisVVS": 4651.0,
@@ -59128,7 +59128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "81149562": {
    "LavprisVVS": null,
@@ -59176,7 +59176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32540700": {
    "LavprisVVS": null,
@@ -59216,7 +59216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "44350230": {
    "LavprisVVS": null,
@@ -59224,7 +59224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24367000": {
    "LavprisVVS": null,
@@ -59256,7 +59256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "27674000": {
    "LavprisVVS": null,
@@ -59360,7 +59360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24354AL0": {
    "LavprisVVS": null,
@@ -59368,7 +59368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27039000": {
    "LavprisVVS": 5018.0,
@@ -59424,7 +59424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "59557130201": {
    "LavprisVVS": null,
@@ -59440,7 +59440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556130202": {
    "LavprisVVS": null,
@@ -59448,7 +59448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556030202": {
    "LavprisVVS": null,
@@ -59520,7 +59520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24366000": {
    "LavprisVVS": null,
@@ -59528,7 +59528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "36735000": {
    "LavprisVVS": 4399.0,
@@ -59544,7 +59544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556050102": {
    "LavprisVVS": null,
@@ -59552,7 +59552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59557050101": {
    "LavprisVVS": null,
@@ -59592,7 +59592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556130201": {
    "LavprisVVS": null,
@@ -59640,7 +59640,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "26858700": {
    "LavprisVVS": 4974.0,
@@ -59712,7 +59712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26099670": {
    "LavprisVVS": null,
@@ -59744,7 +59744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13264MG1": {
    "LavprisVVS": null,
@@ -59752,7 +59752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556071101": {
    "LavprisVVS": null,
@@ -59792,7 +59792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56045990": {
    "LavprisVVS": null,
@@ -59800,7 +59800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56045340": {
    "LavprisVVS": null,
@@ -59808,7 +59808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "27645000": {
    "LavprisVVS": null,
@@ -59904,7 +59904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5656RS01": {
    "LavprisVVS": 4634.0,
@@ -59920,7 +59920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "15573000": {
    "LavprisVVS": null,
@@ -59936,7 +59936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71474670": {
    "LavprisVVS": null,
@@ -59952,7 +59952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "41686LR1": {
    "LavprisVVS": null,
@@ -59984,7 +59984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27620000": {
    "LavprisVVS": null,
@@ -59992,7 +59992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24600140": {
    "LavprisVVS": null,
@@ -60000,7 +60000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "33714000": {
    "LavprisVVS": 3985.0,
@@ -60056,7 +60056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "44420100": {
    "LavprisVVS": null,
@@ -60064,7 +60064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73420700": {
    "LavprisVVS": null,
@@ -60168,7 +60168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28743340": {
    "LavprisVVS": null,
@@ -60176,7 +60176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28744140": {
    "LavprisVVS": null,
@@ -60184,7 +60184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26469000": {
    "LavprisVVS": null,
@@ -60192,7 +60192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "56274670": {
    "LavprisVVS": null,
@@ -60248,7 +60248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "19315001": {
    "LavprisVVS": null,
@@ -60256,7 +60256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "03419483": {
    "LavprisVVS": null,
@@ -60368,7 +60368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556031202": {
    "LavprisVVS": null,
@@ -60376,7 +60376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556031102": {
    "LavprisVVS": null,
@@ -60384,7 +60384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "75420700": {
    "LavprisVVS": 3088.0,
@@ -60400,7 +60400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59557031201": {
    "LavprisVVS": null,
@@ -60408,7 +60408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "76420670": {
    "LavprisVVS": 3179.0,
@@ -60424,7 +60424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556051001": {
    "LavprisVVS": null,
@@ -60528,7 +60528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24140140": {
    "LavprisVVS": 3479.0,
@@ -60584,7 +60584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556131201": {
    "LavprisVVS": null,
@@ -60664,7 +60664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27987000": {
    "LavprisVVS": 3173.0,
@@ -60712,7 +60712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13487GN0": {
    "LavprisVVS": null,
@@ -60760,7 +60760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32545990": {
    "LavprisVVS": null,
@@ -60792,7 +60792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "115622JT1": {
    "LavprisVVS": null,
@@ -60816,7 +60816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26257000": {
    "LavprisVVS": 2965.0,
@@ -60832,7 +60832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26258000": {
    "LavprisVVS": 3029.0,
@@ -60880,7 +60880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "43644LR1": {
    "LavprisVVS": null,
@@ -60928,7 +60928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24383700": {
    "LavprisVVS": null,
@@ -60936,7 +60936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24382700": {
    "LavprisVVS": null,
@@ -60944,7 +60944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24380700": {
    "LavprisVVS": null,
@@ -60952,7 +60952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27248400": {
    "LavprisVVS": null,
@@ -60960,7 +60960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24381670": {
    "LavprisVVS": null,
@@ -60984,7 +60984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32546000": {
    "LavprisVVS": null,
@@ -61024,7 +61024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "24373670": {
    "LavprisVVS": 3348.0,
@@ -61048,7 +61048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24371700": {
    "LavprisVVS": 3214.0,
@@ -61120,7 +61120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34464001": {
    "LavprisVVS": 2409.0,
@@ -61136,7 +61136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556171202": {
    "LavprisVVS": null,
@@ -61320,7 +61320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4184.010": {
    "LavprisVVS": null,
@@ -61328,7 +61328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4260.010": {
    "LavprisVVS": null,
@@ -61336,7 +61336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4242xA.010": {
    "LavprisVVS": null,
@@ -61344,7 +61344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "22891000001": {
    "LavprisVVS": 2680.0,
@@ -61456,7 +61456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "74821670": {
    "LavprisVVS": null,
@@ -61464,7 +61464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "72860800": {
    "LavprisVVS": null,
@@ -61584,7 +61584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "32565340": {
    "LavprisVVS": null,
@@ -61592,7 +61592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26626400": {
    "LavprisVVS": null,
@@ -61600,7 +61600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28744670": {
    "LavprisVVS": null,
@@ -61608,7 +61608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "32565990": {
    "LavprisVVS": null,
@@ -61616,7 +61616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28743670": {
    "LavprisVVS": null,
@@ -61680,7 +61680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "38411820": {
    "LavprisVVS": null,
@@ -61696,7 +61696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "45410820": {
    "LavprisVVS": null,
@@ -61888,7 +61888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154458001": {
    "LavprisVVS": 3002.0,
@@ -61912,7 +61912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600994": {
    "LavprisVVS": null,
@@ -61920,7 +61920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "535269": {
    "LavprisVVS": null,
@@ -61928,7 +61928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56200800": {
    "LavprisVVS": null,
@@ -61936,7 +61936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32012": {
    "LavprisVVS": 316.0,
@@ -61952,7 +61952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE12090": {
    "LavprisVVS": null,
@@ -61960,7 +61960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4459.010": {
    "LavprisVVS": null,
@@ -61968,7 +61968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "62044450": {
    "LavprisVVS": null,
@@ -62072,7 +62072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "30504000": {
    "LavprisVVS": null,
@@ -62112,7 +62112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26023000": {
    "LavprisVVS": 3439.0,
@@ -62128,7 +62128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "44380200": {
    "LavprisVVS": null,
@@ -62176,7 +62176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556031002": {
    "LavprisVVS": null,
@@ -62184,7 +62184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25250DL1": {
    "LavprisVVS": null,
@@ -62192,7 +62192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31487000": {
    "LavprisVVS": null,
@@ -62200,7 +62200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "72406000": {
    "LavprisVVS": null,
@@ -62232,7 +62232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556171101": {
    "LavprisVVS": null,
@@ -62320,7 +62320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "SETW010": {
    "LavprisVVS": null,
@@ -62328,7 +62328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "WIE154100S": {
    "LavprisVVS": null,
@@ -62336,7 +62336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "LUZ16590S": {
    "LavprisVVS": null,
@@ -62344,7 +62344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "6025-HS30-01-L/R PG2": {
    "LavprisVVS": null,
@@ -62496,7 +62496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007011105": {
    "LavprisVVS": null,
@@ -62504,7 +62504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007005080": {
    "LavprisVVS": null,
@@ -62512,7 +62512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4253.010": {
    "LavprisVVS": null,
@@ -62520,7 +62520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007005105": {
    "LavprisVVS": null,
@@ -62528,7 +62528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007011080": {
    "LavprisVVS": null,
@@ -62536,7 +62536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "61172450": {
    "LavprisVVS": null,
@@ -62880,7 +62880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24330670": {
    "LavprisVVS": null,
@@ -62888,7 +62888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24331700": {
    "LavprisVVS": 3209.0,
@@ -62904,7 +62904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24140700": {
    "LavprisVVS": null,
@@ -62912,7 +62912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24331670": {
    "LavprisVVS": 3209.0,
@@ -62960,7 +62960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556170101": {
    "LavprisVVS": null,
@@ -63040,7 +63040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "SETW415": {
    "LavprisVVS": null,
@@ -63056,7 +63056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "MCW513033 PG2": {
    "LavprisVVS": null,
@@ -63160,7 +63160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "537478": {
    "LavprisVVS": null,
@@ -63168,7 +63168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56199800": {
    "LavprisVVS": null,
@@ -63176,7 +63176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "515148": {
    "LavprisVVS": null,
@@ -63184,7 +63184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601292": {
    "LavprisVVS": null,
@@ -63192,7 +63192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56047800": {
    "LavprisVVS": null,
@@ -63200,7 +63200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601290": {
    "LavprisVVS": null,
@@ -63208,7 +63208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154460": {
    "LavprisVVS": null,
@@ -63216,7 +63216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600893": {
    "LavprisVVS": null,
@@ -63224,7 +63224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601291": {
    "LavprisVVS": null,
@@ -63232,7 +63232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4160.010": {
    "LavprisVVS": null,
@@ -63240,7 +63240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4243xA.010": {
    "LavprisVVS": null,
@@ -63248,7 +63248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE10070": {
    "LavprisVVS": null,
@@ -63256,7 +63256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FL12080": {
    "LavprisVVS": null,
@@ -63264,7 +63264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4167xA.010": {
    "LavprisVVS": null,
@@ -63272,7 +63272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4262xA.010": {
    "LavprisVVS": null,
@@ -63280,7 +63280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW005": {
    "LavprisVVS": null,
@@ -63288,7 +63288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLNE11080": {
    "LavprisVVS": null,
@@ -63296,7 +63296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE12080": {
    "LavprisVVS": null,
@@ -63304,7 +63304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "419356R1": {
    "LavprisVVS": null,
@@ -63464,7 +63464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "51012283": {
    "LavprisVVS": null,
@@ -63512,7 +63512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "36822000": {
    "LavprisVVS": null,
@@ -63520,7 +63520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27271000": {
    "LavprisVVS": 3639.0,
@@ -63544,7 +63544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59554010001": {
    "LavprisVVS": null,
@@ -63576,7 +63576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "87843173": {
    "LavprisVVS": null,
@@ -63696,7 +63696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MCT524517": {
    "LavprisVVS": null,
@@ -63848,7 +63848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "6712XX": {
    "LavprisVVS": null,
@@ -63856,7 +63856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56042700": {
    "LavprisVVS": 3419.0,
@@ -63872,7 +63872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4252.010": {
    "LavprisVVS": null,
@@ -63880,7 +63880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4177.010": {
    "LavprisVVS": null,
@@ -63888,7 +63888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLNE10080": {
    "LavprisVVS": null,
@@ -63896,7 +63896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4254xA.010": {
    "LavprisVVS": null,
@@ -63904,7 +63904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4241xA.010": {
    "LavprisVVS": null,
@@ -63912,7 +63912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09016040M": {
    "LavprisVVS": null,
@@ -63920,7 +63920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4246.010": {
    "LavprisVVS": null,
@@ -63928,7 +63928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "V&B44700001": {
    "LavprisVVS": null,
@@ -64144,7 +64144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "72827800": {
    "LavprisVVS": 3999.0,
@@ -64200,7 +64200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34195001": {
    "LavprisVVS": null,
@@ -64216,7 +64216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28746700": {
    "LavprisVVS": null,
@@ -64224,7 +64224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28746670": {
    "LavprisVVS": null,
@@ -64248,7 +64248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "56187800": {
    "LavprisVVS": null,
@@ -64256,7 +64256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "15773000": {
    "LavprisVVS": 2198.0,
@@ -64296,7 +64296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25250A01": {
    "LavprisVVS": null,
@@ -64304,7 +64304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71740990": {
    "LavprisVVS": null,
@@ -64504,7 +64504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "209312": {
    "LavprisVVS": null,
@@ -64696,7 +64696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56198800": {
    "LavprisVVS": null,
@@ -64704,7 +64704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "511362": {
    "LavprisVVS": null,
@@ -64712,7 +64712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600794": {
    "LavprisVVS": null,
@@ -64720,7 +64720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600793": {
    "LavprisVVS": null,
@@ -64728,7 +64728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS10014035M": {
    "LavprisVVS": null,
@@ -64736,7 +64736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A1551R1": {
    "LavprisVVS": null,
@@ -65088,7 +65088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "0974218333": {
    "LavprisVVS": null,
@@ -65104,7 +65104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59545130102": {
    "LavprisVVS": null,
@@ -65272,7 +65272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "SIGP100-PN258": {
    "LavprisVVS": null,
@@ -65312,7 +65312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56046800": {
    "LavprisVVS": null,
@@ -65320,7 +65320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56053800": {
    "LavprisVVS": 2699.0,
@@ -65336,7 +65336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601091": {
    "LavprisVVS": null,
@@ -65344,7 +65344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601003": {
    "LavprisVVS": null,
@@ -65352,7 +65352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS08016040M": {
    "LavprisVVS": null,
@@ -65360,7 +65360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW001": {
    "LavprisVVS": null,
@@ -65368,7 +65368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE10090": {
    "LavprisVVS": null,
@@ -65376,7 +65376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS10013035M": {
    "LavprisVVS": null,
@@ -65384,7 +65384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007003080": {
    "LavprisVVS": null,
@@ -65392,7 +65392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW004": {
    "LavprisVVS": null,
@@ -65400,7 +65400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW000": {
    "LavprisVVS": null,
@@ -65408,7 +65408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007003105": {
    "LavprisVVS": null,
@@ -65416,7 +65416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4261xA.010": {
    "LavprisVVS": null,
@@ -65424,7 +65424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "2288150000": {
    "LavprisVVS": 1961.0,
@@ -65624,7 +65624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "74801800": {
    "LavprisVVS": null,
@@ -65704,7 +65704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26322400": {
    "LavprisVVS": null,
@@ -65712,7 +65712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27983000": {
    "LavprisVVS": 3999.0,
@@ -65760,7 +65760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31460000": {
    "LavprisVVS": null,
@@ -65776,7 +65776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13264001": {
    "LavprisVVS": null,
@@ -65888,7 +65888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "SIL15095LS": {
    "LavprisVVS": null,
@@ -65896,7 +65896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "KAM170110RS": {
    "LavprisVVS": null,
@@ -65904,7 +65904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "05T3120": {
    "LavprisVVS": null,
@@ -65912,7 +65912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "FL16095RS": {
    "LavprisVVS": null,
@@ -65920,7 +65920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "FL15085RS": {
    "LavprisVVS": null,
@@ -65928,7 +65928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "SIL160100RS": {
    "LavprisVVS": null,
@@ -65936,7 +65936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "SIL15095RS": {
    "LavprisVVS": null,
@@ -65944,7 +65944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "LIN119815S": {
    "LavprisVVS": null,
@@ -65952,7 +65952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "FL16095LS": {
    "LavprisVVS": null,
@@ -65960,7 +65960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "FL15085LS": {
    "LavprisVVS": null,
@@ -65968,7 +65968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "MCT523043 PG2": {
    "LavprisVVS": null,
@@ -66040,7 +66040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794132": {
    "LavprisVVS": null,
@@ -66048,7 +66048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56045800": {
    "LavprisVVS": null,
@@ -66056,7 +66056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56052800": {
    "LavprisVVS": 2879.0,
@@ -66072,7 +66072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLNE9075": {
    "LavprisVVS": null,
@@ -66080,7 +66080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4255xA.010": {
    "LavprisVVS": null,
@@ -66088,7 +66088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4278xA.010": {
    "LavprisVVS": null,
@@ -66096,7 +66096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4273.010xA": {
    "LavprisVVS": null,
@@ -66104,7 +66104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "2290150000": {
    "LavprisVVS": 2266.0,
@@ -66312,7 +66312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "56070800": {
    "LavprisVVS": null,
@@ -66392,7 +66392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "73620670": {
    "LavprisVVS": null,
@@ -66400,7 +66400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26320000": {
    "LavprisVVS": 2243.0,
@@ -66432,7 +66432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "32548000": {
    "LavprisVVS": null,
@@ -66632,7 +66632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "14215GL0": {
    "LavprisVVS": null,
@@ -66664,7 +66664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "6969.305": {
    "LavprisVVS": null,
@@ -66792,7 +66792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600990": {
    "LavprisVVS": null,
@@ -66800,7 +66800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56041700": {
    "LavprisVVS": 3149.0,
@@ -66816,7 +66816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "515056": {
    "LavprisVVS": null,
@@ -66824,7 +66824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56041670": {
    "LavprisVVS": 2789.0,
@@ -66840,7 +66840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETDW003": {
    "LavprisVVS": null,
@@ -66848,7 +66848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "502825008": {
    "LavprisVVS": null,
@@ -67024,7 +67024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "72809000": {
    "LavprisVVS": null,
@@ -67136,7 +67136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24603670": {
    "LavprisVVS": null,
@@ -67144,7 +67144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "76620700": {
    "LavprisVVS": 2418.0,
@@ -67184,7 +67184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556171002": {
    "LavprisVVS": null,
@@ -67272,7 +67272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "6025-MS30-01-L/R PG1": {
    "LavprisVVS": null,
@@ -67344,7 +67344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600951": {
    "LavprisVVS": null,
@@ -67352,7 +67352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "111591001": {
    "LavprisVVS": null,
@@ -67360,7 +67360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56051800": {
    "LavprisVVS": 2609.0,
@@ -67376,7 +67376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154450": {
    "LavprisVVS": null,
@@ -67384,7 +67384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601002": {
    "LavprisVVS": null,
@@ -67392,7 +67392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56196800": {
    "LavprisVVS": null,
@@ -67400,7 +67400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007001080": {
    "LavprisVVS": null,
@@ -67408,7 +67408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE10080": {
    "LavprisVVS": null,
@@ -67416,7 +67416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS10012035M": {
    "LavprisVVS": null,
@@ -67424,7 +67424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "D007001105": {
    "LavprisVVS": null,
@@ -67432,7 +67432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLNE8080": {
    "LavprisVVS": null,
@@ -67440,7 +67440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09013035M": {
    "LavprisVVS": null,
@@ -67448,7 +67448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4247xA.010": {
    "LavprisVVS": null,
@@ -67456,7 +67456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "60284450": {
    "LavprisVVS": null,
@@ -67712,7 +67712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27636000": {
    "LavprisVVS": 2472.0,
@@ -67752,7 +67752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24403670": {
    "LavprisVVS": null,
@@ -67760,7 +67760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24405700": {
    "LavprisVVS": null,
@@ -67768,7 +67768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24601000": {
    "LavprisVVS": null,
@@ -67776,7 +67776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "16320820": {
    "LavprisVVS": 2384.0,
@@ -67792,7 +67792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24600000": {
    "LavprisVVS": null,
@@ -67800,7 +67800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "93664000": {
    "LavprisVVS": null,
@@ -67808,7 +67808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24262000": {
    "LavprisVVS": null,
@@ -67848,7 +67848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "40955DC1": {
    "LavprisVVS": null,
@@ -67856,7 +67856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "75420000": {
    "LavprisVVS": 2195.0,
@@ -67872,7 +67872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24167AL1": {
    "LavprisVVS": null,
@@ -67880,7 +67880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59556171001": {
    "LavprisVVS": null,
@@ -68000,7 +68000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "209301": {
    "LavprisVVS": null,
@@ -68008,7 +68008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "MCW513033": {
    "LavprisVVS": null,
@@ -68056,7 +68056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "6708XX": {
    "LavprisVVS": null,
@@ -68064,7 +68064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600892": {
    "LavprisVVS": null,
@@ -68080,7 +68080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56040700": {
    "LavprisVVS": 2969.0,
@@ -68096,7 +68096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600891": {
    "LavprisVVS": null,
@@ -68120,7 +68120,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56040670": {
    "LavprisVVS": 2969.0,
@@ -68136,7 +68136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SD 24367": {
    "LavprisVVS": null,
@@ -68144,7 +68144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SD 24366": {
    "LavprisVVS": null,
@@ -68152,7 +68152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4260xA.010": {
    "LavprisVVS": null,
@@ -68160,7 +68160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE9080": {
    "LavprisVVS": null,
@@ -68168,7 +68168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "60278450": {
    "LavprisVVS": null,
@@ -68432,7 +68432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26442000": {
    "LavprisVVS": null,
@@ -68440,7 +68440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26727670": {
    "LavprisVVS": null,
@@ -68488,7 +68488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71760340": {
    "LavprisVVS": null,
@@ -68496,7 +68496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26723670": {
    "LavprisVVS": null,
@@ -68504,7 +68504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26443000": {
    "LavprisVVS": null,
@@ -68512,7 +68512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26726670": {
    "LavprisVVS": null,
@@ -68520,7 +68520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24404670": {
    "LavprisVVS": null,
@@ -68528,7 +68528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27081400": {
    "LavprisVVS": 3054.0,
@@ -68544,7 +68544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24402700": {
    "LavprisVVS": null,
@@ -68552,7 +68552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24402670": {
    "LavprisVVS": null,
@@ -68560,7 +68560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "75620670": {
    "LavprisVVS": 2164.0,
@@ -68592,7 +68592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71760140": {
    "LavprisVVS": null,
@@ -68608,7 +68608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13117000": {
    "LavprisVVS": 2094.0,
@@ -68648,7 +68648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59545030001": {
    "LavprisVVS": null,
@@ -68656,7 +68656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59553130001": {
    "LavprisVVS": null,
@@ -68664,7 +68664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "100 3100": {
    "LavprisVVS": null,
@@ -68808,7 +68808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "209296": {
    "LavprisVVS": null,
@@ -68816,7 +68816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "6967.305": {
    "LavprisVVS": null,
@@ -69008,7 +69008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "537157": {
    "LavprisVVS": null,
@@ -69016,7 +69016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600851": {
    "LavprisVVS": null,
@@ -69024,7 +69024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600791": {
    "LavprisVVS": null,
@@ -69032,7 +69032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601511": {
    "LavprisVVS": null,
@@ -69040,7 +69040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600790": {
    "LavprisVVS": null,
@@ -69048,7 +69048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600792": {
    "LavprisVVS": null,
@@ -69056,7 +69056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "BD-90-FL": {
    "LavprisVVS": null,
@@ -69064,7 +69064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "3957400H": {
    "LavprisVVS": 2723.0,
@@ -69248,7 +69248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "57742173": {
    "LavprisVVS": null,
@@ -69272,7 +69272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "STB100 1220 S": {
    "LavprisVVS": null,
@@ -69280,7 +69280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "44569573": {
    "LavprisVVS": null,
@@ -69288,7 +69288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59552019522": {
    "LavprisVVS": null,
@@ -69296,7 +69296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "65132201": {
    "LavprisVVS": null,
@@ -69304,7 +69304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "58123000": {
    "LavprisVVS": 2915.0,
@@ -69416,7 +69416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "28020000": {
    "LavprisVVS": null,
@@ -69424,7 +69424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "OKT016014 PG2": {
    "LavprisVVS": null,
@@ -69520,7 +69520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601282": {
    "LavprisVVS": null,
@@ -69528,7 +69528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56038670": {
    "LavprisVVS": 2789.0,
@@ -69544,7 +69544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600703": {
    "LavprisVVS": null,
@@ -69552,7 +69552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56038700": {
    "LavprisVVS": 2879.0,
@@ -69568,7 +69568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09014035M": {
    "LavprisVVS": null,
@@ -69576,7 +69576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU003": {
    "LavprisVVS": null,
@@ -69720,7 +69720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "10823330": {
    "LavprisVVS": null,
@@ -69840,7 +69840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "56250800": {
    "LavprisVVS": 2699.0,
@@ -69888,7 +69888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24167A01": {
    "LavprisVVS": null,
@@ -70064,7 +70064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "58117140": {
    "LavprisVVS": 2362.0,
@@ -70176,7 +70176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "BD-80-FL": {
    "LavprisVVS": null,
@@ -70184,7 +70184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600802": {
    "LavprisVVS": null,
@@ -70192,7 +70192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4253xA.010": {
    "LavprisVVS": null,
@@ -70200,7 +70200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "546000R1": {
    "LavprisVVS": 2649.0,
@@ -70544,7 +70544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "51562293": {
    "LavprisVVS": null,
@@ -70656,7 +70656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "25252GL1": {
    "LavprisVVS": null,
@@ -70672,7 +70672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24382000": {
    "LavprisVVS": null,
@@ -70696,7 +70696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "25252DA1": {
    "LavprisVVS": null,
@@ -70712,7 +70712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24380000": {
    "LavprisVVS": null,
@@ -70720,7 +70720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "92518000": {
    "LavprisVVS": null,
@@ -70728,7 +70728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28745000": {
    "LavprisVVS": null,
@@ -70736,7 +70736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24168DL1": {
    "LavprisVVS": null,
@@ -70744,7 +70744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24168GN1": {
    "LavprisVVS": null,
@@ -70752,7 +70752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34169001": {
    "LavprisVVS": 1879.0,
@@ -70768,7 +70768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24331000": {
    "LavprisVVS": 2468.0,
@@ -70792,7 +70792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71760670": {
    "LavprisVVS": null,
@@ -70800,7 +70800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24381000": {
    "LavprisVVS": null,
@@ -70808,7 +70808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24141000": {
    "LavprisVVS": 2230.0,
@@ -70840,7 +70840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "76415700": {
    "LavprisVVS": null,
@@ -70848,7 +70848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "87849073": {
    "LavprisVVS": null,
@@ -71040,7 +71040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "700472000000000": {
    "LavprisVVS": 3539.0,
@@ -71312,7 +71312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600702": {
    "LavprisVVS": null,
@@ -71320,7 +71320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601570": {
    "LavprisVVS": null,
@@ -71328,7 +71328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56037700": {
    "LavprisVVS": 2699.0,
@@ -71344,7 +71344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601272": {
    "LavprisVVS": null,
@@ -71352,7 +71352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE9090": {
    "LavprisVVS": null,
@@ -71360,7 +71360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE9075": {
    "LavprisVVS": null,
@@ -71368,7 +71368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE8080": {
    "LavprisVVS": null,
@@ -71376,7 +71376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE7570": {
    "LavprisVVS": null,
@@ -71392,7 +71392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE9070": {
    "LavprisVVS": null,
@@ -71400,7 +71400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "TIAE8070": {
    "LavprisVVS": null,
@@ -71408,7 +71408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4246xA.010": {
    "LavprisVVS": null,
@@ -71416,7 +71416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU007": {
    "LavprisVVS": null,
@@ -71712,7 +71712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "32560000": {
    "LavprisVVS": 2195.0,
@@ -71728,7 +71728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24370000": {
    "LavprisVVS": 2372.0,
@@ -71760,7 +71760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "32545000": {
    "LavprisVVS": 2209.0,
@@ -71784,7 +71784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "44260200": {
    "LavprisVVS": null,
@@ -71792,7 +71792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24167DC1": {
    "LavprisVVS": null,
@@ -71800,7 +71800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "81109593": {
    "LavprisVVS": null,
@@ -71816,7 +71816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71745700": {
    "LavprisVVS": null,
@@ -72016,7 +72016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "209294": {
    "LavprisVVS": null,
@@ -72024,7 +72024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "6025-HB45-01-L/R- PG2": {
    "LavprisVVS": null,
@@ -72168,7 +72168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "V&B75570001": {
    "LavprisVVS": null,
@@ -72440,7 +72440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28746000": {
    "LavprisVVS": null,
@@ -72448,7 +72448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "84370130": {
    "LavprisVVS": null,
@@ -72456,7 +72456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "25252KF1": {
    "LavprisVVS": null,
@@ -72464,7 +72464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24168DA1": {
    "LavprisVVS": null,
@@ -72472,7 +72472,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24168A01": {
    "LavprisVVS": null,
@@ -72496,7 +72496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "100 1688": {
    "LavprisVVS": null,
@@ -72512,7 +72512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "72400000": {
    "LavprisVVS": null,
@@ -72520,7 +72520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "39410000": {
    "LavprisVVS": 2251.0,
@@ -72712,7 +72712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56036670": {
    "LavprisVVS": 2041.0,
@@ -72736,7 +72736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SD 24362": {
    "LavprisVVS": null,
@@ -72744,7 +72744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "503120008": {
    "LavprisVVS": null,
@@ -73088,7 +73088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28876000": {
    "LavprisVVS": 1698.0,
@@ -73176,7 +73176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "36770180": {
    "LavprisVVS": null,
@@ -73200,7 +73200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71714340": {
    "LavprisVVS": 1697.0,
@@ -73568,7 +73568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09012035M": {
    "LavprisVVS": null,
@@ -73576,7 +73576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A7061R1": {
    "LavprisVVS": null,
@@ -73688,7 +73688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-29"
+   "tjekket": "2026-11-17"
   },
   "74801000": {
    "LavprisVVS": 1893.0,
@@ -73808,7 +73808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "75615670": {
    "LavprisVVS": null,
@@ -73816,7 +73816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "75615700": {
    "LavprisVVS": null,
@@ -73824,7 +73824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "76615670": {
    "LavprisVVS": null,
@@ -73832,7 +73832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "100 1601 BN": {
    "LavprisVVS": null,
@@ -73840,7 +73840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26464000": {
    "LavprisVVS": 2258.0,
@@ -73888,7 +73888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "38411000": {
    "LavprisVVS": 1934.0,
@@ -73904,7 +73904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31084000": {
    "LavprisVVS": 2020.0,
@@ -74040,7 +74040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "14218GL0": {
    "LavprisVVS": null,
@@ -74096,7 +74096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "EM-WSR 01-L/R": {
    "LavprisVVS": null,
@@ -74184,7 +74184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601083": {
    "LavprisVVS": null,
@@ -74192,7 +74192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56042800": {
    "LavprisVVS": 2429.0,
@@ -74208,7 +74208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SD 24360": {
    "LavprisVVS": null,
@@ -74216,7 +74216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU002": {
    "LavprisVVS": null,
@@ -74440,7 +74440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601582": {
    "LavprisVVS": null,
@@ -74448,7 +74448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9700620": {
    "LavprisVVS": null,
@@ -74496,7 +74496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "FLNE9090": {
    "LavprisVVS": null,
@@ -74504,7 +74504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "61137450": {
    "LavprisVVS": 2879.0,
@@ -74592,7 +74592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A336101": {
    "LavprisVVS": null,
@@ -74696,7 +74696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "74807000": {
    "LavprisVVS": null,
@@ -74864,7 +74864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "OKT014517 PG2": {
    "LavprisVVS": null,
@@ -74968,7 +74968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SD 24359": {
    "LavprisVVS": null,
@@ -74976,7 +74976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SD 24358": {
    "LavprisVVS": null,
@@ -74984,7 +74984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS08012035M": {
    "LavprisVVS": null,
@@ -74992,7 +74992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09011035M": {
    "LavprisVVS": null,
@@ -75000,7 +75000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "H8309520003021": {
    "LavprisVVS": null,
@@ -75352,7 +75352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34766000": {
    "LavprisVVS": 1589.0,
@@ -75432,7 +75432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "OKT016017": {
    "LavprisVVS": null,
@@ -75600,7 +75600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601230": {
    "LavprisVVS": 1599.0,
@@ -75624,7 +75624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "55742001": {
    "LavprisVVS": null,
@@ -75840,7 +75840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26726000": {
    "LavprisVVS": 2598.0,
@@ -75928,7 +75928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13233180": {
    "LavprisVVS": null,
@@ -76016,7 +76016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56041800": {
    "LavprisVVS": 7289.0,
@@ -76040,7 +76040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS10010035M": {
    "LavprisVVS": null,
@@ -76048,7 +76048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A4158R1": {
    "LavprisVVS": null,
@@ -76312,7 +76312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "EM-WRT 01": {
    "LavprisVVS": null,
@@ -76432,7 +76432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "515018": {
    "LavprisVVS": null,
@@ -76440,7 +76440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56040800": {
    "LavprisVVS": 1119.0,
@@ -76456,7 +76456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "54600001": {
    "LavprisVVS": 2038.0,
@@ -76944,7 +76944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "6025-HB30-01-L/R PG1": {
    "LavprisVVS": null,
@@ -77048,7 +77048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600883": {
    "LavprisVVS": null,
@@ -77056,7 +77056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600982": {
    "LavprisVVS": null,
@@ -77064,7 +77064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09009035E": {
    "LavprisVVS": null,
@@ -77072,7 +77072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS09009035M": {
    "LavprisVVS": null,
@@ -77080,7 +77080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS08010035M": {
    "LavprisVVS": null,
@@ -77088,7 +77088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A0055R1": {
    "LavprisVVS": null,
@@ -77336,7 +77336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28631250": {
    "LavprisVVS": null,
@@ -77448,7 +77448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "209288": {
    "LavprisVVS": null,
@@ -77456,7 +77456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "OKT0530 PG2": {
    "LavprisVVS": null,
@@ -77576,7 +77576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600882": {
    "LavprisVVS": null,
@@ -77584,7 +77584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118971": {
    "LavprisVVS": null,
@@ -77592,7 +77592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118977": {
    "LavprisVVS": null,
@@ -77600,7 +77600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600972": {
    "LavprisVVS": null,
@@ -77608,7 +77608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520777": {
    "LavprisVVS": null,
@@ -77616,7 +77616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS07010035M": {
    "LavprisVVS": null,
@@ -77624,7 +77624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "55740001": {
    "LavprisVVS": null,
@@ -77800,7 +77800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "74803000": {
    "LavprisVVS": null,
@@ -78000,7 +78000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "OKT013017 PG2": {
    "LavprisVVS": null,
@@ -78176,7 +78176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56034000": {
    "LavprisVVS": 1537.0,
@@ -78192,7 +78192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "539076": {
    "LavprisVVS": null,
@@ -78200,7 +78200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600783": {
    "LavprisVVS": null,
@@ -78208,7 +78208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56037800": {
    "LavprisVVS": 1141.0,
@@ -78232,7 +78232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS08009035M": {
    "LavprisVVS": null,
@@ -78240,7 +78240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A706601": {
    "LavprisVVS": null,
@@ -78504,7 +78504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28632340": {
    "LavprisVVS": 1650.0,
@@ -78592,7 +78592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "58126180": {
    "LavprisVVS": 1919.0,
@@ -78696,7 +78696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520784": {
    "LavprisVVS": null,
@@ -78704,7 +78704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS07009035M": {
    "LavprisVVS": null,
@@ -78712,7 +78712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A4160R1": {
    "LavprisVVS": 1509.0,
@@ -79224,7 +79224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520685": {
    "LavprisVVS": null,
@@ -79232,7 +79232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601070": {
    "LavprisVVS": null,
@@ -79240,7 +79240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56033000": {
    "LavprisVVS": 1005.0,
@@ -79264,7 +79264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "RTS08008035M": {
    "LavprisVVS": null,
@@ -79272,7 +79272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU001": {
    "LavprisVVS": null,
@@ -79624,7 +79624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "ZALATF81": {
    "LavprisVVS": null,
@@ -79704,7 +79704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520661": {
    "LavprisVVS": null,
@@ -79712,7 +79712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118980": {
    "LavprisVVS": null,
@@ -79720,7 +79720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "01000180": {
    "LavprisVVS": null,
@@ -79728,7 +79728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "01002180": {
    "LavprisVVS": 1133.0,
@@ -80264,7 +80264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "72012000": {
    "LavprisVVS": null,
@@ -80288,7 +80288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "85279183": {
    "LavprisVVS": null,
@@ -80320,7 +80320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "180065": {
    "LavprisVVS": null,
@@ -80496,7 +80496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154153001": {
    "LavprisVVS": 522.0,
@@ -80512,7 +80512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "150170": {
    "LavprisVVS": null,
@@ -80520,7 +80520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "75230001": {
    "LavprisVVS": null,
@@ -81040,7 +81040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "HOE690947.305": {
    "LavprisVVS": null,
@@ -81048,7 +81048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "6025-WS30-01-L/R PG1": {
    "LavprisVVS": null,
@@ -81168,7 +81168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "537669": {
    "LavprisVVS": null,
@@ -81176,7 +81176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56031000": {
    "LavprisVVS": 832.0,
@@ -81200,7 +81200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "2335650000": {
    "LavprisVVS": 1409.0,
@@ -81352,7 +81352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "21022-02": {
    "LavprisVVS": null,
@@ -81448,7 +81448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71200670": {
    "LavprisVVS": null,
@@ -81672,7 +81672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118979": {
    "LavprisVVS": null,
@@ -81680,7 +81680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600911": {
    "LavprisVVS": null,
@@ -81688,7 +81688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600870": {
    "LavprisVVS": null,
@@ -81696,7 +81696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520647": {
    "LavprisVVS": null,
@@ -81704,7 +81704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "537010": {
    "LavprisVVS": null,
@@ -81712,7 +81712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600770": {
    "LavprisVVS": null,
@@ -81720,7 +81720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154337FW1": {
    "LavprisVVS": null,
@@ -81728,7 +81728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601210": {
    "LavprisVVS": null,
@@ -81736,7 +81736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118988": {
    "LavprisVVS": null,
@@ -81744,7 +81744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794415": {
    "LavprisVVS": null,
@@ -81752,7 +81752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118974": {
    "LavprisVVS": null,
@@ -81760,7 +81760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "180046": {
    "LavprisVVS": null,
@@ -81768,7 +81768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A705601": {
    "LavprisVVS": null,
@@ -81968,7 +81968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26867140": {
    "LavprisVVS": null,
@@ -82144,7 +82144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56030000": {
    "LavprisVVS": 1016.0,
@@ -82160,7 +82160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600811": {
    "LavprisVVS": null,
@@ -82168,7 +82168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601010": {
    "LavprisVVS": null,
@@ -82176,7 +82176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "537652": {
    "LavprisVVS": 48.0,
@@ -82192,7 +82192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A005501": {
    "LavprisVVS": null,
@@ -82400,7 +82400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU000": {
    "LavprisVVS": null,
@@ -82472,7 +82472,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "58316300": {
    "LavprisVVS": null,
@@ -82576,7 +82576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4370FK01": {
    "LavprisVVS": null,
@@ -82784,7 +82784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "96633000": {
    "LavprisVVS": 1023.0,
@@ -82952,7 +82952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "BD588RO": {
    "LavprisVVS": 1045.0,
@@ -83064,7 +83064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "14218DC0": {
    "LavprisVVS": null,
@@ -83184,7 +83184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28631000": {
    "LavprisVVS": 1017.0,
@@ -83248,7 +83248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26700000": {
    "LavprisVVS": null,
@@ -83280,7 +83280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A416G01": {
    "LavprisVVS": null,
@@ -83336,7 +83336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "40885AL0": {
    "LavprisVVS": null,
@@ -83448,7 +83448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "58316700": {
    "LavprisVVS": null,
@@ -83472,7 +83472,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "570017": {
    "LavprisVVS": null,
@@ -83480,7 +83480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "V&B9M746101": {
    "LavprisVVS": null,
@@ -83520,7 +83520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "21076-14": {
    "LavprisVVS": null,
@@ -83560,7 +83560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794217": {
    "LavprisVVS": null,
@@ -83568,7 +83568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794163": {
    "LavprisVVS": null,
@@ -83576,7 +83576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794187": {
    "LavprisVVS": null,
@@ -83584,7 +83584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "0719450000": {
    "LavprisVVS": 990.0,
@@ -83648,7 +83648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "58125180": {
    "LavprisVVS": 1435.0,
@@ -83664,7 +83664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "58115180": {
    "LavprisVVS": null,
@@ -83680,7 +83680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "43733601": {
    "LavprisVVS": null,
@@ -83896,7 +83896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "010 2110": {
    "LavprisVVS": null,
@@ -83944,7 +83944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118984": {
    "LavprisVVS": null,
@@ -83952,7 +83952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118982": {
    "LavprisVVS": null,
@@ -83960,7 +83960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118970": {
    "LavprisVVS": null,
@@ -83968,7 +83968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118985": {
    "LavprisVVS": null,
@@ -83976,7 +83976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118983": {
    "LavprisVVS": null,
@@ -83984,7 +83984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118972": {
    "LavprisVVS": null,
@@ -83992,7 +83992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "118973": {
    "LavprisVVS": null,
@@ -84000,7 +84000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "43003R01": {
    "LavprisVVS": 1089.0,
@@ -84088,7 +84088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "180064": {
    "LavprisVVS": null,
@@ -84256,7 +84256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "BD589SI": {
    "LavprisVVS": 895.0,
@@ -84288,7 +84288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "43445301": {
    "LavprisVVS": null,
@@ -84480,7 +84480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "61006450": {
    "LavprisVVS": 1529.0,
@@ -84496,7 +84496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520715": {
    "LavprisVVS": null,
@@ -84504,7 +84504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "600810": {
    "LavprisVVS": null,
@@ -84512,7 +84512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "572120000": {
    "LavprisVVS": 1223.0,
@@ -84800,7 +84800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETKU016": {
    "LavprisVVS": null,
@@ -85016,7 +85016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56055800": {
    "LavprisVVS": 886.0,
@@ -85032,7 +85032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73173701": {
    "LavprisVVS": null,
@@ -85080,7 +85080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "52105700": {
    "LavprisVVS": 1028.0,
@@ -85152,7 +85152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "517005": {
    "LavprisVVS": null,
@@ -85160,7 +85160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4A416001": {
    "LavprisVVS": 769.0,
@@ -85360,7 +85360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794156": {
    "LavprisVVS": null,
@@ -85368,7 +85368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794002": {
    "LavprisVVS": null,
@@ -85376,7 +85376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794026": {
    "LavprisVVS": null,
@@ -85384,7 +85384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "115080KJ1": {
    "LavprisVVS": null,
@@ -85584,7 +85584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26096000": {
    "LavprisVVS": null,
@@ -85704,7 +85704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "9240669": {
    "LavprisVVS": null,
@@ -85904,7 +85904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "724597": {
    "LavprisVVS": null,
@@ -85912,7 +85912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "43703801": {
    "LavprisVVS": null,
@@ -86016,7 +86016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "10790000": {
    "LavprisVVS": 363.0,
@@ -86064,7 +86064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "H8989650000001": {
    "LavprisVVS": 588.0,
@@ -86112,7 +86112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "500836011": {
    "LavprisVVS": 946.0,
@@ -86232,7 +86232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "39577001": {
    "LavprisVVS": 689.0,
@@ -86352,7 +86352,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13593140": {
    "LavprisVVS": null,
@@ -86376,7 +86376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "25973000": {
    "LavprisVVS": null,
@@ -86392,7 +86392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "8159610001041": {
    "LavprisVVS": null,
@@ -86592,7 +86592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "H8989660000001": {
    "LavprisVVS": 519.0,
@@ -86704,7 +86704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9M38S101": {
    "LavprisVVS": 455.0,
@@ -86824,7 +86824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "797270": {
    "LavprisVVS": null,
@@ -86832,7 +86832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "VC130": {
    "LavprisVVS": null,
@@ -87232,7 +87232,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "50100670": {
    "LavprisVVS": 589.0,
@@ -87408,7 +87408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "520586": {
    "LavprisVVS": null,
@@ -87416,7 +87416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "0021690000": {
    "LavprisVVS": 805.0,
@@ -87648,7 +87648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24303670": {
    "LavprisVVS": 623.0,
@@ -87816,7 +87816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "58141180": {
    "LavprisVVS": 926.0,
@@ -87840,7 +87840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9240927": {
    "LavprisVVS": null,
@@ -88024,7 +88024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "52660001": {
    "LavprisVVS": 761.0,
@@ -88344,7 +88344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "95048000": {
    "LavprisVVS": null,
@@ -88360,7 +88360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "520555": {
    "LavprisVVS": null,
@@ -88584,7 +88584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "73561000": {
    "LavprisVVS": 575.0,
@@ -88776,7 +88776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "21075-14": {
    "LavprisVVS": null,
@@ -88896,7 +88896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "41772990": {
    "LavprisVVS": 545.0,
@@ -88968,7 +88968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "794095": {
    "LavprisVVS": null,
@@ -88976,7 +88976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "115062BZ1": {
    "LavprisVVS": null,
@@ -89256,7 +89256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "05.097.01..0000": {
    "LavprisVVS": null,
@@ -89264,7 +89264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "05.097.07..0000": {
    "LavprisVVS": null,
@@ -89272,7 +89272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "115882KJ1": {
    "LavprisVVS": null,
@@ -89384,7 +89384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "520531": {
    "LavprisVVS": null,
@@ -89408,7 +89408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "94139000": {
    "LavprisVVS": 528.0,
@@ -89744,7 +89744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "96200000": {
    "LavprisVVS": null,
@@ -89792,7 +89792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "96153800": {
    "LavprisVVS": null,
@@ -89816,7 +89816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "38732000": {
    "LavprisVVS": 296.0,
@@ -89992,7 +89992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "45631000": {
    "LavprisVVS": null,
@@ -90048,7 +90048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "250005001": {
    "LavprisVVS": 691.0,
@@ -90176,7 +90176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "13560180": {
    "LavprisVVS": null,
@@ -90184,7 +90184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "HH6-380-2": {
    "LavprisVVS": null,
@@ -90200,7 +90200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "115120465": {
    "LavprisVVS": null,
@@ -90320,7 +90320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-07"
+   "tjekket": "2026-11-17"
   },
   "92630000": {
    "LavprisVVS": null,
@@ -90384,7 +90384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "150130": {
    "LavprisVVS": 7238.0,
@@ -90456,7 +90456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "76034000": {
    "LavprisVVS": null,
@@ -90688,7 +90688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "73041000": {
    "LavprisVVS": null,
@@ -90896,7 +90896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73317670": {
    "LavprisVVS": null,
@@ -90992,7 +90992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24172DC1": {
    "LavprisVVS": null,
@@ -91072,7 +91072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "31685000": {
    "LavprisVVS": 617.0,
@@ -91368,7 +91368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71760000": {
    "LavprisVVS": 1846.0,
@@ -91440,7 +91440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28632140": {
    "LavprisVVS": 1399.0,
@@ -91456,7 +91456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28631700": {
    "LavprisVVS": null,
@@ -91464,7 +91464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "31608000": {
    "LavprisVVS": 1289.0,
@@ -91512,7 +91512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71090670": {
    "LavprisVVS": null,
@@ -91552,7 +91552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "97999800": {
    "LavprisVVS": null,
@@ -91560,7 +91560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28469250": {
    "LavprisVVS": null,
@@ -91568,7 +91568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "72581000": {
    "LavprisVVS": 1459.0,
@@ -91688,7 +91688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71710000": {
    "LavprisVVS": 1089.0,
@@ -91776,7 +91776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "01001180": {
    "LavprisVVS": 1134.0,
@@ -91792,7 +91792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "41886501": {
    "LavprisVVS": null,
@@ -91832,7 +91832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29233000": {
    "LavprisVVS": null,
@@ -91944,7 +91944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24183001": {
    "LavprisVVS": null,
@@ -91968,7 +91968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "OKT0530 PG1": {
    "LavprisVVS": null,
@@ -92008,7 +92008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28414180": {
    "LavprisVVS": 992.0,
@@ -92096,7 +92096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "601011": {
    "LavprisVVS": null,
@@ -92104,7 +92104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "115085JT1": {
    "LavprisVVS": null,
@@ -92128,7 +92128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26283670": {
    "LavprisVVS": null,
@@ -92136,7 +92136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "50868101": {
    "LavprisVVS": null,
@@ -92160,7 +92160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "45062283": {
    "LavprisVVS": null,
@@ -92240,7 +92240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13375DC0": {
    "LavprisVVS": null,
@@ -92264,7 +92264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "2335600000": {
    "LavprisVVS": null,
@@ -92320,7 +92320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26864670": {
    "LavprisVVS": null,
@@ -92328,7 +92328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "31509000": {
    "LavprisVVS": 1222.0,
@@ -92400,7 +92400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71091000": {
    "LavprisVVS": 1307.0,
@@ -92448,7 +92448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "73313000": {
    "LavprisVVS": null,
@@ -92472,7 +92472,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27413340": {
    "LavprisVVS": 1218.0,
@@ -92496,7 +92496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71704000": {
    "LavprisVVS": null,
@@ -92544,7 +92544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71254000": {
    "LavprisVVS": null,
@@ -92704,7 +92704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "115751001": {
    "LavprisVVS": 1113.0,
@@ -92824,7 +92824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26866700": {
    "LavprisVVS": 1002.0,
@@ -92864,7 +92864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "51300700": {
    "LavprisVVS": null,
@@ -92888,7 +92888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26094000": {
    "LavprisVVS": null,
@@ -92896,7 +92896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13612700": {
    "LavprisVVS": null,
@@ -92928,7 +92928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26584400": {
    "LavprisVVS": 879.0,
@@ -93032,7 +93032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "72550000": {
    "LavprisVVS": 824.0,
@@ -93064,7 +93064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "26531000": {
    "LavprisVVS": 787.0,
@@ -93160,7 +93160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13593670": {
    "LavprisVVS": null,
@@ -93168,7 +93168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "27446000": {
    "LavprisVVS": 950.0,
@@ -93184,7 +93184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "100 2500": {
    "LavprisVVS": null,
@@ -93272,7 +93272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71073000": {
    "LavprisVVS": 620.0,
@@ -93312,7 +93312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28624340": {
    "LavprisVVS": null,
@@ -93424,7 +93424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28622300": {
    "LavprisVVS": null,
@@ -93464,7 +93464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71592000": {
    "LavprisVVS": null,
@@ -93880,7 +93880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "96618800": {
    "LavprisVVS": null,
@@ -93920,7 +93920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "560805": {
    "LavprisVVS": 327.0,
@@ -94032,7 +94032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "520517": {
    "LavprisVVS": null,
@@ -94040,7 +94040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "152942111": {
    "LavprisVVS": null,
@@ -94192,7 +94192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24101670": {
    "LavprisVVS": 370.0,
@@ -94288,7 +94288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-04"
+   "tjekket": "2026-11-17"
   },
   "98915000": {
    "LavprisVVS": 372.0,
@@ -94360,7 +94360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "41752000": {
    "LavprisVVS": 324.0,
@@ -94440,7 +94440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13950670": {
    "LavprisVVS": null,
@@ -94528,7 +94528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "539106": {
    "LavprisVVS": null,
@@ -94536,7 +94536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "115770115": {
    "LavprisVVS": 324.0,
@@ -94608,7 +94608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "AH07115": {
    "LavprisVVS": null,
@@ -94616,7 +94616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "60-032": {
    "LavprisVVS": null,
@@ -94720,7 +94720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28276610": {
    "LavprisVVS": null,
@@ -94728,7 +94728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28276140": {
    "LavprisVVS": 347.0,
@@ -94744,7 +94744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "40084000": {
    "LavprisVVS": null,
@@ -94856,7 +94856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "40899000": {
    "LavprisVVS": null,
@@ -94904,7 +94904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27559000": {
    "LavprisVVS": null,
@@ -95016,7 +95016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28331700": {
    "LavprisVVS": 325.0,
@@ -95032,7 +95032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28230000": {
    "LavprisVVS": null,
@@ -95040,7 +95040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28272670": {
    "LavprisVVS": 281.0,
@@ -95064,7 +95064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "95836670": {
    "LavprisVVS": null,
@@ -95184,7 +95184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "96153670": {
    "LavprisVVS": null,
@@ -95192,7 +95192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "96153340": {
    "LavprisVVS": null,
@@ -95200,7 +95200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "575625": {
    "LavprisVVS": 363.0,
@@ -95392,7 +95392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9820361": {
    "LavprisVVS": null,
@@ -95552,7 +95552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "58185990": {
    "LavprisVVS": null,
@@ -95560,7 +95560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "58185340": {
    "LavprisVVS": null,
@@ -95568,7 +95568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "60053450": {
    "LavprisVVS": null,
@@ -95592,7 +95592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "151874": {
    "LavprisVVS": null,
@@ -95600,7 +95600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9240411": {
    "LavprisVVS": null,
@@ -95904,7 +95904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "96396000": {
    "LavprisVVS": null,
@@ -95952,7 +95952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "98556000": {
    "LavprisVVS": 214.0,
@@ -96008,7 +96008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "31795000": {
    "LavprisVVS": null,
@@ -96088,7 +96088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "130402": {
    "LavprisVVS": null,
@@ -96096,7 +96096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9880047": {
    "LavprisVVS": null,
@@ -96184,7 +96184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "649982": {
    "LavprisVVS": null,
@@ -96192,7 +96192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "147045001": {
    "LavprisVVS": null,
@@ -96256,7 +96256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "92572610": {
    "LavprisVVS": null,
@@ -96264,7 +96264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "97406670": {
    "LavprisVVS": null,
@@ -96304,7 +96304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "92577450": {
    "LavprisVVS": null,
@@ -96312,7 +96312,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "HH4-320": {
    "LavprisVVS": null,
@@ -96408,7 +96408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "0075041000": {
    "LavprisVVS": 174.0,
@@ -96464,7 +96464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "245735JQ1": {
    "LavprisVVS": null,
@@ -96544,7 +96544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "776619": {
    "LavprisVVS": 82.0,
@@ -96896,7 +96896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "674000": {
    "LavprisVVS": null,
@@ -96904,7 +96904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9030029": {
    "LavprisVVS": null,
@@ -97136,7 +97136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "09P1010007": {
    "LavprisVVS": null,
@@ -97184,7 +97184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "94051000": {
    "LavprisVVS": null,
@@ -97216,7 +97216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "93577700": {
    "LavprisVVS": null,
@@ -97224,7 +97224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "96397000": {
    "LavprisVVS": null,
@@ -97240,7 +97240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "96149000": {
    "LavprisVVS": null,
@@ -97304,7 +97304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "27925700": {
    "LavprisVVS": 89.0,
@@ -97336,7 +97336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "96901000": {
    "LavprisVVS": null,
@@ -97480,7 +97480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "1007250000": {
    "LavprisVVS": 55.0,
@@ -97504,7 +97504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "92175000": {
    "LavprisVVS": null,
@@ -97520,7 +97520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "98557000": {
    "LavprisVVS": 51.0,
@@ -97720,7 +97720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "170051": {
    "LavprisVVS": null,
@@ -97728,7 +97728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "170050": {
    "LavprisVVS": 250.0,
@@ -97928,7 +97928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "44390200": {
    "LavprisVVS": null,
@@ -97944,7 +97944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25250GL1": {
    "LavprisVVS": null,
@@ -97952,7 +97952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34425000": {
    "LavprisVVS": 2846.0,
@@ -97984,7 +97984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "25250KF1": {
    "LavprisVVS": null,
@@ -97992,7 +97992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "27694670": {
    "LavprisVVS": null,
@@ -98000,7 +98000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "56274800": {
    "LavprisVVS": null,
@@ -98024,7 +98024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "87849173": {
    "LavprisVVS": null,
@@ -98048,7 +98048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24168KF1": {
    "LavprisVVS": null,
@@ -98056,7 +98056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34824005": {
    "LavprisVVS": null,
@@ -98064,7 +98064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71765990": {
    "LavprisVVS": null,
@@ -98072,7 +98072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "59545010102": {
    "LavprisVVS": null,
@@ -98080,7 +98080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "10921180": {
    "LavprisVVS": 2070.0,
@@ -98104,7 +98104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "31946000": {
    "LavprisVVS": null,
@@ -98136,7 +98136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34835001": {
    "LavprisVVS": null,
@@ -98144,7 +98144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71765700": {
    "LavprisVVS": null,
@@ -98200,7 +98200,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59545010002": {
    "LavprisVVS": null,
@@ -98208,7 +98208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "16871820": {
    "LavprisVVS": 2328.0,
@@ -98224,7 +98224,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "1022022430": {
    "LavprisVVS": 1649.0,
@@ -98288,7 +98288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "40955001": {
    "LavprisVVS": null,
@@ -98296,7 +98296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26621000": {
    "LavprisVVS": null,
@@ -98320,7 +98320,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34814003": {
    "LavprisVVS": null,
@@ -98328,7 +98328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26401000": {
    "LavprisVVS": null,
@@ -98336,7 +98336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26623400": {
    "LavprisVVS": null,
@@ -98344,7 +98344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26621400": {
    "LavprisVVS": null,
@@ -98360,7 +98360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34768001": {
    "LavprisVVS": null,
@@ -98392,7 +98392,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59552019501": {
    "LavprisVVS": null,
@@ -98400,7 +98400,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28631140": {
    "LavprisVVS": null,
@@ -98416,7 +98416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24357700": {
    "LavprisVVS": 1697.0,
@@ -98440,7 +98440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24337700": {
    "LavprisVVS": 1687.0,
@@ -98520,7 +98520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "A7898AA": {
    "LavprisVVS": null,
@@ -98528,7 +98528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "34565002": {
    "LavprisVVS": null,
@@ -98544,7 +98544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59547130002": {
    "LavprisVVS": null,
@@ -98552,7 +98552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59547030002": {
    "LavprisVVS": null,
@@ -98560,7 +98560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26459000": {
    "LavprisVVS": null,
@@ -98576,7 +98576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "11626000": {
    "LavprisVVS": 2299.0,
@@ -98616,7 +98616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "347932430": {
    "LavprisVVS": null,
@@ -98624,7 +98624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "100 1670 S": {
    "LavprisVVS": null,
@@ -98672,7 +98672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28469990": {
    "LavprisVVS": null,
@@ -98680,7 +98680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28469800": {
    "LavprisVVS": null,
@@ -98688,7 +98688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "100 1670 BN": {
    "LavprisVVS": null,
@@ -98696,7 +98696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28469140": {
    "LavprisVVS": null,
@@ -98704,7 +98704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28631340": {
    "LavprisVVS": null,
@@ -98712,7 +98712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28469950": {
    "LavprisVVS": null,
@@ -98720,7 +98720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "45720000": {
    "LavprisVVS": 1512.0,
@@ -98744,7 +98744,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71450670": {
    "LavprisVVS": null,
@@ -98752,7 +98752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28464300": {
    "LavprisVVS": null,
@@ -98784,7 +98784,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28532000": {
    "LavprisVVS": 1392.0,
@@ -98800,7 +98800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26864140": {
    "LavprisVVS": null,
@@ -98808,7 +98808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "48150171": {
    "LavprisVVS": null,
@@ -98816,7 +98816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "45861000": {
    "LavprisVVS": null,
@@ -98824,7 +98824,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26865990": {
    "LavprisVVS": null,
@@ -98832,7 +98832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28464990": {
    "LavprisVVS": null,
@@ -98840,7 +98840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24168001": {
    "LavprisVVS": null,
@@ -98864,7 +98864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28464310": {
    "LavprisVVS": null,
@@ -98872,7 +98872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26864990": {
    "LavprisVVS": null,
@@ -98880,7 +98880,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28464140": {
    "LavprisVVS": null,
@@ -98896,7 +98896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28120300": {
    "LavprisVVS": null,
@@ -98904,7 +98904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28056670": {
    "LavprisVVS": 1401.0,
@@ -98936,7 +98936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26856000": {
    "LavprisVVS": null,
@@ -98944,7 +98944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26515140": {
    "LavprisVVS": null,
@@ -98952,7 +98952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26516340": {
    "LavprisVVS": null,
@@ -98960,7 +98960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24170670": {
    "LavprisVVS": 1252.0,
@@ -98976,7 +98976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26014340": {
    "LavprisVVS": null,
@@ -99024,7 +99024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71400670": {
    "LavprisVVS": null,
@@ -99032,7 +99032,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "47668000": {
    "LavprisVVS": null,
@@ -99040,7 +99040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71765000": {
    "LavprisVVS": 1480.0,
@@ -99064,7 +99064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13617140": {
    "LavprisVVS": null,
@@ -99088,7 +99088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28116310": {
    "LavprisVVS": null,
@@ -99096,7 +99096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "72450670": {
    "LavprisVVS": 1278.0,
@@ -99112,7 +99112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26277670": {
    "LavprisVVS": 1202.0,
@@ -99128,7 +99128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26515670": {
    "LavprisVVS": null,
@@ -99136,7 +99136,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26516670": {
    "LavprisVVS": null,
@@ -99144,7 +99144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "84380213": {
    "LavprisVVS": null,
@@ -99152,7 +99152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26281670": {
    "LavprisVVS": null,
@@ -99160,7 +99160,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26271670": {
    "LavprisVVS": 1202.0,
@@ -99176,7 +99176,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26014700": {
    "LavprisVVS": null,
@@ -99184,7 +99184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27668000": {
    "LavprisVVS": null,
@@ -99192,7 +99192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24611000": {
    "LavprisVVS": 1210.0,
@@ -99208,7 +99208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71243000": {
    "LavprisVVS": null,
@@ -99216,7 +99216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71605670": {
    "LavprisVVS": null,
@@ -99240,7 +99240,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27669000": {
    "LavprisVVS": null,
@@ -99248,7 +99248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "72668670": {
    "LavprisVVS": null,
@@ -99256,7 +99256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26867990": {
    "LavprisVVS": null,
@@ -99264,7 +99264,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26867340": {
    "LavprisVVS": null,
@@ -99272,7 +99272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26531340": {
    "LavprisVVS": 1264.0,
@@ -99288,7 +99288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26530990": {
    "LavprisVVS": 1117.0,
@@ -99336,7 +99336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "16325830": {
    "LavprisVVS": null,
@@ -99368,7 +99368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13624670": {
    "LavprisVVS": null,
@@ -99384,7 +99384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "36734000": {
    "LavprisVVS": null,
@@ -99432,7 +99432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "84310180": {
    "LavprisVVS": null,
@@ -99440,7 +99440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "74621670": {
    "LavprisVVS": null,
@@ -99448,7 +99448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24149140": {
    "LavprisVVS": 1275.0,
@@ -99464,7 +99464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28112990": {
    "LavprisVVS": null,
@@ -99472,7 +99472,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28536610": {
    "LavprisVVS": null,
@@ -99504,7 +99504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "97999000": {
    "LavprisVVS": 1023.0,
@@ -99528,7 +99528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28728700": {
    "LavprisVVS": null,
@@ -99600,7 +99600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26887340": {
    "LavprisVVS": 1198.0,
@@ -99632,7 +99632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "56226800": {
    "LavprisVVS": null,
@@ -99696,7 +99696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "84380113": {
    "LavprisVVS": null,
@@ -99704,7 +99704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28128800": {
    "LavprisVVS": null,
@@ -99712,7 +99712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26721000": {
    "LavprisVVS": null,
@@ -99720,7 +99720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28128140": {
    "LavprisVVS": null,
@@ -99728,7 +99728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26561400": {
    "LavprisVVS": 1295.0,
@@ -99752,7 +99752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28056000": {
    "LavprisVVS": 1034.0,
@@ -99776,7 +99776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26520140": {
    "LavprisVVS": 1099.0,
@@ -99816,7 +99816,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28127310": {
    "LavprisVVS": null,
@@ -99840,7 +99840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28127990": {
    "LavprisVVS": null,
@@ -99848,7 +99848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28127800": {
    "LavprisVVS": null,
@@ -99856,7 +99856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28127250": {
    "LavprisVVS": null,
@@ -99864,7 +99864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28127300": {
    "LavprisVVS": null,
@@ -99872,7 +99872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71600670": {
    "LavprisVVS": null,
@@ -99928,7 +99928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26572400": {
    "LavprisVVS": 1201.0,
@@ -99960,7 +99960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "100 1650 BN": {
    "LavprisVVS": null,
@@ -99968,7 +99968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28632000": {
    "LavprisVVS": 868.0,
@@ -99984,7 +99984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "100 1650 S": {
    "LavprisVVS": null,
@@ -99992,7 +99992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71263000": {
    "LavprisVVS": null,
@@ -100024,7 +100024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "72440000": {
    "LavprisVVS": 1017.0,
@@ -100040,7 +100040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "71468000": {
    "LavprisVVS": null,
@@ -100048,7 +100048,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "84330200": {
    "LavprisVVS": null,
@@ -100064,7 +100064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24149670": {
    "LavprisVVS": null,
@@ -100072,7 +100072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "14920000": {
    "LavprisVVS": null,
@@ -100080,7 +100080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24171000": {
    "LavprisVVS": 934.0,
@@ -100112,7 +100112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26583400": {
    "LavprisVVS": 927.0,
@@ -100144,7 +100144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13613140": {
    "LavprisVVS": null,
@@ -100208,7 +100208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24511140": {
    "LavprisVVS": 945.0,
@@ -100256,7 +100256,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "72667000": {
    "LavprisVVS": null,
@@ -100272,7 +100272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "100 2243": {
    "LavprisVVS": null,
@@ -100280,7 +100280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "84330100": {
    "LavprisVVS": null,
@@ -100288,7 +100288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "71668000": {
    "LavprisVVS": null,
@@ -100296,7 +100296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "31960000": {
    "LavprisVVS": 749.0,
@@ -100328,7 +100328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27776000": {
    "LavprisVVS": 835.0,
@@ -100416,7 +100416,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24400670": {
    "LavprisVVS": null,
@@ -100424,7 +100424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "56249800": {
    "LavprisVVS": 1052.0,
@@ -100440,7 +100440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "10531000": {
    "LavprisVVS": 768.0,
@@ -100504,7 +100504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24512700": {
    "LavprisVVS": 820.0,
@@ -100528,7 +100528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "84310200": {
    "LavprisVVS": null,
@@ -100544,7 +100544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26521400": {
    "LavprisVVS": 919.0,
@@ -100568,7 +100568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26531400": {
    "LavprisVVS": 1002.0,
@@ -100608,7 +100608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26025000": {
    "LavprisVVS": 921.0,
@@ -100640,7 +100640,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "15974180": {
    "LavprisVVS": 814.0,
@@ -100664,7 +100664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24132000": {
    "LavprisVVS": null,
@@ -100672,7 +100672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26887000": {
    "LavprisVVS": 1399.0,
@@ -100752,7 +100752,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "44780233": {
    "LavprisVVS": null,
@@ -100760,7 +100760,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24139140": {
    "LavprisVVS": 798.0,
@@ -100808,7 +100808,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28042670": {
    "LavprisVVS": null,
@@ -100840,7 +100840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28044670": {
    "LavprisVVS": 618.0,
@@ -100856,7 +100856,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24303700": {
    "LavprisVVS": 644.0,
@@ -100896,7 +100896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26421400": {
    "LavprisVVS": null,
@@ -100904,7 +100904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27704000": {
    "LavprisVVS": 735.0,
@@ -100920,7 +100920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28456000": {
    "LavprisVVS": null,
@@ -100928,7 +100928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28624670": {
    "LavprisVVS": null,
@@ -100944,7 +100944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28626950": {
    "LavprisVVS": null,
@@ -100952,7 +100952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28626300": {
    "LavprisVVS": null,
@@ -100960,7 +100960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "95065880": {
    "LavprisVVS": null,
@@ -100968,7 +100968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24500000": {
    "LavprisVVS": null,
@@ -100976,7 +100976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28626990": {
    "LavprisVVS": null,
@@ -100984,7 +100984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28626820": {
    "LavprisVVS": null,
@@ -100992,7 +100992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28626800": {
    "LavprisVVS": null,
@@ -101000,7 +101000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24512000": {
    "LavprisVVS": 631.0,
@@ -101016,7 +101016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24302670": {
    "LavprisVVS": 551.0,
@@ -101040,7 +101040,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "44780213": {
    "LavprisVVS": null,
@@ -101088,7 +101088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28387340": {
    "LavprisVVS": 686.0,
@@ -101104,7 +101104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28626670": {
    "LavprisVVS": null,
@@ -101128,7 +101128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28048000": {
    "LavprisVVS": 549.0,
@@ -101144,7 +101144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27356000": {
    "LavprisVVS": null,
@@ -101152,7 +101152,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28622950": {
    "LavprisVVS": null,
@@ -101168,7 +101168,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27809670": {
    "LavprisVVS": 565.0,
@@ -101192,7 +101192,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26810400": {
    "LavprisVVS": 677.0,
@@ -101216,7 +101216,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24301670": {
    "LavprisVVS": 518.0,
@@ -101248,7 +101248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28622670": {
    "LavprisVVS": null,
@@ -101272,7 +101272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "96500000": {
    "LavprisVVS": null,
@@ -101280,7 +101280,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "33555002": {
    "LavprisVVS": null,
@@ -101344,7 +101344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "97116000": {
    "LavprisVVS": null,
@@ -101408,7 +101408,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24302000": {
    "LavprisVVS": 447.0,
@@ -101432,7 +101432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "26506000": {
    "LavprisVVS": null,
@@ -101440,7 +101440,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28230340": {
    "LavprisVVS": null,
@@ -101448,7 +101448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24110140": {
    "LavprisVVS": 470.0,
@@ -101464,7 +101464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26534400": {
    "LavprisVVS": 435.0,
@@ -101480,7 +101480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24111140": {
    "LavprisVVS": 470.0,
@@ -101520,7 +101520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28250210": {
    "LavprisVVS": 567.0,
@@ -101536,7 +101536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28230700": {
    "LavprisVVS": null,
@@ -101544,7 +101544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "27451800": {
    "LavprisVVS": null,
@@ -101560,7 +101560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24321000": {
    "LavprisVVS": 448.0,
@@ -101608,7 +101608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26812400": {
    "LavprisVVS": 376.0,
@@ -101688,7 +101688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24110670": {
    "LavprisVVS": 367.0,
@@ -101768,7 +101768,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13097000": {
    "LavprisVVS": null,
@@ -101776,7 +101776,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28423000": {
    "LavprisVVS": 298.0,
@@ -101792,7 +101792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28220670": {
    "LavprisVVS": null,
@@ -101800,7 +101800,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28054000": {
    "LavprisVVS": null,
@@ -101848,7 +101848,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-10-31"
+   "tjekket": "2026-11-17"
   },
   "26455340": {
    "LavprisVVS": 365.0,
@@ -101928,7 +101928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28276340": {
    "LavprisVVS": 380.0,
@@ -101944,7 +101944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28276480": {
    "LavprisVVS": null,
@@ -101952,7 +101952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28276430": {
    "LavprisVVS": null,
@@ -101960,7 +101960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "13981430": {
    "LavprisVVS": null,
@@ -101968,7 +101968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28272990": {
    "LavprisVVS": 352.0,
@@ -102072,7 +102072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28331670": {
    "LavprisVVS": 271.0,
@@ -102088,7 +102088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "98940830": {
    "LavprisVVS": null,
@@ -102096,7 +102096,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "98940820": {
    "LavprisVVS": null,
@@ -102104,7 +102104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "96237000": {
    "LavprisVVS": null,
@@ -102112,7 +102112,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "16884000": {
    "LavprisVVS": 337.0,
@@ -102184,7 +102184,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26816400": {
    "LavprisVVS": 388.0,
@@ -102208,7 +102208,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28260000": {
    "LavprisVVS": 283.0,
@@ -102248,7 +102248,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28034670": {
    "LavprisVVS": 289.0,
@@ -102272,7 +102272,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26340670": {
    "LavprisVVS": 210.0,
@@ -102296,7 +102296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "24121000": {
    "LavprisVVS": 187.0,
@@ -102344,7 +102344,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28033000": {
    "LavprisVVS": 219.0,
@@ -102360,7 +102360,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "92578610": {
    "LavprisVVS": null,
@@ -102368,7 +102368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "92571450": {
    "LavprisVVS": null,
@@ -102376,7 +102376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "100 1655": {
    "LavprisVVS": null,
@@ -102384,7 +102384,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28034000": {
    "LavprisVVS": 231.0,
@@ -102424,7 +102424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26332400": {
    "LavprisVVS": 184.0,
@@ -102480,7 +102480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "49162000": {
    "LavprisVVS": null,
@@ -102488,7 +102488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26911000": {
    "LavprisVVS": null,
@@ -102496,7 +102496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "60066000": {
    "LavprisVVS": null,
@@ -102504,7 +102504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26090000": {
    "LavprisVVS": 204.0,
@@ -102536,7 +102536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "08864GN0": {
    "LavprisVVS": null,
@@ -102544,7 +102544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28346000": {
    "LavprisVVS": 103.0,
@@ -102576,7 +102576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26333400": {
    "LavprisVVS": 165.0,
@@ -102592,7 +102592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "08864DA0": {
    "LavprisVVS": null,
@@ -102600,7 +102600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "08864GL0": {
    "LavprisVVS": null,
@@ -102608,7 +102608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13926000": {
    "LavprisVVS": 121.0,
@@ -102632,7 +102632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "93573670": {
    "LavprisVVS": null,
@@ -102640,7 +102640,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "93571700": {
    "LavprisVVS": null,
@@ -102648,7 +102648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "93578670": {
    "LavprisVVS": null,
@@ -102656,7 +102656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "10089000": {
    "LavprisVVS": null,
@@ -102664,7 +102664,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "96708000": {
    "LavprisVVS": null,
@@ -103552,7 +103552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "59541131101": {
    "LavprisVVS": null,
@@ -105144,7 +105144,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29192001": {
    "LavprisVVS": null,
@@ -105600,7 +105600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "45012283": {
    "LavprisVVS": null,
@@ -105912,7 +105912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "72536000": {
    "LavprisVVS": 1278.0,
@@ -106896,7 +106896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "74715000": {
    "LavprisVVS": 798.0,
@@ -107496,7 +107496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28672880": {
    "LavprisVVS": null,
@@ -108056,7 +108056,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "98610000": {
    "LavprisVVS": null,
@@ -109288,7 +109288,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "8985908333": {
    "LavprisVVS": null,
@@ -109376,7 +109376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15484180": {
    "LavprisVVS": null,
@@ -109560,7 +109560,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4990.191451": {
    "LavprisVVS": null,
@@ -109632,7 +109632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28120340": {
    "LavprisVVS": null,
@@ -109792,7 +109792,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73410000": {
    "LavprisVVS": null,
@@ -110008,7 +110008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "72841000": {
    "LavprisVVS": null,
@@ -110328,7 +110328,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "26630000": {
    "LavprisVVS": 1642.0,
@@ -110432,7 +110432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "GEB551002SET": {
    "LavprisVVS": null,
@@ -110448,7 +110448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154503TE1": {
    "LavprisVVS": null,
@@ -110456,7 +110456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154503KS1": {
    "LavprisVVS": null,
@@ -110464,7 +110464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "54153230": {
    "LavprisVVS": 3400.0,
@@ -110480,7 +110480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "111003001": {
    "LavprisVVS": null,
@@ -110496,7 +110496,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154502KS1": {
    "LavprisVVS": null,
@@ -110504,7 +110504,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154501KS1": {
    "LavprisVVS": null,
@@ -110512,7 +110512,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "90111-02": {
    "LavprisVVS": null,
@@ -110840,7 +110840,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "29406GN0": {
    "LavprisVVS": null,
@@ -110864,7 +110864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551004SET": {
    "LavprisVVS": null,
@@ -110872,7 +110872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "34497000": {
    "LavprisVVS": 3259.0,
@@ -110888,7 +110888,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551003SET": {
    "LavprisVVS": null,
@@ -110896,7 +110896,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551002SET": {
    "LavprisVVS": null,
@@ -110904,7 +110904,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "40955GN1": {
    "LavprisVVS": null,
@@ -110912,7 +110912,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24174GL1": {
    "LavprisVVS": null,
@@ -110936,7 +110936,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28128300": {
    "LavprisVVS": null,
@@ -110944,7 +110944,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28626250": {
    "LavprisVVS": null,
@@ -110952,7 +110952,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "28622990": {
    "LavprisVVS": null,
@@ -110960,7 +110960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "08864MS0": {
    "LavprisVVS": null,
@@ -110984,7 +110984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551020SET": {
    "LavprisVVS": null,
@@ -110992,7 +110992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551013SET": {
    "LavprisVVS": null,
@@ -111000,7 +111000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551006SET": {
    "LavprisVVS": null,
@@ -111008,7 +111008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551005SET": {
    "LavprisVVS": null,
@@ -111016,7 +111016,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24601990": {
    "LavprisVVS": null,
@@ -111024,7 +111024,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-11"
+   "tjekket": "2026-11-17"
   },
   "111794001": {
    "LavprisVVS": null,
@@ -111064,7 +111064,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "9700224": {
    "LavprisVVS": null,
@@ -112008,7 +112008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "461141001": {
    "LavprisVVS": null,
@@ -112072,7 +112072,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551015SET": {
    "LavprisVVS": null,
@@ -112080,7 +112080,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551022SET": {
    "LavprisVVS": null,
@@ -112088,7 +112088,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26098000": {
    "LavprisVVS": null,
@@ -112104,7 +112104,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26843670": {
    "LavprisVVS": null,
@@ -112128,7 +112128,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "56171000": {
    "LavprisVVS": null,
@@ -112296,7 +112296,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13617700": {
    "LavprisVVS": null,
@@ -112304,7 +112304,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26531700": {
    "LavprisVVS": null,
@@ -112336,7 +112336,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13612670": {
    "LavprisVVS": null,
@@ -112368,7 +112368,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551581001": {
    "LavprisVVS": null,
@@ -112376,7 +112376,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13613000": {
    "LavprisVVS": null,
@@ -112424,7 +112424,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24592700": {
    "LavprisVVS": null,
@@ -112432,7 +112432,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "28083000": {
    "LavprisVVS": 3104.0,
@@ -112448,7 +112448,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56275670": {
    "LavprisVVS": null,
@@ -112456,7 +112456,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26319000": {
    "LavprisVVS": null,
@@ -112464,7 +112464,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56175000": {
    "LavprisVVS": null,
@@ -112480,7 +112480,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56276800": {
    "LavprisVVS": null,
@@ -112488,7 +112488,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "24372000": {
    "LavprisVVS": 1954.0,
@@ -112520,7 +112520,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13614140": {
    "LavprisVVS": null,
@@ -112528,7 +112528,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13618000": {
    "LavprisVVS": null,
@@ -112536,7 +112536,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "13617000": {
    "LavprisVVS": null,
@@ -112544,7 +112544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "56248800": {
    "LavprisVVS": 1075.0,
@@ -112576,7 +112576,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "26457700": {
    "LavprisVVS": null,
@@ -112584,7 +112584,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551026SET": {
    "LavprisVVS": null,
@@ -112592,7 +112592,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551016SET": {
    "LavprisVVS": null,
@@ -112600,7 +112600,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551008SET": {
    "LavprisVVS": null,
@@ -112608,7 +112608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551580001": {
    "LavprisVVS": null,
@@ -112616,7 +112616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551024SET": {
    "LavprisVVS": null,
@@ -112624,7 +112624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551009SET": {
    "LavprisVVS": null,
@@ -112632,7 +112632,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4198.010": {
    "LavprisVVS": null,
@@ -112640,7 +112640,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4199xA.010": {
    "LavprisVVS": null,
@@ -112648,7 +112648,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4198xA.010": {
    "LavprisVVS": null,
@@ -112656,7 +112656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "30860-02": {
    "LavprisVVS": null,
@@ -112672,7 +112672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551025SET": {
    "LavprisVVS": null,
@@ -112680,7 +112680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551010SET": {
    "LavprisVVS": null,
@@ -112688,7 +112688,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551017SET": {
    "LavprisVVS": null,
@@ -112696,7 +112696,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "4199.010": {
    "LavprisVVS": null,
@@ -112704,7 +112704,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "SETW427": {
    "LavprisVVS": null,
@@ -112712,7 +112712,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW426": {
    "LavprisVVS": null,
@@ -112720,7 +112720,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW425": {
    "LavprisVVS": null,
@@ -112728,7 +112728,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "SETW424": {
    "LavprisVVS": null,
@@ -112736,7 +112736,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-01"
+   "tjekket": "2026-11-17"
   },
   "30854-02": {
    "LavprisVVS": null,
@@ -112960,7 +112960,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154447KS2": {
    "LavprisVVS": null,
@@ -112968,7 +112968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154448QC2": {
    "LavprisVVS": null,
@@ -112976,7 +112976,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154448KS2": {
    "LavprisVVS": null,
@@ -112984,7 +112984,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154446QC2": {
    "LavprisVVS": null,
@@ -112992,7 +112992,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "154446KS2": {
    "LavprisVVS": null,
@@ -113000,7 +113000,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "551019SET": {
    "LavprisVVS": null,
@@ -113008,7 +113008,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "15312180": {
    "LavprisVVS": 7738.0,
@@ -117544,7 +117544,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "691640": {
    "LavprisVVS": null,
@@ -117552,7 +117552,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "29406000": {
    "LavprisVVS": null,
@@ -117568,7 +117568,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "21144000": {
    "LavprisVVS": null,
@@ -117608,7 +117608,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "691600": {
    "LavprisVVS": null,
@@ -117616,7 +117616,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "691130": {
    "LavprisVVS": null,
@@ -117624,7 +117624,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "73364700": {
    "LavprisVVS": null,
@@ -117656,7 +117656,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "116015SN1": {
    "LavprisVVS": null,
@@ -117672,7 +117672,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "6911/16XX": {
    "LavprisVVS": null,
@@ -117680,7 +117680,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "116015JQ1": {
    "LavprisVVS": null,
@@ -117832,7 +117832,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "116011115": {
    "LavprisVVS": null,
@@ -117864,7 +117864,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "693010": {
    "LavprisVVS": null,
@@ -117872,7 +117872,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "5760S101": {
    "LavprisVVS": null,
@@ -117920,7 +117920,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "694009": {
    "LavprisVVS": null,
@@ -117928,7 +117928,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "41764000": {
    "LavprisVVS": 498.0,
@@ -117968,7 +117968,7 @@ const KONKURRENT_DATA = {
    "CompletVVS": null,
    "billigste": null,
    "status": "ingen konkurrentpris fundet",
-   "tjekket": "2026-11-08"
+   "tjekket": "2026-11-17"
   },
   "111846001": {
    "LavprisVVS": null,
